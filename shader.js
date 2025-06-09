@@ -109,7 +109,6 @@ let startTime = performance.now();
 const mousePositionLocation = gl.getUniformLocation(shaderProgram, "mousePosition");
 document.addEventListener("mousemove", (event) => {
     const rect = canvas.getBoundingClientRect();
-    console.log(rect);
     let mouseX = event.clientX;
     let mouseY = rect.height - event.clientY;
     gl.uniform2f(mousePositionLocation, mouseX, mouseY);
