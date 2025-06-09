@@ -1,640 +1,447 @@
-name	author	downloadCount	description	creationTime	downloadRate
-Create: Fishing Bobber Detector | Automatic Fishing with Create	GLaD0S	1500000	Automatic fishing with create	677	2215.6573116691284
-Crafting Recipes For Create	braydog2040	19400	Crafting Recipes For Create	501	38.72255489021956
-Create: Genderless	DakotaPrideModding	631	An Addon for Create: Estrogen/Testosterone that adds more uses to Gender Fluid, along with new...	21	30.047619047619047
-Sophie's Alloys	Bentcheesee	137	A mod designed to revamp how tool progression works in Minecraft, while also giving options...	70	1.957142857142857
-Create: Cold Sweat	TheOrionPax	72900	Bridge mod between Create and Cold Sweat	139	524.4604316546763
-Create: Portable Addition	FLa1c	123	An addon to the Create craft addition that adds portable accumulators.	NaN	NaN
-Create Railways Navigator	MrJulsen	2100000	Get possible train connections in your world from one station to another using the Create...	577	3639.514731369151
-Create Big Cannons	rbasamoyai	9200000	Artillery engineering comes to Create	1056	8712.121212121212
-MinheurModding Bits'n'bobs	minheur2000	574	Craft spawn eggs, spawners and more !	353	1.6260623229461757
-Create: Better Motors	Reggarf	241000	Addon for Create: Craft & Additions, introducing upgraded versions of the 7 Electric Motor and...	171	1409.3567251461989
-Create: Structures Arise	SmartStreamLabs	796000	This Mod Adds 20 New Create Structures To Your World! Requires The Create...	408	1950.9803921568628
-Create: Fantasizing Again	ld_anvil	254	A mod that adds some powerful things for Create!	NaN	NaN
-Ponder for KubeJS	Lytho	18600000	Create custom Ponder scenes with KubeJS.	1124	16548.042704626336
-Ethium Reimagined	Cashhew	85	Ethium is a Create addon that adds a powerful new metal with a complex crafting...	11	7.7272727272727275
-Create Waystones Recipes	Reggarf	1100000	This mod change Waystones Recipes into create recipes	294	3741.496598639456
-Cobblemon: Create Industries (3D Production Models)	Cobblemore_Studio	7700	Create + Cobblemon : 3D Production of Balls, XP Candy, new Armor and Tools.	29	265.51724137931035
-Create: Food	average_anime	746000	Create: Food is an add-on for Farmer's Delight based on expanding food content found in...	519	1437.3795761078998
-HolyPackage	Arp_sys	4600	Adds rare package for each holycube member.	25	184
-Flat Pack Tweaks	Roxxane	5	Tweaks for the upcoming modpack Flat Pack	9	0.5555555555555556
-Create Horse Power - Together Strong	TheRealXAgent	97	A mixin mod to "Create Horse Power" which enables multiple animals to work together on...	8	12.125
-Create: Aquatic Ambitions	daviOliva	318000	Introduces new bulk process which allows for more options for Prismarine, Coral and Copper automation!	416	764.4230769230769
-Astral Dimension Create Compats (Milling and Crushing)	MadSciSlack	14800	A lightweight and simple mod to allow Astral Dimension flowers to be processed with Create...	510	29.019607843137255
-Create: Sweets & Treats (Reforged)	grosik	625	Unofficial version of Create: Sweets & Treats for Forge.	68	9.191176470588236
-Create: Deep Dark [Forge/NeoForge]	robinfrt	153000	A Create mod addon featuring new end-game items based on the Deep Dark biome, making...	388	394.3298969072165
-Create Encased	iglee42	4000000	Allow to use all casing on shafts/cogwheels/pipes	840	4761.9047619047615
-Create: Thermantics	Skytendo06	553	Create: Thermantics adds a player temperature system fully integrated with the Create mod.	70	7.9
-Create : Teleporters	Chilllliii	3300000	Create addon that adds teleporters!	840	3928.5714285714284
-Create Deco	talrey	21900000	Industrial decoration themed around the aesthetics of the Create mod.	1411	15520.907158043941
-Create: Rustic Structures [Forge/Fabric/NeoForge]	robinfrt	26400	This mod adds functional and decorative structures using Create blocks.	70	377.14285714285717
-Create: Ice & Creams	axollen	1400	adds creams & ice creams to the create mod (will have more ice creams over...	79	17.72151898734177
-Create: Herbology	DakotaPrideModding	3300	Integration between the Create mod and Hibernal Herbs	142	23.239436619718308
-Portal Builder: Create Edition	bisson2000	1100	Allows you to make your own portals compatible with Create!	86	12.790697674418604
-Create: More Chocolate	drenough455	21300	Adding more chocolate into create mod	414	51.44927536231884
-Create: Easy Structures	M_Productions	906000	A mod that adds structures with create blocks to Minecraft	546	1659.3406593406594
-Create : Creating Space	RealAntEngineer	580000	Create: Creating Space is a mod that allow you to create rocket using contraptions and...	765	758.1699346405229
-Create: Creative Glue	Roxxane	651	Adds creative glue, which can move almost anything & only be made/destroyed by creative players	77	8.454545454545455
-Create Optical	lpcamors	686000	Create addon all about a creative way to transport rotational energy	412	1665.0485436893205
-Create: Smart Crafter	Tatnux	294000	Add an autocrafting machine with an internal inventory that can store up to 9 different...	263	1117.87072243346
-Create: More Sand Papers	Dr_Mango_Tea	51200	Adds sand paper compat with biomes o plenty and oh the biomes you'll go	821	62.36297198538368
-Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge]	robinfrt	395000	Use Create jetpack and backtanks in Curios/Trinkets back slot.	340	1161.764705882353
-Create: Toolbox Utils	Peatral	562	Enchant toolboxes with loyalty to make them follow you around	81	6.938271604938271
-Create: Additional Recipes	TheGuy790	1600000	A simple Create addon that adds more recipes, making more items automatable.	534	2996.2546816479403
-Create Kart	stalosir	574000	This addon introduces an all-new vehicle: a fully functional kart, whose design is entirely automatable...	195	2943.5897435897436
-Create: Sky Village Forge & Fabric	SmartStreamLabs	42800	Village in the sky! filled with create loot, You won't steel items ?	264	162.12121212121212
-Integrated Dungeons and Structures	CraisinLord	16600000	Integrated Dungeons and Structures (aka IDAS) is a mod that adds heavily detailed structures using...	1163	14273.430782459158
-Create: Blazing Hot	dudko	40000	Molten metals, Metal Food, Blaze Gold, Nether-related content, QoL recipes and more.	320	125
-Create: Addon Compatibility	Amronos	197000	Adds compatibility between different create addons.	427	461.3583138173302
-Pollution Of Create	flaulox	49500	Addon for the Create Mod Backtank to work with Pollution of the Realms.	405	122.22222222222223
-Create Air (A ThinAir compat)	Silopante	1700000	Adds compatibility between Create and Thin Air. Making the player use diving tanks in deep...	715	2377.622377622378
-Create: Interiors	a0a7	7700000	A complement to the Create mod that adds new, functional furniture.	655	11755.725190839694
-Create: Extra Casing	Reggarf	109000	( create 6.0.0 compatible )This mod expands the customization options in the Create mod by...	127	858.2677165354331
-Create: Bells & Whistles	a0a7	7800000	Adornments and decorations for the aesthetically concerned Create engineer.	658	11854.103343465045
-Create Chromatic Return	phicctv	1200000	Adds 9 new Alloys, Light Sabers, Charms & New Automation Possibilities!	1426	841.5147265077139
-Create: Bio-Factory	Elenterius	50700	Bio-Factory is a add-on mod for Biomancy which adds dedicated compatibility for Create and bridges...	212	239.1509433962264
-Create: TrainUtilities(Fabric/Forge)	ProgrammerLP	85100	Mod that adds custom sliding doors with realistic opening & closing sounds and station blocks,...	374	227.54010695187165
-Better Create	yuriotavio	1200	Unusual recipes and creative creations	91	13.186813186813186
-Create Guardian Beam Defense	ibarnstormer_	715000	Addon for Create that adds in sophisticated laser defense systems	761	939.5532194480946
-CT++	moguang	6900	A mod for the compabilities between GTM and Create	169	40.828402366863905
-Create: Oxidized	pyzpre	1700000	Create: Oxidized brings oxidizing recipes to the Create mod	533	3189.493433395872
-Create: Diesel Generators	george8188262	4300000	A mod that adds Diesel Generators, Crude Oil Refinery and much more to the create...	738	5826.558265582656
-JAEPT	DragonEgg	610	A tweak mod for Just Another Expert Pack.	312	1.955128205128205
-Create: New Beginnings	Kessatsu	68000	Unique, vanilla+ structures added to villages and the world, featuring Create technology	288	236.11111111111111
-Create: Confectioneering	Rushmead	6500	A create addon adding different types and ways to make confectionary	147	44.21768707482993
-Create: Haven Qualities	CathieNova	781000	Add more blocks, items and recipes, an addon for Create.	683	1143.484626647145
-Create Low-Heated	zeh_maria	458000	Do you dislike passive heating? Replace it.	727	629.9862448418157
-Create: Dreams n' Desires	Luna	2700000	A mod that adds random stuff & that may try to fit within creates theme!...	749	3604.8064085447263
-Create: Fuel & Water Information	Jopgood	248000	An addon mod for Create Stuff & Additions & Create to display the player's fuel...	383	647.5195822454308
-Ars Creo	baileyholl2	23100000	An addon for Ars Nouveau and Create	1223	18887.980376124284
-Create: Alloyed	MythrilBagels	3500000	An addon for the Create mod that adds Steel and Bronze ingots, as well as...	1251	2797.761790567546
-Create Slice & Dice	possible_triangle	29400000	Making automation for Farmers Delight more sensible	1030	28543.68932038835
-Create: Ender Transmission	Forsteri123	3800000	Energy/Item/Fluid transmission with no space limit	907	4189.636163175303
-Create: Powerlines	Deepacat	13700	A fork of C:C&A for improving it's wire connectors	311	44.051446945337624
-Create: Cheese Factory [Forge/NeoForge]	robinfrt	63000	Build your own cheese factory with Create.	169	372.7810650887574
-Create Picky Wheels	zeh_maria	513000	Makes Create's Waterwheels and Windmills have requirements [biome, space, position].	743	690.4441453566621
-Create: Peaceful [Forge/Fabric/NeoForge]	robinfrt	56900	Tired of building mob farms? Or maybe you just want to play in Peaceful mode?...	421	135.15439429928742
-Create: Unbreakable Tools	anvian	160000	This is an addon mod for Create that provides a way to make your tools...	508	314.96062992125985
-Create : Misc & Things	To0pa	6100000	🔧 Add useful and fun things to Create	1047	5826.170009551099
-KubeJS Create	LatvianModder	32000000	KubeJS Create integration	1634	19583.843329253366
-Create Contraption Terminals	tom54541	560000	Allows Tom's Simple Storage Terminals to work on Create contraptions.	336	1666.6666666666667
-Create: Numismatics	IThundxr	1100000	Aesthetic & Functional Create styled currency mod	693	1587.3015873015872
-Create: Love & War	pttheta	607000	A survival focused gun mod for the thinking man	494	1228.7449392712551
-Create Goggles (Create Plus)	Robocraft999	6600000	Adds Goggle Helmets and Armored Backtanks for Create Mod	1874	3521.8783351120596
-Create: Ranged [Forge/Fabric/NeoForge]	robinfrt	30200	Automate the crafting of Tipped Arrows with Create.	166	181.9277108433735
-Create: Simple Ore Doubling [Forge/Fabric/NeoForge]	robinfrt	149000	Increase your ore yield with Create. Up to 3x return.	341	436.95014662756597
-Create: Easy Stone Generators [Forge/Fabric/NeoForge]	robinfrt	61900	Easier, lag-free stone generators using Create. Includes Cobblestone, Smooth Stone, Obsidian, Basalt, Limestone and Scoria...	106	583.9622641509434
-Saro´s Create [Forge/NeoForge]	Sarocesch	72600	An Addon For The Mod Create Adds New Recipes	825	88
-Create: Copper & Zinc [Forge/Fabric/NeoForge]	robinfrt	364000	An addon for the Create mod providing recipes for Veridium and Asurine, to give the...	473	769.5560253699789
-Create Easy Villagers Textures	Reggarf	24300	This is a Simple resource pack which change the textures in to create texture	297	81.81818181818181
-Create: Pantographs & Wires	MrJulsen	2200	A mod with catenary wires, pantographs and more for electric modern trains in Create.	135	16.296296296296298
-Create Oritech Compat	fixdol	26500	To compat between Create and Oritech	99	267.67676767676767
-Create: The Factory Must Grow	Dr_Mango_Tea	4100000	Heavy Engineering & Oil For The Create mod	958	4279.749478079332
-Create: Tweaked Controllers	getItemFromBlock	993000	A Create mod Addon that adds a way of controlling contraptions using an advanced controller.	675	1471.111111111111
-Create Compressed	nocubeyt	3000000	Adds full blocks for raw materials. Have less micro-management & more storage space!	700	4285.714285714285
-Destroy	Petrolpark	118000	A chemistry-themed add-on to Create	1039	113.57074109720885
-Occult Creations	gaeakat	56500	A mod to bridge the gap between Occultism and Create	463	122.03023758099351
-Create: The Air War	sonima	146000	This mod was created for aerial vehicles. The main function of the mod was to...	167	874.251497005988
-Old Elysium	DArcyOlla	3000	Themed decorative blocks	1571	1.9096117122851686
-Doppel's worse Create: Core	Doppel_R	5	The core mod for the "Doppel's worse Create" Modpack	102	0.049019607843137254
-Genesis: Additions	SageofTurtles	137	A supplementary mod designed for the Create: Genesis modpack.	154	0.8896103896103896
-Create: Experium ore	donne431	7300	This mod add a new ore - Experium	339	21.533923303834808
-Create: Crushing Quartz	donne431	37300	This small addon allows you to crush quartz into experience	415	89.87951807228916
-Create: Curios Backtank	donne431	110000	This mod allow pull backtank from Create into Curios slot	278	395.68345323741005
-ad astra creating space compatibility (Fixed)	Gameingareyou	2500	Adds compatibility between ad astra and creating space	288	8.680555555555555
-Create Train Additions	M_Productions	437000	A mod that adds modern train signals	857	509.91831971995333
-The Bad Breakers	sierrasunsets	191	Custom mod for the Mtron Complete modpack. Adds bad things that break.	125	1.528
-Drive-By-Wire	Endal	79400	Control your VS2 vehicles via Cables	126	630.1587301587301
-Create: Bigger Storage	Luna	15200	Bigger & Bigger Storages :3	114	133.33333333333334
-Create Milk Industry	stalosir	8500	This addons of create transforms Minecraft's milk into an essential resource with infinite possibilities! Thanks...	300	28.333333333333332
-Create: Full Automation	donbarzlol	30700	More automation for the create mod	492	62.39837398373984
-Create Additions & Synthetics	WorkLifeBalance	43700	Adds new recipes and items using the Create manifacturing processes to improve and streamline gameplay....	513	85.18518518518519
-Create: Goggle Placement	LieOnLion	11400	Configure the Placement of Goggles when using the Curios/Trinkets slot.	113	100.88495575221239
-Sophisticated Injections	mephodio	8400	Addon for Sophisticated Backpacks that adds an upgrade to quickly apply potions from tanks	122	68.85245901639344
-Legendary Survival Addon	Gaboouu	312	Add new way to cooling and heating with create	119	2.6218487394957983
-Umbra Poor Ores Create Addon	UmbraResistis	6000	A Create addon mod of an Exnihilo / SkyOrchards inspired Skyblock mod, based on being...	712	8.426966292134832
-Trackwork	Endal	802000	Wheels and Tracks to drive around your world	339	2365.7817109144544
-CreateTweaker	Jaredlll08	12400000	Adds CraftTweaker support for Create	1602	7740.324594257178
-Create Nuka Cola	fluffy_unicorn_army	2400	A mod that adds nuka cola to create!	132	18.181818181818183
-Create: Block n' Zapping	Luna	162000	An addon that Adds back Block Zapper from Old Create Versions & Reimagines it!	130	1246.1538461538462
-Create: Garnished Additions	PanPandaa	8600	Garnished Additions is an addon mod to Create: Garnished that will soon add over 100...	350	24.571428571428573
-KasugaLib	MegumiKasuga	677	KasugaLib is a base mod aiming at expediate modding. We are trying to reform date-gen...	245	2.763265306122449
-CBC: Nuclear	SnackPirate	57600	Small integration mod between Create Big Cannons and Alex's Caves.	335	171.9402985074627
-ARprod's Delight	ARprod	1500	Addon for Farmer's Delight adding various fast foods and caucasian meals	294	5.1020408163265305
-Create: Renewable Zeiton	Wolfram_24	74	A Create and Tardis Refined add-on that allows Zeiton to be renewable using Fool's Stone.	141	0.524822695035461
-World of Wonders ( Structures ) Forge	SmartStreamLabs	6600	Structures based of the mods: The Twilight Forest, Create, Alex's Caves, Biomes O' Plenty, Another...	318	20.754716981132077
-Create: Timeless and Classics Zero [TaCZ]	Googly12	182000	Detailed automation of Timeless and Classics Zero with Create!	256	710.9375
-Integrated Cataclysm	CraisinLord	483000	Overhauling L_Ender's Cataclysm structures with integration	167	2892.2155688622756
-Integrated Stronghold	CraisinLord	10600000	Integrated Stronghold is a mod that replaces the old and bland vanilla stronghold structure with...	869	12197.928653624856
-Create: Magics	Vlad_It_and_LPlayer	7500	This mod tends to try and combine "Create" and "Mana & Artifice" mods by adding...	199	37.688442211055275
-Iron Chests & Create	Ducker	3400	Adds recipes for the "Iron Chests" mod in Create!	144	23.61111111111111
-Elevators and Create	Ducker	11300	Adds recipes for the "OpenBlocks Elevator" mod in Create!	273	41.391941391941394
-Croptopia and Create	Ducker	43800	Adds recipes for the "Croptopia" mod in Create!	241	181.74273858921163
-Create: TaCZ Automation	TerraPixel	347000	Allows many items from Tac zero to be crafted automatically with create	298	1164.4295302013422
-Create: Ultimate Factory [Datapack]	robinfrt	36700	A datapack developed to increase automation possibilities with Create, adding 20+ (reasonably) balanced recipes to...	520	70.57692307692308
-Create: Radars	CeoOfGoogle1	336000	Adding advanced surveillance technologies to Create!	188	1787.2340425531916
-Create: New Tempest	GoatMorreti	54500	Create: New Tempest aims to bring Create mod functionality to the world of Tensura: Reincarnated....	164	332.3170731707317
-Create: Meds and Herbs: Automated	Googly12	24300	Automation of Meds and Herbs with Create!	442	54.977375565610856
-Create: Nuke	golden__skeleton	139000	Create: Nuke is an addon that allows you to get an Nuke EXCLUSIVELY for peaceful...	402	345.771144278607
-Create: Craftable Diamond	PANINI_0123	14500	73 coal = 1 diamond	422	34.360189573459714
-Mekanism The Factory Must Grow Compatibility	AkacioBahno	42400	Improves compatibility between Mekanism and TFMG	292	145.2054794520548
-Create: Rags to Riches	jetpacker06	2900	Manufacture diamonds with Create!	161	18.012422360248447
-Otherworld - Origins	MuonR	12100	Races, Classes, and More based off the DnD 5e Handbook [Inspired by Baldur's Gate 3]	227	53.30396475770925
-Create: Oppenheimered	betathunder1	480000	Adds crafting compat between Alex's Caves and Create.	579	829.0155440414508
-Create: Components and Additions	StormDragon_64	480000	A small Create addon I made for my Create-focused vanilla+ modpack, Create+.	829	579.0108564535585
-Create: Cobblemon Industrialized	Bracken40	1600000	Stylized compatibility between Cobblemon and Create!	727	2200.825309491059
-Create: Abuti	Poly12gon	4200	Create addon that adds some salmon sushi and a way to craft creative motors using...	171	24.56140350877193
-VS: Ship Handler	IAteMinecraf	4100	A mod to automatically remove those pesky random ships.	209	19.617224880382775
-Create: Molten Metallurgy	Nazaru	5700	An Addon for Create that adds Molten Metals, While also adding recipes from both other...	313	18.210862619808307
-Create Ad Astra Recipes	LittleButter66	32300	Makes Create More Compatible with Ad Astra	174	185.632183908046
-Create: JustARecipe	Doppel_R	6600	Simple mod that adds new and alternative recipes to create	203	32.51231527093596
-Fundamentally Fixed	Baisylia	51	Curing Minecraft of its fundamental flaws	702	0.07264957264957266
-Create: Steam 'n' Rails	IThundxr	41200000	Adding depth to Create's rail network & steam system	970	42474.22680412371
-Create: Stone Generator	thetj_	15800	A small addon to create the various create stones	406	38.916256157635466
-Create: Uncraftables Automation	Notaronzik	4700	This Create mod addon adds automation for clay and sand.	190	24.736842105263158
-Igneo's Mining Revamp	igneo220	129	Early beta revamp of minecrafts mining. Meant to feel like Deep Rock Galactic	186	0.6935483870967742
-Create: Let them eat Goo!	RegenStudios	6400	A simple canned processed food mod. Adds a way to sort, mix and package any...	187	34.224598930481285
-Create: Rainbow Compound	LunaGlaze	130000	This mod re-added the new recipe of Chromatic in Create and added a more advanced...	909	143.014301430143
-Creating Space Library	Gameingareyou	5600	Adds blocks and items for the offical CS modpack	191	29.319371727748692
-Create: Numismatics Recipes	cdredstone	6500	Convert between different coins in Create: Numismatics!	193	33.67875647668394
-Immersive Engineering Ore Doubling + Balance Tweaks (Datapack Version)	paulgb434	188	Return ore doubling for Immersive Engineering as per pre-1.17!	195	0.9641025641025641
-Immersive Engineering Ore Doubling + Balance Tweaks	paulgb434	2000	Returns ore doubling (for both the Crusher & Arc Furnace) as per the pre-1.17 levels....	195	10.256410256410257
-Create: Tool Master	Robotik	6000	A mod that adds small features to spice up the game!	261	22.988505747126435
-Create: The Kitchen Must Grow	MilkyFur	633000	Alcohol & Ultraprocessed Food	538	1176.5799256505577
-[Craftartaro] Food N Stuff	zeeks_xyz	498	Mod from the not at all popular Modpack/Server Craftartaro	288	1.7291666666666667
-StoryAnvil's Create: Tools RP	DenisJaved	297	Resource pack that adds tools from create materials	203	1.4630541871921183
-Create Firearms Patch (kinetic pixel)	JEDIGD	62200	Add blocks, material, recipes for Create Firearms-Kinetic Pixel	289	215.2249134948097
-Create: Station Decor	schnecke_7	42800	Create Addon that adds Decorative blocks for train Stations	373	114.74530831099196
-Create Logistics	Furti_Two	181000	📦 More compact than a vault, organize your inventory with an Item Silo	209	866.0287081339712
-Create: Tank Defenses	ItsRuby05	394000	Strong armor blocks meant to be used to protect your base, cannons and even tanks,...	394	1000
-Pixelmon Factory	Seristic	6900	Pixelmon Factory is a mod that bridges Pixelmon X Create together. This was inspired by...	224	30.803571428571427
-Create: Copper & Zinc [Datapack]	robinfrt	33900	This datapack adds recipes for Veridium and Asurine from the Create mod, to give the...	520	65.1923076923077
-Create: Quark Runes	LittleButter66	40900	Adds a sequened recipe to allow you to create the runes from the quark mod!	402	101.7412935323383
-Oh The Biomes We've Gone + Create (wood recipes)	BlackNek	250	Woodworking from "Oh The Biomes We've Gone" in Mechanical Saw from "Create".	219	1.1415525114155252
-Create: Progression	Kittymaster	178	Changes Recipes	224	0.7946428571428571
-Create: Enlightend [Forge/NeoForge]	robinfrt	22000	Adds crushed ore compatibility with Enlightend, bringing new items and recipes for Create.	225	97.77777777777777
-Create Renewability	TerraPixel	38900	Adds ways to renewably craft certain create resources	303	128.3828382838284
-Blaze Craft Reborn Beta (BCRB)	oreorobdog	3700	this CREATE ADDON adds tools and items that are better than Netherite this mod is...	383	9.660574412532638
-Create: More Farmables [Forge/Fabric]	Rockiecraft	35300	an addon for Create that adds items, Recipes, blocks and Fluids to make automation possible or...	496	71.16935483870968
-Create : Potato Firepower	CrimsonCrips	15000	Just a simple addon that makes potato cannons fire faster	453	33.11258278145695
-Create: Arms Race	perl	15100	Adds Create compatibility and automation recipes to Timeless and Classic Zero (TACZ)	295	51.186440677966104
-USP Unified Space Program	Yakiko	701	Integration/Compatibility for *ALL* space mods.	245	2.8612244897959185
-Create: Poly12gon's Easy Guns	Poly12gon	268	Datapack for Create and MrCrayfish's Gun Mod. You can make guns of 3 tiers(andesite alloy,...	247	1.0850202429149798
-Create Heat JS	XiaoHuNao	14000	Allow to use Kubejs, customize Create's Heat Source Block, HeatLevel.	363	38.56749311294766
-Spouting Fix	Erdragh	107000	Fixes an issue with Create's REI Implementation	249	429.718875502008
-Create: Unify	Luna	20000	Material Library for addons "avoiding the ingot dupe for create addons"	435	45.97701149425287
-Create Paper Line	oierbravo	13900	Automation line around paper and books.	672	20.68452380952381
-Forgotten structures	Wizrat	2800	A small structure mod	307	9.120521172638437
-Create: Dynamic Lights	leon_mout	279000	Add dynamic lights to the Create mod.	310	900
-Create: More Alloys	NotTouchedGrass	7900	Adds more alloys that can be used instead of andesite.	270	29.25925925925926
-Chaosket	Glitchlabs	27	a addon for the sky	374	0.07219251336898395
-Create: Ethium [Outdated - Check Desc.]	Cashhew	179000	A new powerful metal for the Create Mod	602	297.3421926910299
-Waystones and Create	Ducker	38000	Adds recipes for the "Waystones" mod in Create!	276	137.68115942028984
-Create: Curios Backtank [Datapack]	donne431	277	This datapack allow pull backtank from Create into Curios slot.	278	0.9964028776978417
-Create: Halitosis Create: Halitosis	panicnot422	20600	Fan processing recipes with an ender dragon head	280	73.57142857142857
-Creating space ores compatibility	Gameingareyou	64	Adds compatibility between creating space and other mods	280	0.22857142857142856
-Venders love and war: Flans mod x Create compat	pttheta	1900	Recipe compat between Flan's mod: Vender's game, and Create: Love and war	281	6.761565836298932
-CreaTaCZ	shopon	5100	Automatic ammo with Create	284	17.95774647887324
-Create Slugma	R3charged	31600	A Cobblemon and Create Mod Addon mod that adds the Slugma Burner.	302	104.63576158940397
-TIS-Create	PwnagePineapple	19800	TIS-3D Serial Port protocols for the Create ecosystem	835	23.7125748502994
-Create: Vintage Improvements	Negodya1	1400000	Some machines & compats	553	2531.6455696202534
-Create : Tools n' Weapons [BETA]	cosmaztics	7900	Don't think the potato cannon is enough? Don't worry, this mod has you covered, and...	293	26.962457337883958
-Create: Currency Shops	flaulox	939	Adds currency support to Create mod shops	11	85.36363636363636
-Create Jetpack	possible_triangle	13500000	Upgrade your backtank and utilize the pressurized air to fly	1041	12968.299711815562
-Create: Remote Terminal	Chaolux	106	Adds a remote terminal to access the Stock Keeper system.	8	13.25
-Create Stock Bridge	tom54541	35500	Links the Create Stock network with Applied Energistics	39	910.2564102564103
-Create: Filters Anywhere	the_iwolfking	110000	An addon for Create that expands usage of Attribute Filters and List Filters to support...	98	1122.4489795918366
-Create: Immersive Tacz Integration	MarcosJoestar	73500	This mod adds an immersive way to use Tacz into your Create playthrough using Create...	189	388.8888888888889
-Create: Copycats+	Lysine	13500000	All the copycats you've ever wanted, combined into a single mod!	497	27162.97786720322
-Integrated Dungeons Arise	Aarods21	204	Integrated Dungeons Arise is a Datapack that overhauls WDA with integration	12	17
-More Create Burners	DragonEgg	49000	A Create addons that adds more burners.	254	192.91338582677164
-Compressed Creativity	Lgmrszd	2100000	Bridging Create and PneumaticCraft: Repressurized together	1294	1622.8748068006182
-Create: Bigger Storage Updated to Create 6	LandscapesReimagined	476	This is an addon to Create: Bigger Storage that makes it compatible with Create 6....	9	52.888888888888886
-Austinsupercar's Dungeons and Bosses	austinsupercar	8500	Difficult dungeons and bosses with anti-cheat mechanics.	699	12.160228898426324
-Create: Fantastic Weapons	Forsteri123	1100	A lot of special attacks (24+!)	107	10.280373831775702
-Create: Mechanical Botany	DakotaPrideModding	685	Gather plants from automation	10	68.5
-Create More Recipes	iglee42	52600	Add more recipes type related to Create	267	197.00374531835206
-Create: SomeTricks	Retr0visor	177	Mod adds additional blocks and create-based recepies for some items and tricks for better...	33	5.363636363636363
-Create Gravel extractors	Brunixon2	5200	This is mine first mod for minecraft :) | This mod adds a new block...	182	28.571428571428573
-Create: Design n' Decor	Luna	5000000	A Create addon focused on QOL decoration features that expand on the base decoration ability...	603	8291.873963515754
-Create: Additional Crafts	zloydrakon	202	Adds crafts for netherrack and gunpowder.	10	20.2
-Create: Mechanical teleporter	oierbravo	317	Mechanical teleporters network	15	21.133333333333333
-Steel Armor Blocks Recipes: TFMG	AkacioBahno	4400	Recipes for Steel Armor Blocks mod using Stonecutting and Create Mixing	296	14.864864864864865
-EnhancedCraft	Enhance	331	A collection of mobs, items, blocks and oddities. Intended for the EnhancedCraft modpack.	322	1.0279503105590062
-Create: Northstar	lightning2401	159000	Inspired by Micdoodle's Galacticraft, Northstar seeks to return players to the stars with the power...	318	500
-Vintage KubeJS	Negodya1	40000	KubeJS support for Create: Vintage Improvements	309	129.44983818770226
-Create Numismatics Craft	VAXS	2200	Adds Craft to Create Numismatics	307	7.166123778501628
-Vault Fixes	CanadianBaconBoi	560	Optimizations and Fixes for Vault Hunters	493	1.1359026369168357
-Create: Cobblemon Tweaks	subthy	16100	A mod that changes Cobblemon recipes witth Create mod	339	47.49262536873157
-Sand Filter	DeeChael	1700	Add Thirst Was Taken sand filter to Legendary Survival Overhaul	318	5.345911949685535
-Create: Deepslate Processing	CakeIsTastyDeveloper	32400	Adds some recipes and items to make deepslate able to be processed into minerals.	320	101.25
-Create: Wither's Herb	rawsushi	23400	Joke mod about adding that one medical substance to the Create mod	317	73.81703470031546
-Clockwork: Create x Valkyrien Skies	rubydesic	1900000	The power of mechanical contraptions meets the wackiness of physics- with a magical twist!	879	2161.547212741752
-Create Multimeter	Falcon314	16	Adds a Multimeter to the Create mod	315	0.050793650793650794
-Create: Dynamic Village	a0a7	3700000	An expansion to Create that adds a fully-featured host of Create-mod village professions.	613	6035.889070146819
-Create: Automate Everything	MrAtomicBombHead	31900	A Create Mod addon that allows you automate many more items.	320	99.6875
-Create Compact Exp	nocubeyt	1800000	Simple Create add-on to save space in your storage.	903	1993.3554817275747
-Create Advanced Horses	lukeonDaCat	6500	Mod adding horse meat...	328	19.817073170731707
-Skylands Core	TheArchitects777	1600	This adds the portals and the progression for the "Escape the Skylands" modpack	430	3.7209302325581395
-Create: Modern Train Parts	dugske	911000	This is a create addon that implements modern railway systems, cargo and deco blocks for...	827	1101.571946795647
-Create Planetary Tweaks	celsiusqc	1800000	adds items and tweaks for Create Planetary modpack	1180	1525.4237288135594
-Apotheotic Creation	themaxpowa	101000	Apotheosis/Create Addon	525	192.38095238095238
-Create Tweaks and Compatibility	JoeySchmoe	41	Custom personal datapack meant to add some small recipe changes to Create as well as...	340	0.12058823529411765
-Create: Water Mesh	soularox	907	Adds a water mesh that automatically refills at a rate of 1 bucket per second....	339	2.6755162241887906
-Create Panda	ThePandaXXL	8000	Create Panda adds items like a bamboo cake or bamboo glazed apples	594	13.468013468013469
-Create: Jet Engine	akki_kayo	74	Add Jet Engines to Create Mod. Let's Fly Away!	342	0.21637426900584794
-Create: Props And Misc	gamerbenyt	5900	Create: Props And Misc is an addon for the popular Minecraft Create mod, enhancing your...	342	17.251461988304094
-Cogs of Carminite	jodlodi	5700	Addon mod for both Create mod and the Twilight Forest mod	469	12.153518123667377
-Create: Precise Manufacturing	T32	560	A Create Mod Addon that aims to incorporate automatable recipes using TaC Zero's mod items.	343	1.6326530612244898
-Garnished Botany Pots	PanPandaa	20600	GBP adds compatibility between Create: Garnished’s Plants & Nuts and Botany Pots, so you can...	350	58.857142857142854
-create: tempad	Axolotl_Man	3800	texture pack for tempad that makes it look more in the create style	347	10.951008645533141
-WATERCoRE: Chat Format and Luckperms	SrRapero720	22400	Powerfull Mod to enhance Forge Servers porting features from popular Bukkit plugins (EssentialsX & Luckperms)	894	25.05592841163311
-Buddycards Expansions	wildcard_gamer	88300	Cross-mod integration for Buddycards, adding new cards to collect!	1240	71.20967741935483
-Create: Factory	antopfr90	2200000	🍬 A lot of new foods added to Create!	1122	1960.7843137254902
-Create Weaponry	celsiusqc	380000	Weapon making through molten metals w/ casts and custom weapons	741	512.8205128205128
-Create: Edible Belts	Halogen	38800	Adds a whole new meaning to "belt spaghetti".	1046	37.09369024856596
-Extreme Reactors Create Compat	ZeroNoRyouki	29000	Create compatibility module for Extreme Reactors	580	50
-Create: Balanced Flight (Angel Ring)	Txni	831000	An "Angel Ring" addon for Create that doesn't break the game.	1328	625.7530120481928
-Blaze Remover	solewap	3700	Remove blazes from blaze burners	391	9.462915601023019
-Create: Crystal Clear	singularity_cyvack	5800000	A mod that adds glass casings to create	1008	5753.9682539682535
-Create Style Hopper	moromorochan	544000	Adding remodeled hopper look like Createmod things.	811	670.7768187422935
-PBI - 3	Quatrogamer	230	This mod was created for the modpack: Project: Build It 3 and adds new recipes...	414	0.5555555555555556
-CFB	SCsupercraft	21900	Official Mod for the modpack Create: Factory Builder	506	43.280632411067195
-RedstoneStick's Ironman	GuwyTheSlimeBoi	15400	Iron Man Armors with Depleting Ammo and Energy	895	17.206703910614525
-GBPTweaker	thedoctorofdoctoring	4500	Tweaks for GBP	713	6.3113604488078545
-Create Extra Recipes	YenHusk	4900	Lots of new recipes for the Create mod.	850	5.764705882352941
-Pigeon's Create Recipes	PigeonholeAu	14100	Adds niche quality of life recipes to the Create mod.	534	26.40449438202247
-Create: Cobblemon Factory	Sh4d0wJ0J0	53300	Auto farm Cobblemon balls with Create	388	137.37113402061857
-Create Guns	End_Rage	1800000	The Create mod aesthetic on MrCrayfish's Gun mod	1231	1462.225832656377
-Create Mob Eggs	eightkv	154000	Allows obtaining mob eggs in Create Mod.	559	275.4919499105546
-NGS's ScorchedGun Stats and Create Recipe	NeonGreenShades	2100	Crafting recipes and Weapon Stats for Scorched Bronze mod, balanced around Create for automation and...	393	5.343511450381679
-Jack's Economy (Create Edition)	FlapjacksMods	223000	Automatable Economy Mod For Modpacks or Servers with Create Integration	639	348.9827856025039
-Sticky Foundations	GuwyTheSlimeBoi	13000	All the Ores, Core Mechanics and General Machines for Guwy's Mods	875	14.857142857142858
-Create: Amazing Trading	Robocraft999	52800	Trading system based on gaining points from selling items and buying them back from the...	397	132.99748110831234
-Create clear glass	Dankest0	4500	Transparent Create glass textures	402	11.194029850746269
-Create: Stuff & Crafts	sonomremi	5300	Bring smeltery to create mod	402	13.18407960199005
-Create: More Renewable	cmn1yes	29700	Adds more recipes using create machines	625	47.52
-Create Hand Crafting	sir_Robson	454000	A completely new item crafting system for the Create mod	547	829.981718464351
-Create Cafe	Myst	3500000	Adds Drinks like Boba Milk Tea and Coffee using Create mod machines	1319	2653.52539802881
-Create: Broken Bad	jetpacker06	1700000	Adds a new field of science to Create.	1084	1568.2656826568266
-MoeCS	moepus	298	Spelunkery compatibility with Create.	525	0.5676190476190476
-Oooh, Pinky!	JerryLu086	44800	The Rose Gold! Piglins love them!	1523	29.415627051871308
-NGS's ScorchedGun Stats and Create Recipe [Datapack Ver]	NeonGreenShades	85	Crafting recipes and Weapon Stats for Scorched Bronze mod, balanced around Create for automation and...	413	0.20581113801452786
-Foxy's Electronics	FoxyDungeon	11100	A Minecraft Mod That Adds All Kinds Of Working Electronics	679	16.347569955817377
-Create: The Bots Foundry	DepthDrako	2500	Welcome to this first mod to bring the fell of a triple A title to...	417	5.995203836930456
-Create: No Fan	Roxxane	219	Add "_no_fan" to the end of the registry name of a smoking or smelting recipe...	420	0.5214285714285715
-Liquid Burner	Ferri_Arnus	163000	Makes the Create Blaze Burners Accept liquids	929	175.45748116254038
-[PROJECT REPLACED] Create: The Coolest Addon Ever	FalSociety	3200	A mod that adds small gadgets and tools to the Create Mod	513	6.237816764132553
-Create: Basic Additions	SpokenWig620933	94600	Basic additions to the Create mod.	881	107.37797956867196
-FTB Skies Companion	FTB	37600	Small mod that provides some helper tools to FTB Skies	432	87.03703703703704
-FTB Rickety Water Wheel	FTB	113000	This adds just one block: a Water Wheel which acts exactly like Create's small Water...	432	261.5740740740741
-Fractal Skylands Tweaks	SwanX1	456	Tweak mod for the (WIP) Fractal Skylands modpack!	1192	0.3825503355704698
-Create: ComputerCraft (CC: Tweaked)	End_Rage	1900000	CC: Tweaked but with a design more fitting of the Create Mod	712	2668.5393258426966
-Create: Extended Cogwheels	Rabbitminers	4900000	A small mod to add more cog types to create	905	5414.364640883978
-Mopeds	abovearth	699000	Add copper mopeds that go vroom!	504	1386.904761904762
-Create Crafts & Additions Plus	StarlightCraft	96300	An addon of Create: Crafts & Additions, adds realistic crafting recipe.	501	192.21556886227546
-Calemi's Organized Crime	Calemi	9200	Adds custom content for Calemi's Organized Crime Modpack.	1033	8.906098741529526
-Create: Recipe Everything	Klutzer	652	This mod introduces a variety of new items and blocks specifically designed to enhance and...	445	1.4651685393258427
-Create: Irradiated	TT_TCS	34200	Adds radioactive materials to the Create mod!	635	53.85826771653543
-Create Blue Skies Compat	celsiusqc	1700000	Adds compatibility recipes & items between Create and Blue Skies	762	2230.9711286089237
-Create: Biomimicry	WitherTM	145000	The act of copying animals to improve your circumstances	737	196.74355495251018
-Create: Blast Off!	drdeviousahh	10700	A create mod addon that adds moon related items.	484	22.107438016528924
-Create: BlueprintVoid	xkball	5600	Similar to structure void in vanilla mc. When a schematic with blueprint void is printed,...	467	11.991434689507495
-Create : Gravity	Sweetygamer	64800	🌌 Turns the Ender into the Moon	873	74.22680412371135
-Dynamic Trees Create Compat	Amygdaloideae	76600	(Deprecated) Unofficial mixin mod to re-add compat for Mechanical Saw to cut Dynamic Trees	467	164.02569593147751
-Recipe & rebirth	arnem16	125	Crafting innovation, obsidian creation.	467	0.2676659528907923
-Create Camera	End_Rage	142000	The Create mod aesthetic on the Camera Mod	1245	114.05622489959839
-Eureka! Create Airships!	End_Rage	160000	The Create mod aesthetic on Eureka!	878	182.23234624145786
-ViboTech: Move Contraptions!	nostalgic_roentgen6266002	555	Enable controlling Create contraptions with CC-Tweaked computers.	480	1.15625
-Creating space gravity addon (DISCONTINUED)	Gameingareyou	10200	Adds low gravity	492	20.73170731707317
-Copper Lungs: Updated	laptoppunk	410	Create x Miner's Lung: Use the Copper Backtank in low-air areas	468	0.8760683760683761
-Create: Totem Factory	MarcosJoestar	286000	Adds a complex crafting recipe for the totem of undying, with multiple steps and items,...	472	605.9322033898305
-Create: WooderWheels	iylo	78200	A simple plugin to make Create waterwheels accept any and all wood types.	481	162.57796257796258
-Create: More Drill Heads	Forsteri123	618000	More drill heads for faster mining machines!	809	763.9060568603214
-Create: Cobble to Netherrack	Tamaized	373	Create: Cobblestone to Netherrack	484	0.7706611570247934
-TFC Ore Excavation	sir_Robson	456000	TFC deposits mined by "create ore excavation"	501	910.1796407185628
-Easy Trains	Jagdoggo	10300	This mod makes create mod trains easier to craft	491	20.977596741344197
-EC Create Compatability	Userofbricks	41100	adds Compatability between Create And Expanded Combat	588	69.89795918367346
-Skyward Recipe Changes	Slimekong20	34700	Some recipe changes	495	70.1010101010101
-Gravitas² Core	screret	19700	The core integration mod for ATM Gravitas².	561	35.115864527629235
-Create: More Automation	Snakeypro	357000	A Simple Create addon that makes it so you can automate so much more!	556	642.0863309352518
-Create: More Copycats	Bennyboy1695	11300	Adds a whole bunch more copycat blocks to the game based on creates copycat blocks	510	22.15686274509804
-Sanders' More Food	Sanderk35	174	More food = More fun	516	0.3372093023255814
-Create Sandpaper Overhaul	tiny_ghasto	28400	A addon to the amazing Create Mod that adds more variations of sandpapers. Currently, the...	669	42.45142002989537
-Create: The Recipe Expansion	INFInight897	90200	Adds recipes for items making them fully automatable whilst sticking to the true create feel!	536	168.28358208955223
-RPM2RF	Partonetrain	5600	Standalone RPM -> RF conversion	681	8.223201174743025
-Create : The Salt	TorsePoil	350000	A small compatibility mod for create and the salt mod.	540	648.1481481481482
-Hexcoins: Create Crushin'	MrTinker	5400	This hexcoins and create addon sometimes gives iron hexcoins by crushing sand, gravel and red...	526	10.26615969581749
-Create Curio Goggles	GlekTarssza	60000	A mod for Minecraft 1.16.5 that adds the Create Goggles to the Curios head slot.	538	111.52416356877323
-Create: Immersive Portals for Forge	ArgenNova	31600	Allows create trains to traverse the portals from Immersive Portals	545	57.981651376146786
-Freeze Create	baguchiMC	3100	Freezer Mechanic with Create	543	5.70902394106814
-Wooden cog	ChauveDev	78700	This mod is a compatibility mod for Create mod and TerraFirmaCraft	723	108.85200553250345
-EnderSMP Economy	wrldmap	161	EnderSMP's money mod!	542	0.29704797047970477
-Create : Ammo	Koone0	15800	Allow to automate ammo production	580	27.24137931034483
-Create : Armory	Chilllliii	1200000	A create addon that adds guns and rockets	798	1503.7593984962407
-Create: Founded	dragoneye_eon	14600	Realistic Foundry Create Recipes/Items	575	25.391304347826086
-Create: Extra Motors	FilipPikus12333	37	A Create Addon That adds More Motors	563	0.06571936056838366
-Potato Cannon Ammo Counter	Tejty	10900	Allows you to see how much ammo you have in inventory	564	19.326241134751772
-Create: Raw Brass	Luna	4900	it adds brass ore whaa????????	569	8.611599297012303
-Ender IO: ReCreated	Ropyxa	103000	Ender IO: ReCreated is an addon for Create and Ender IO which adds their integration.	570	180.7017543859649
-CC:C Bridge	Sammy_echt	6600000	Adds compatibility between CC: Tweaked and Create through more peripherals!	1039	6352.261790182868
-Craftable Create Casings (Forge/Fabric)	Lord_Of_Crumbs	136000	Adds a recipe for Create's casings just in case-ing you need it.	577	235.70190641247834
-Create: Fabilium (Create: decorations, previously)	kenimoT	20400	Adds some decorations to the create mod and new tools	587	34.75298126064736
-TFC Rosia Create Compat	Jerome226	2200	This mod adds integration for Rosia Machines on Create stuff. Made to be used with...	587	3.7478705281090288
-Create: Netherless (Forge)	DariusZeBaguette	2600000	🚫Craft All the nether ressources without leaving the Overworld!	713	3646.5638148667604
-Mechanical Machinery	Bennyboy1695	1300	A create addon mod implementing a bunch of different machines	740	1.7567567567567568
-EE: Create	Ridanisaurus	674000	An Add-on for Create integration with Emendatus Enigmatica which handles Registry and Data-Gen.	877	768.5290763968073
-Expanding Technologies	curryducker	71200	Expanding Technologies is an addon that expands the Create mod with new features!	705	100.99290780141844
-Little Contraptions	EDToaster	12500000	Little add on mod that lets you put a Create mod contraption on a Little...	1180	10593.22033898305
-Create Sabers	Leroidesafk	3500000	⚙️ Adds new light sabers to Create	704	4971.590909090909
-Create: Concrete	Juses	20	Create addon adding automation of custom, self solidifying concrete for filling in spaces, or just...	614	0.03257328990228013
-Create: Dall	magminer54	32500	An Additon to the Create mod.	770	42.20779220779221
-Create: Upgraded Armor	Plunger_Boy	400000	Upgrade your netherite armor with Create!	614	651.4657980456026
-Create Decoration Casing	TheLynkYT	681000	Add more decoration block for Minacraft and Create Mod	894	761.744966442953
-More Tools and Stuff	Sanderk35	576	A mod that adds more stuff to minecraft	629	0.9157392686804452
-Tool's Complement: Create	Mrthomas20121	5400	add Tool's Complement Tools made from create materials.	622	8.681672025723472
-Create: BioFuel	tribnutzz	25100	An overpowered-ish Create based fuel system	816	30.75980392156863
-Create: Frozen Flavors	Chilllliii	15400	Create mod addon that adds Ice Cream!	641	24.024960998439937
-Create Editions	TheDukeOfCamorr	165000	A Tweak Mod for Create	645	255.8139534883721
-Create: Trains On Trains	Sindarin27	253000	A Create extension that allows you to glue a train to a train	643	393.46811819595644
-Create Cherry Addon	Kaffeekirsche	20000	This is an Addon for Create. It is used in the MC meets Create Modpack!	652	30.67484662576687
-Create: Alloyed Guns	End_Rage	354000	A addon that adds many guns to the create mod.	902	392.4611973392461
-PokeParts: Pixelmon + Create compat	ViktorLivingshield	5000	Create + Pixelmon compatibility	659	7.587253414264036
-Create Recycle Everything	nocubeyt	5600000	Use Crushing Wheels to recycle useless items and clean up the storage. Perfect for modpacks.	730	7671.232876712329
-Pamps Expansion	Agony_247	379	Compatability mod for mods made by The Pamps.	682	0.5557184750733137
-Origins: Accessibilities	DragonsPlus	2200000	A addon for the Origins mod, making your Origins life easier	1019	2158.979391560353
-Create Chunkloading	embeddedt	7100000	Adds a chunkloader block that works with Create	1456	4876.373626373626
-Create x CreatePlus (Forge) ([0.5.1][0.5.1a])	TTPeter	5300	Compatibility for Create Plus and Create(0.5.1+) under MC 1.18.	700	7.571428571428571
-TerraFirmaBoiler2	redstoneguy10ls	4000	Create's steam boiler and TerraFirmaCraft's Charcoal forge Compatibility. for Nonbiri Create Server's Modpack ...	701	5.706134094151213
-Create: Foundry	CommanderT3706	18800	Use your Create skills and machines to create the ultimate ore processor!	729	25.78875171467764
-Create Electrified	Timeship	14400	Bridging Forge Energy and Create Mod RPM	929	15.500538213132401
-Create Infernal Expansion Compat	celsiusqc	74200	Adds compatibility recipes between Create and Infernal Expansion	752	98.67021276595744
-Create Ad Astra Compat	ssm227	2800000	Adds crushed ore compatability for ad astra ores	814	3439.8034398034397
-Mechanical Botania	thedoctorofdoctoring	77900	Botania Mana -> Create RPM	710	109.71830985915493
-Colorful Azaleas Trees - Create Compat	TheonlyTazz	112	A Compat Datapack between Colorful Azaleas Trees and Create	716	0.1564245810055866
-Create: Electric Stonks	nullBlade	466000	This mod adds integration between create and electricity	931	500.53705692803436
-Create: Bronze Age	Raeeeee	539	A precise mechanical addon for the Create mod	730	0.7383561643835617
-Create: Random Adittions	SpringerPlayz29	2100	An Addon for Create mod and a compatibility mod for Speng Factory adding various blocks...	905	2.320441988950276
-TFC Create	SeriousCreeper	471000	Mod that provides some compatibility between TerraFirmaCraft and Create	901	522.7524972253052
-Create Theme Armor Addon	zrikon	63000	A small addition to Create for a new beautiful armor	737	85.48168249660787
-create structures addons	morgan_iiii	5200	add structures to create	741	7.017543859649122
-Sleepable Create	baguchiMC	320000	This mod make Sleep on bed in Create Train!	748	427.80748663101605
-Create Shrunk	9Octo	26600	This Create themed mod adds tools to shrink yourself	817	32.55813953488372
-Proton's Create Additions	ProtonPLUS	6900	Expanding the create mod and minecraft!	788	8.756345177664974
-Create: Industrial Chemistry	Forsteri123	44100	Chemical Engineering with the Create Mod	885	49.83050847457627
-Create: Petrol Powered	Forsteri123	8300	End-game energy source	772	10.751295336787564
-jurassic prelude: prehistoric	rekzx128	4800	Revives dinosaurs into minecraft!!	995	4.824120603015075
-Saro´s Create Support For MrCrayfish's Vehicle	Sarocesch	1300	Adds Support From MrCrayfish's Vehicle to Create	797	1.631116687578419
-Create: Complexities	thegrandslam2002	44	Bringing complex production to your Create factories!	806	0.05459057071960298
-Discover Addon	Jasmine	3100	Create addon that adds more things to explore and process!	1035	2.995169082125604
-TerraFirmaBoiler	CKenJa	4200	Create's steam boiler and TerraFirmaCraft's Charcoal forge Compatibility.	819	5.128205128205129
-Create: Brass Coated	stevreng	122000	An addon to Create to coat andesite blocks with brass!	865	141.04046242774567
-Create InfiniDrill	Drazuam	108000	Adds hose-pulley style functionality to the Create mechanical drill.	1059	101.98300283286119
-Milkyway Core	PouffyDev	12400	Core mod for the milkyway SMP modpack	1122	11.05169340463458
-Create gear addon	xaros74	505000	Create addon who add more gears for decoration	1338	377.4289985052317
-Sequenced Item JS	eddye0820	292	Custom Sequenced Item to use with KubeJS	843	0.34638196915776986
-More Mounted Storages	juh9870	685000	Allows more modded storages to be used as a part of Create moving contraption	1304	525.3067484662577
-Create: Molten Geodes	Apothicon	160000	An add-on for Create adding a renewable source of orestones.	1031	155.18913676042678
-Haywire Robots, Bandits and Guns- A Scorched Bronze Addon	Ribs498	1200000	Addon mod for my upcoming Scorched Bronze V2 Modpack!	895	1340.782122905028
-Create: Pixelfactory	BinnQuinn	121000	A Create Mod addon for Pixelmon Compatibilities!	922	131.236442516269
-Create More Potatoes [Forge]	Forsteri123	16800	Potato product, Projectable Foods	926	18.14254859611231
-Create Innovations	Bitboard	7800	A collection of recipe concepts for modpacks	1273	6.12725844461901
-Create: Apothic Enchanting	DragonsPlus	667	A addon for Create and Apothic Enchanting. Compat with C:EI.	10	66.7
-Ars Technica	zerobuncle	1600000	A Create-centered addon mod for Ars Nouveau	279	5734.767025089605
-CreateBarters	techgamingcore	108	A small but great datapack that adds create mod trades to piglins.	252	0.42857142857142855
-Create: Ultimate Factory [Forge/Fabric/NeoForge]	robinfrt	1800000	An addon for the Create mod developed to increase automation possibilities, adding 25 (reasonably) balanced...	473	3805.4968287526426
-Create: Cyber Goggles	ForgeStove	9400	A mod that allows players to use the features of Create.	68	138.23529411764707
-Create Compression	flipperpanda706	127000	Adds many compressed blocks with the theme of create	556	228.41726618705036
-Create Crafts & Additions	MRHminer	65900000	Electrifying the Create mod!	1596	41290.7268170426
-The Winter Rescue: Frosted Heart	yuesha_yc	344000	Survive the Blizzard, Uncover the Secret to the Great Winter, and Rekindle Humanity's Last Hope	1341	256.5249813571961
-Create: Steam Powered (1.16/1.18/1.20)	yuesha_yc	2100000	Diversifying Create Mod in the Steam Age (now on 1.20/1.18)	1341	1565.9955257270694
-Create: Vintage	Blue_PHS	5000	Much vintage, some improvements, Unofficial Port of Vintage: Improvements with Create v6 compatibility.	59	84.7457627118644
-Create Factory Logistics	zznty	8700	Ever wondered why there are logistics packages, but no logistics jars? Let's fix this!	89	97.75280898876404
-Applied Schematicannon	zhichaoxi2006	2500	a simple mod let Schematicannon can extract item from ME Network	20	125
-ChaosZPack [Lost Cities] Better Cities / Zombie Apocalypse / Abandoned Structures / TacZ	ChaosCraft_HD	39100	A Mod made for adding more structures into Lostcities	84	465.4761904761905
-Create : Arm-made Barbeque	P1nero	1400	Make Mechanical Arm interacting with Grill and Basin from BBQ Delight.	13	107.6923076923077
-Create: Ore Processing	laptoppunk	131	Adds new processing chains for vanilla ores.	13	10.076923076923077
-Create: Pattern Schematics	CakeIsTastyDeveloper	1100000	Build with repeating schematics!	317	3470.031545741325
-Create: Extra Gauges	LiukRast	7000	A Create child library + mod incentrated on Factory Gauges	29	241.3793103448276
-Sophisticated Backpacks Create Integration	P3pp3rF1y	904000	Sophisticated Backpacks on create contraptions	62	14580.645161290322
-Sophisticated Storage Create Integration	P3pp3rF1y	1000000	Full Featured Sophisticated Storage on Create Contraptions	77	12987.012987012988
-Create Cogs Invaders	Lalusko	2000	New invading automatons will compete with you for resources	55	36.36363636363637
-Better Unloading	seraphaestus	307	A databack to improve Create trains via (un)loadable minecart contraption cargo	880	0.3488636363636364
-Ghost's Questionable Consumables	ghostcody	676	A spicy collection of questionable consumptions for you and your friends!	893	0.7569988801791714
-Create: Connected Block Textures	stevreng	147000	Decorate your structures with connecting blocks	990	148.4848484848485
-Create Compats	nocubeyt	357000	Adds compatibility with other mods, like The Aether, Galosphere, Undergarden for modpacks.	903	395.3488372093023
-Create: Extended Flywheels	Rabbitminers	1200000	A small mod to add on to Create by adding numerous new flywheels and bringing...	1022	1174.1682974559687
-Create: Mounted Storages	Lgmrszd	360000	Allows more modded storages to be used as a part of Create moving contraptions. Fork...	922	390.45553145336225
-RSTM	GuwyTheSlimeBoi	797	It's a mod about space travel, assembly lines and complex machines	1044	0.7634099616858238
-Potato Canon Plus [FORGE]	To0pa	78500	🥔Makes all food compatible with the potato cannon	1028	76.36186770428016
-Big Sip	possible_triangle	2700	addon for the create mod introducing various drinks and other content surrounding them	1043	2.588686481303931
-Tetra Pak	Noobulus_Dos	2800000	An add-on mod for Tetra that adds support for several new materials	1530	1830.0653594771243
-CreateFoodAdditions	StacheSebastian	249000	Adds Food to Create	1478	168.47090663058188
-CreateArmoredCopperBacktanks	StacheSebastian	67000	Adds Armored Backtanks to Create	1072	62.5
-Create - ErasFlo	Ditti_	250	🥫 additional crops and food recipes 🥫	1021	0.24485798237022527
-Potato Canon Plus [DATAPACK]	To0pa	416	🥔Makes all food compatible with the potato cannon	1028	0.4046692607003891
-Create: Computing	sascha_to	870	An addon for Create that adds ComputerCraft "integration" in form of peripheral blocks and more.	1046	0.8317399617590823
-Create: Condensed Milk	smorb42	37000	An addon for Create that makes Deepslate and Netherack renewable.	1050	35.23809523809524
-Create Curios	luis_joga	367000	A compat layer to use Create engineer's goggles in Curios head slot	1084	338.5608856088561
-PixelCreate Compat	DigiRai	163000	Adds items and recipes to create compatibility between pixelmon and the create mod	1096	148.72262773722628
-Create: Supercharged	phicctv	380000	Reimplements Chromatic Compound and it's alloys in a new farmable way!	1140	333.3333333333333
-HARDIS	Noach05	7500	Hard And Relatively Difficult In Style (HARDIS) Mod	1553	4.829362524146813
-The Temple Of Kakayaya	AlignedCookie88	243	Explore the mysterious temple, while watching out for traps, and looking for something...	1220	0.19918032786885245
-Parkour Universe	the_buildy_bunch	8000	Very hard and long parkour map using Create	1483	5.394470667565745
-PonderJS	kotakotik22	4700000	Allows creating ponder scenes and tags with Kubejs	1380	3405.7971014492755
-Create Automated	kotakotik22	648000	Automate your Create factory with new machines!	1417	457.3041637261821
-Create Gears	kotakotik22	1100000	Adds shaftless blocks to Create, like gears!	1444	761.7728531855955
-FactoriOres Reforked	ajaxo_	4100	Updated/Maintained Port of FactoriOres to Forge	1304	3.144171779141104
-More Create Stuffs	JerryLu086	1200000	Adds some recipes and items to Create related to other mods.	1581	759.0132827324478
-Cogwheel Tweaker	Grimmauld	11200	Add Create cogwheels with contenttweaker	1528	7.329842931937173
-Skyland Utils	ruifengx	47	Utilities for skylands survival with TiC 3 and Create 0.3.	1414	0.03323903818953324
-Filler	Galaxy3056	281	Filler is a smaller mod for fixing modpacks and integrating mods with each other.	1462	0.19220246238030095
-Boat Contraptions [Create Addon]	sashafiesta	85300	This mod allows you to make boat contraptions with the Create mod	1547	55.138978668390436
-Create Addon: Thermal Expansion Alloys	sconedb	1800	Lets players create Thermal's alloys in a Create-friendly way.	1527	1.1787819253438114
-Create Addon: Mekanism Alloys	sconedb	3300	Adds the ability to process and create Mekanism's alloys in a Create-friendly way.	1527	2.161100196463654
-Create Integration	Grimmauld	307000	Mod to get FE and Create together	1858	165.23143164693218
-Rotate	ProfessorAkaChris	2	Rotate is a Rotarycraft inspired Create addon	677	0.0029542097488921715
-Create: Blood is Fuel!	Electrisoma	18	Create: Blood is Fuel! Lets you process mobs and food into fuel!	93	0.1935483870967742
-cbot bc	Vol1t	5500	cbot port	42	130.95238095238096
-Create: Garnished	DakotaPrideModding	829000	A Create Mod Addon that adds different food items, mainly nuts.	603	1374.792703150912
-Create Nuclear	CreateNuclearTeam	169000	A Create addon that adds nuclear reactors to Create, along with all the dangers associated...	446	378.9237668161435
-Delightful Creators [Fabric] (Create and Farmer's Delight Addon)	Flomik	465000	Making automation between Farmer's Delight and Create	727	639.614855570839
-The Amazing Chocolatier	JPsama	4700	A chocolatey themed mod for Minecraft	107	43.925233644859816
-Create: Framed	DakotaPrideModding	2700000	A Create mod addon that adds more Framed Glass variants.	535	5046.728971962617
-Create BlueMap	szedann	42	A mod adding Create support to BlueMap	14	3
-Create: Enchantable Machinery	Cotrin	586000	This mod allows you to apply some vanilla enchantment to Create blocks.	333	1759.7597597597598
-Create: Trading Floor	CakeIsTastyDeveloper	2100000	Automate trading with villagers using create!	268	7835.820895522388
-Create: Bitterballen	pyzpre	811000	A Create addon which adds Dutch snacks!	616	1316.5584415584415
-Create: Escalated	rbasamoyai	76500	Bringing you to higher places in your Create mod builds	34	2250
-Void Power (for Fabric)	llyycci	18	Fabric version of Void Power Mod, based on 1.20.1	24	0.75
-Create: Tramways	C1200	10200	Create: Tramways adds a bunch of tram-related features.	219	46.57534246575342
-Create: Cooking	MrPup	13900	Indulge your virtual taste buds with Create: Cooking	529	26.27599243856333
-Iris & Oculus Flywheel Compat	leon_mout	25100000	Enable Flywheel's optimizations when use shaders.	1029	24392.614188532556
-Create Realism	stacode	7300	A Create addon that adds a bunch of features to make Create trains more realistic.	110	66.36363636363636
-Custom Machinery Create	frinn38	422000	Create support for Custom Machinery	760	555.2631578947369
-Create: Missions	MuriPlz	451000	Economy for Create mod servers by granting weekly missions	639	705.7902973395932
-Create: Lazy Engines	NatiM6	17700	Configurable Steam Engines	368	48.09782608695652
-Create: New Age	nullBlade	14200000	Create: New Age is an addon for the Create mod that adds integration with electricity.	656	21646.341463414636
-Garnished Stone Automation	DakotaPrideModding	5500	Makes Crimsite, Veridium, Asurine, and Ochrum automatable once again using Create: Garnished	318	17.29559748427673
-Create: Vibrant Vaults	ZLT	45900	A Create mod addon that adds more item vaults.	45	1020
-Create: Ironworks [Forge/Fabric/NeoForge]	robinfrt	238000	An addon for the Create mod bringing new materials (Tin, Bronze, Steel) and related items.	323	736.8421052631579
-Create: Crafts & (More) Additions [Forge/Fabric]	robinfrt	60000	More blocks, items and tools for Create Crafts & Additions.	279	215.05376344086022
-Create Ore Excavation	tom54541	10700000	Extract resources using machines powered by Rotational Force	1050	10190.47619047619
-Create: Deepfried	pyzpre	567000	Adds fast food to the Create mod	446	1271.3004484304934
-Rechiseled: Create	SuperMartijn642	13800000	Rechiseled: Create adds new decorative variants of blocks in Create!	696	19827.58620689655
-Create: Estrogen	Mayaqq	5800000	Create Addon Based around expressing yourself, fluid handling and expanding your factory. This mod adds...	787	7369.758576874206
-Create Cobblestone	MR_sticky_piston	595000	Adds a block generating cobblestone using SU, stopping cobblestone generators from eating your frames.	382	1557.5916230366493
-Create: Charcoal to Diamonds	EnjoyerOfE	10000	!FABRIC IS CURRENTLY BUGGED, WILL REMOVE WHEN FIXED! An addon for the Create mod where...	150	66.66666666666667
-Create Support for Open Parties and Claims	xaero96	5000000	Adds Fabric Create mod support to Open Parties and Claims	1050	4761.9047619047615
-DANDYCORP Cobblemon Additions	dandyjay	937	Tweaks and additions for The DANDYCORP Pack.	136	6.889705882352941
-Integrated Villages	CraisinLord	2600000	Overhauling villages with mod integration	1028	2529.182879377432
-CoH item fixes	JPsama	502	This mod is for fixes caused by other mods in the Create-O-Holics mod pack	116	4.327586206896552
-Create: Kryeit	MuriPlz	1200	Library bringing some Create mod Events	457	2.62582056892779
-Create: Power Loader (Fabric)	Lysine	77700	A Create mod add-on adding immersive chunk loaders.	477	162.8930817610063
-Create Sifting Fabric	Shulej	3300	Create Sifting	171	19.29824561403509
-Ponder Overrides	Erdragh	106000	Allows overriding Create's Ponders via KubeJS	249	425.7028112449799
-Seasonal Adventures	flyingmylife	349	Mod based on MrLololoshka's l.p.	345	1.0115942028985507
-Respite Creators [Fabric] (Create and Farmer's Respite Addon)	Flomik	470000	Making automation between Farmers's Respite (Addon for Farmer's Delight) and Create	668	703.5928143712575
-Create: Storage	foxynotail	81100	A lightweight storage addon for the Create Mod featuring Storage Boxes and Backpacks	398	203.76884422110552
-Create: P&S	TheClashFruit	766	A Create add-on that adds piss and shit to the game with interesting mechanics!	317	2.416403785488959
-FlowerCrops	artanjp	3400	A total of 25 types of flowers, 13 default and 12 new, will be available...	1195	2.8451882845188283
-KubeJS Create for Fabric	TheSadGuy	19500	KubeJS integration within Create for Fabric 1.20.1	301	64.78405315614619
-Cultural Creators [Fabric] (Create and Cultural Delights Addon)	Flomik	38300	Making automation between Cultural Delights (Addon for Farmer's Delight) and Create	533	71.85741088180113
-Create: Molten Metals	OrdanaryMods	352000	Melt down metals, cast ingots and engage in metallurgy with Create: Molten Metals	406	866.9950738916256
-Create: Connected Fabric [experimental]	sashafiesta	32200	Partial UNOFFICIAL port of Create: Connected	417	77.21822541966426
-Create: Diesel Generators [Fabric]	MrSterner_	272000	A mod that adds Diesel Generators to the create mod.	654	415.9021406727829
-Create Deco Fabric	talrey	3600000	Industrial decoration themed around the aesthetics of the Create mod.	905	3977.9005524861877
-Create: Netherless (Fabric)	Mlodziak00	18500	A Create Add-on that allows you to gather Nether resources without the need of the...	455	40.65934065934066
-Create: Extended Cogwheels Fabric	Rabbitminers	1700000	A small mod to add more cog types to create fabric	870	1954.0229885057472
-Create: Switzerland	HackFight	853	A Create mod addon that adds Swiss stuff such as better chocolate.	466	1.8304721030042919
-Create: Enchantment Industry - Fabric	DragonsPlus	1800000	Automatic Enchanting, with Create.	724	2486.1878453038676
-Saro´s Create [Fabric/Quilt]	Sarocesch	25500	An Addon For The Mod Create Adds New Recipes	826	30.871670702179177
-Chronost Foods [Fabric]	moxg	378	Adds foods using various mods for fabric and custom foods	661	0.5718608169440242
-Create: Mixin mob and drops	SmiteGee	33	Mixing mob drops	646	0.05108359133126935
-CreateFabric&REIBugFix	TexTrue	1200000	Fix CreateFabric Recipe display on REI issues.	795	1509.433962264151
-CreateDPCompat	Misigno	2500	Compatibility mod between Create-Fabric and Datapack Portals. Enables trains to go through custom portals to...	648	3.8580246913580245
-Astral Vinery	Erdragh	542000	Improves on the Vinery mod in some ways for the Create: Astral modpack	824	657.7669902912621
-Create's Delight	Phoupraw	1000	Mainly add interaction between create and farmer's delight and unique food processing.	835	1.1976047904191616
-Create Sifting Refabricated	Monster__zero	487000	Create Sifting	886	549.6613995485327
-Create: Extended Flywheels Fabric	Rabbitminers	842000	A small mod to add on to Create by adding numerous new flywheels and bringing...	903	932.4473975636766
-Create More Potatoes [Fabric]	Forsteri123	3600	Potato product, Projectable Foods	925	3.891891891891892
-CreatePlus	Yjn024	642000	Compatibility enchantments for Create Fabric	1120	573.2142857142857
-[Discontinued] Create: Sustainable	CroakAndRoll	1200	A create mod addon that adds some more crafting recipes.	311	3.8585209003215435
-Oh no: Create Utilities	InfinityUniverse999	5600	Some Oh no: Create Utilities	271	20.66420664206642
-Deeper Drilling	laptoppunk	89	An addon for Deep Drilling, expanding modded compatibility.	15	5.933333333333334
-Gravitas² Re-Cored	thevortexFoxTopia	73700	Continuation of Gravitas2 coremod due to discontinuation by original dev	488	151.02459016393442
-Create: Delivery Director	LiukRast	1800	Adds a bunch of new features for Create Packages	17	105.88235294117646
-Create: Occult Engineering	irishgreencitrus	9500	An integration between Occultism and the Create Mod.	107	88.78504672897196
-Create Sifting	oierbravo	5500000	Sifter for create	1027	5355.404089581305
-Create: Nuka Cola Classic	JCS	30500	Adds Nuka Cola to Minecraft!	376	81.11702127659575
-Create: Magic Recipes	Clenner	462	This mod adds some cool recipes to Create!	69	6.695652173913044
-Create - Forge Frontier Core	LandscapesReimagined	3300	Mod that provides various content and tweaks to other mods for the Create: Forge Frontier...	145	22.75862068965517
-Create Mechanical Spawner	oierbravo	943000	A mechanical spawner block. Generates Mobs with rotation power.	856	1101.6355140186915
-Create: Designed Decor	CreateModFan154	2200	Thank You for 2k downloads; **Designed Decor** is a lightweight Create mod add-on focused on...	57	38.59649122807018
-Create: Dreams n' Desires Updated to Create 6	LandscapesReimagined	1600	This is an addon to Create: Dreams n' Desires that makes it compatible with Create...	17	94.11764705882354
-Create: Mechanical Companion	MarcosJoestar	4500	Get ready to explore the world with a mechanical friend! Equippable with new modules that...	27	166.66666666666666
-Create: Quality Of Life	iglee42	336000	Adds quality of life things for Create Mod	657	511.41552511415523
-Create: Cardboard Things	Chaolux	537	Fun addon that adds 9 cardboard-based items with unique mechanics.	22	24.40909090909091
-Create: Compounds	Project8gbDeRam	12600	Brings back Create's compounds from 1.16 !	373	33.78016085790885
-Create: Simple Generator	ld_anvil	13800	Just adds a simple block that converts stresses to FE.	65	212.30769230769232
-Survive in the Winter Frontier	Viola_Siemens	37000	A mod for modpack "The Winter Frontier" about surviving in the extreme situation.	521	71.0172744721689
-Create Many More Mechanisms	maougaukken__	2400	Different mechanisms for modpack developers	90	26.666666666666668
-Create: Central Kitchen	DragonsPlus	14200000	Automatic Kitchen Work & Integration	858	16550.11655011655
-Create: Dragons Plus	DragonsPlus	839000	Provide convenient features to players and dev utilities for Create addon developers.	92	9119.565217391304
-Greate	Electrolyte	7900	Gregifying Create	667	11.84407796101949
-Create: Ender Link	Cotrin	163000	This mod add EnderVault and EnderTank.	69	2362.31884057971
-Create: Power Loader	Lysine	3300000	A Create mod add-on adding immersive chunk loaders.	576	5729.166666666667
-Create: Enchantment Industry	DragonsPlus	24300000	Automatic Enchanting, with Create.	968	25103.30578512397
-Create: Chromatic Return Extras	Neeco_Arc	7800	adds recipes for the creative fluid tank and item crate and fixes a problem with...	153	50.98039215686274
-Create: Mobile Packages Unofficial	DadudeGaming	521	A Edited Minecraft mod that adds support for delivering Create Mod Packages directly to the...	25	20.84
-Create: Arm-made Cuisine	P1nero	1400	Make Mechanical Arm interacting with Cuisine Skillet.	23	60.869565217391305
-Create: Molten Vents	Apothicon	1400000	A renewable source of create's orestones	851	1645.123384253819
-Alloyed Mining	therealzekedev15222	22	dds a new way to obtain Andesite Alloy	21	1.0476190476190477
-Create: Defensive	AepheraStudios	2100	Create: Defensive adds a bunch of new armor sets including ones made from Create mod...	56	37.5
-Create: Back on Track Core	terentre4e25caracteres	10100	16 Exclusive Machines made for the Create: Back on Track modpack	92	109.78260869565217
-Create Jet boots	oierbravo	2500	Simple boots that allow flying using air.	51	49.01960784313726
-Create: Fuel Motor	Reggarf	4000	Create Fuel Motor adds a customizable, fuel powered kinetic motor to the Create mod. Generate...	51	78.43137254901961
-Create Mechanical Cow	oierbravo	31500	Kinetic Milk generator	57	552.6315789473684
-Create Mechanical Chicken	oierbravo	266000	Egg generator block addon for create.	260	1023.0769230769231
-Mechanical trading station	oierbravo	2600	Trading station with create power	649	4.006163328197227
-Create: Limited Draining	JasdewStarfield	469	A Create addon that allows you to control the biomes to drain certain fluids infinitely.	23	20.391304347826086
-Create: Sound of Steam	finchymcfinch	117000	A Create addon that adds pipe organs!	121	966.9421487603306
-Create: Compatible Storage	Dadamalda	4600	Having issues with Quark's chests on Create contraptions? This mod fixes them.	50	92
-Create: Cobblemon Balls Overhaul	xKcinnay	7400	Addon for Create and Cobblemon that balance and add recipes for Cobblemon balls to work...	40	185
-Create: Classic Blaze Enchanter	DragonsPlus	2400	Bring Classic Blaze Enchanter of Legacy Create: Enchantment Industry back to C:EI 2.+	56	42.857142857142854
-Create:Entity Control	Pink_Cats	524	A simple Create attachment that enables custom block entity configurations and can be configured to...	39	13.435897435897436
-Create: Direct Chute	LiukRast	703	Adds a new chute to create mod	34	20.676470588235293
-Create: Packagers PSI Compat	LiukRast	3400	Allows Create packagers to interact with PSI (Portable storage interfaces)	34	100
-Create Vampirism	JoGamer207	5100	A Create mod for Vampirism	62	82.25806451612904
-Create:Fluid Stuffs	moepus	6400	A Create Addon adds some fluid stuffs	161	39.75155279503105
-Create: Enhanced Mastery	AepheraStudios	735	Integration Layer between Create and Iron's Spells n' Spellbooks.	28	26.25
-Create: Liquid Fuel	Forsteri123	2900000	Pump in liquid fuel to blaze burners	810	3580.246913580247
-Create: Clothes	CeoOfGoogle1	3800	PRIMARILY ADDS MILITARY UNIFORMS but also other clothes	31	122.58064516129032
-EMI: Create Schematics	LiukRast	128000	Add schematic items to EMI Favourites list	567	225.7495590828924
-Create: Chimneys	FuriusMaximus	90100	Adds chimneys with smoke particles for the trains from the Create mod.	340	265
-Master of Machinery	CatfishPhasma	548	A mod for a specific server, although it probably can be used on its own.	106	5.169811320754717
-Create: Better Villager	Reggarf	409000	Create: Better Villager that adds a host of Create-mod villager professions | Forge/Neoforge and...	258	1585.2713178294573
-Create: Dimension, Steamworks Realm	Reggarf	17500	Create: Dimension, Steamworks Realm introduces a brand-new mining-focused dimension, designed for automation and large-scale resource...	95	184.21052631578948
-Quantum Lands	Kykokos	21	Helper mod for Quantum Horizon modpack but can stand on its own.......	34	0.6176470588235294
-Create Mechanical Extruder	oierbravo	2500000	A mechanical extruder block. Can be used to generate any block or item from adjacent...	978	2556.237218813906
-Create Immersive Unnecessary Shaft	pm777x2	962	Bridge Create's Stress Unit to rotational machines from Immersive Engineering using the new treated wood...	34	28.294117647058822
-Create: Asbestos And More	notlilswift	7600	A simple mod adding asbestos, and ways to use it.	293	25.938566552901023
-TofuCreate	baguchiMC	18600	A mod that connects create mod and tofucraftreload!	601	30.948419301164726
-Create: Chicken Nuggets	MaritheVillain	789	An extension of create that allows you to make chicken nuggets, and dino chicken nuggets	35	22.542857142857144
-Create: Air Ducts	ATeamOf_1	33800	A WIP add-on for Create that lets you take control of airflow like never before!	68	497.05882352941177
-CrushBlock	celyarbx	199	CrushBlock – The Ultimate Item Crushing Mod!	81	2.45679012345679
-Create Confectionery	Furti_Two	13400000	🍫 Create your own Chocolate Factory !	1351	9918.57883049593
-Create: Gunsmithing	Jetug	28800	Adds guns to the Create mod	124	232.25806451612902
-Modular Machinery Reborn Create	marcin212a	222	The mod includes Kinetic input/output hatches for MMR	38	5.842105263157895
-Automatic Ore No More: Spelunkery	ximossi	5	Disabling ore generation through Spelunkery's sluice.	39	0.1282051282051282
-Automatic Ore No More: Create	ximossi	12	No more automatic ore farms with Create. This lightweight Data Pack modifies only the relecant...	39	0.3076923076923077
-WoodenCog	Manwe_b	52900	Tfc - Create Compatibility mod	146	362.32876712328766
-Create: Everdrill	bisson2000	786	Adds a drill that can mine blocks forever	52	15.115384615384615
-Create: Mechanical Botania	Micaxs	228000	This mod allows you to convert Botania Mana to Create Rotational Energy	417	546.7625899280575
-Create Big Cannons: Advanced Technologies	dsvv_modding	202000	An Addon for the Create Big Cannons Mod, adding new Cannons and Mechanics	145	1393.103448275862
-Create Factory Ball	Kokoio	1300	Compatibility between Cobblemon and Create	49	26.53061224489796
-Create: Crate Stuff (Broken Bad Addon)	ascens_but_on_curseforge	1200	An addon to Broken Bad to provide more product storage blocks and uses.	45	26.666666666666668
-Create: Wizardry	thetruezeraora	387000	This is an addon mod for Create adding enhanced compatibility with Iron's Spells and Spellbooks....	543	712.707182320442
-Create Ore Excavation Plus	tiestoettoet08	155000	Makes it harder to get diamonds and emeralds in Create Ore Excavation and the possibility...	911	170.14270032930844
-Create Enchantment Industry Plus	tiestoettoet08	58700	Adds Sacs where you can fill them with ink so you get ink sacs	896	65.51339285714286
-Create: Pillager Arise	SmartStreamLabs	89800	10 new create 'mod' structures for in game! ( Defended by pillagers )	281	319.5729537366548
-Create Stuff 'N Additions	Furti_Two	18700000	🧲 Dominate your environment with Create technology	1527	12246.234446627373
-Create: Spring Loaded	Blzinite	19300	Adds a Torsion Spring Motor to release stored energy in the backtanks	290	66.55172413793103
-Create: Tinker's Compat	danniitv_	40700	Make raw crushed ore meltable in smelterys. (i didnt realize this got updated, and it...	98	415.3061224489796
-Create: Originium Industry	Zack_ZHU	7	A story about a brand new ore - Originium, inspired by Arknights.	50	0.14
-Create more crushed ores	Dankest0	255	Datapack that modifies the original recipes for Create's crushed ores, making them more worthwhile to...	50	5.1
-Create Powderlogy & Illumination	knalli65hd	44300	A Extended Bridge Between Create and Powder & More Remastered	1039	42.63715110683349
-Create: Train Announcer	CEntertain	1100	A joke addon for Create that adds a funny train announcer block.	51	21.568627450980394
-Create: Metallurgy	Luc_Creeper74	1500000	Create Metallurgy is a Create Mod Addon adding new metallurgy processings.	413	3631.9612590799034
-Create Cheezy	Heyimlennon	429	This is a Create addon that adds cheese and more with some new meme and...	79	5.430379746835443
-Create Arbitrary	Ri0t69	701	A Create Add-on that adds Arbitrary additions	52	13.48076923076923
-Create: Reforged Foundations	YenHusk	21400	New recipes to obtain most of the blocks and vanilla items in the game.	242	88.4297520661157
-Create: Cardboarded Conveynience	TakeruDavis	7500	A small tweak allowing players to be disguised as packages even on chain conveyor. Extra...	73	102.73972602739725
-Petrolpark Library	Petrolpark	495000	Shared code for my mods	283	1749.1166077738517
-Petrol's Parts (Create add-on)	Petrolpark	485000	New and unique kinetic components for Create	283	1713.7809187279152
-SGJ: Ponder	JajaSteele	2800	A mod that adds Create pondering to preview stargate variants of Stargate Journey	272	10.294117647058824
-Create: Winery [Forge/NeoForge]	robinfrt	361000	Build your own winery with Create.	174	2074.712643678161
-Kitku Create	Marcieo_MP	2	Adds new recipes.	57	0.03508771929824561
-Create: Cataclysm	Poly12gon	5300	Empower your "Create" factory by beating "Cataclysm" bosses	57	92.98245614035088
-Create: Security Program	To0pa	43400	💳 Secure your factories and add tickets to your train network!	89	487.64044943820227
-Valkyrien Skies Copycat Mass Fix	axew13	239	Changes the Valkyrien Skies mass of Create copycats to be accurate to their size/consistent with...	59	4.0508474576271185
-Create: Truly Modular	almightytallestred	1100	Allow Truly Modular's Scuba Helmet to work with Create back tanks.	60	18.333333333333332
-Create: Simple Coins	GreatCowG	1100	Add-on for Create that adds coins to use as currency in multiplayer	66	16.666666666666668
-Create: Stam1o Tweaks	LieOnLion	45700	Tweaks to Create and Minecraft for Stam1o, Developed and Published by - LieOn Studios	63	725.3968253968254
-Create: Metalwork	average_anime	396000	Create: Metalwork is an add-on for Create that introduces new fluids and crushed ores that...	502	788.8446215139443
-Create: Mobile Packages	timplay33	26600	Create: Mobile Packages	70	380
-Create: Connected	Lysine	5000000	A Create mod add-on adding quality-of-life blocks that you wish existed in Create.	549	9107.468123861567
-Create: Armor Blocks	CeoOfGoogle1	28	Simple armor blocks to use on tanks and planes and ships	NaN	NaN
-Create: Applied Kinetics	Forsteri123	958000	Applied Kinetics's integration with Create	742	1291.1051212938005
-Create: Storage [Neo/Forge]	ausmez	353	A lightweight storage addon for the Create Mod featuring Storage Boxes and Backpacks	NaN	NaN
-Waifing - Passive Skill Tree	Dankest0	21	Datapack that modifies and adds skills for Iron's Spells' N Spellbooks, Create, Apotheosis & ParCool!...	NaN	NaN
-Create : CROWNS	RealAntEngineer	12500	Generate SU with Nuclear power and turbines	496	25.201612903225808
-SmarterContraptionStorage	user_rq0ekri1vs64p5ev	2300	A mod to make create contraption storage system smarter	348	6.609195402298851
-Create: Garnished Reworked	DakotaPrideModding	557	Create: Garnished reworked to be more friendly for new players and less overwhelming.	64	8.703125
-Create: Hypertubes	Rokzin	293	Travel arround the world with tubes!	NaN	NaN
-Create : New Furnitures	arginou57	61600	Create Furnitures Mod Multiplayer 3rd Party Chair Seat	171	360.233918128655
-Vintage Improvenents - SSW Edition	SSWTLZZ69	917	the unofficial version of Vintage Improvements	40	22.925
-Create Alchemist's Industry	ironforcefeild	71400	Magical methods to massively master mass-production	772	92.48704663212435
-Create: Vault Interfaces	furtabs	113	A block to extend Create Vaults.	6	18.833333333333332
-Create Ultimine	ChAoS_UnItY_	44800	A Create mod addon that supports FTB Ultimine functionality	72	622.2222222222222
-CBC: Warium Projectiles	SergeantAtoXXV	8600	An addon that adds Warium projectiles to CBC.	77	111.68831168831169
+author	downloads	mods	owner
+GLaD0S	1500000	1	Create: Fishing Bobber Detector | Automatic Fishing with Create
+braydog2040	19400	1	Crafting Recipes For Create
+DakotaPrideModding	3539673	7	Create: Genderless, Create: Herbology, Create: Mechanical Botany, Create: Garnished, Create: Framed, Garnished Stone Automation, Create: Garnished Reworked
+Bentcheesee	137	1	Sophie's Alloys
+TheOrionPax	72900	1	Create: Cold Sweat
+FLa1c	123	1	Create: Portable Addition
+MrJulsen	2102200	2	Create Railways Navigator, Create: Pantographs & Wires
+rbasamoyai	9276500	2	Create Big Cannons, Create: Escalated
+minheur2000	574	1	MinheurModding Bits'n'bobs
+Reggarf	1904800	7	Create: Better Motors, Create Waystones Recipes, Create: Extra Casing, Create Easy Villagers Textures, Create: Fuel Motor, Create: Better Villager, Create: Dimension, Steamworks Realm
+SmartStreamLabs	935200	4	Create: Structures Arise, Create: Sky Village Forge & Fabric, World of Wonders ( Structures ) Forge, Create: Pillager Arise
+ld_anvil	14054	2	Create: Fantasizing Again, Create: Simple Generator
+Lytho	18600000	1	Ponder for KubeJS
+Cashhew	179085	2	Ethium Reimagined, Create: Ethium [Outdated - Check Desc.]
+Cobblemore_Studio	7700	1	Cobblemon: Create Industries (3D Production Models)
+average_anime	1142000	2	Create: Food, Create: Metalwork
+Arp_sys	4600	1	HolyPackage
+Roxxane	875	3	Flat Pack Tweaks, Create: Creative Glue, Create: No Fan
+TheRealXAgent	97	1	Create Horse Power - Together Strong
+daviOliva	318000	1	Create: Aquatic Ambitions
+MadSciSlack	14800	1	Astral Dimension Create Compats (Milling and Crushing)
+grosik	625	1	Create: Sweets & Treats (Reforged)
+robinfrt	3851000	16	Create: Deep Dark [Forge/NeoForge], Create: Rustic Structures [Forge/Fabric/NeoForge], Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge], Create: Cheese Factory [Forge/NeoForge], Create: Peaceful [Forge/Fabric/NeoForge], Create: Ranged [Forge/Fabric/NeoForge], Create: Simple Ore Doubling [Forge/Fabric/NeoForge], Create: Easy Stone Generators [Forge/Fabric/NeoForge], Create: Copper & Zinc [Forge/Fabric/NeoForge], Create: Ultimate Factory [Datapack], Create: Copper & Zinc [Datapack], Create: Enlightend [Forge/NeoForge], Create: Ultimate Factory [Forge/Fabric/NeoForge], Create: Ironworks [Forge/Fabric/NeoForge], Create: Crafts & (More) Additions [Forge/Fabric], Create: Winery [Forge/NeoForge]
+iglee42	4388600	3	Create Encased, Create More Recipes, Create: Quality Of Life
+Skytendo06	553	1	Create: Thermantics
+Chilllliii	4515400	3	Create : Teleporters, Create : Armory, Create: Frozen Flavors
+talrey	25500000	2	Create Deco, Create Deco Fabric
+axollen	1400	1	Create: Ice & Creams
+bisson2000	1886	2	Portal Builder: Create Edition, Create: Everdrill
+drenough455	21300	1	Create: More Chocolate
+M_Productions	1343000	2	Create: Easy Structures, Create Train Additions
+RealAntEngineer	592500	2	Create : Creating Space, Create : CROWNS
+lpcamors	686000	1	Create Optical
+Tatnux	294000	1	Create: Smart Crafter
+Dr_Mango_Tea	4151200	2	Create: More Sand Papers, Create: The Factory Must Grow
+Peatral	562	1	Create: Toolbox Utils
+TheGuy790	1600000	1	Create: Additional Recipes
+stalosir	582500	2	Create Kart, Create Milk Industry
+CraisinLord	30283000	4	Integrated Dungeons and Structures, Integrated Cataclysm, Integrated Stronghold, Integrated Villages
+dudko	40000	1	Create: Blazing Hot
+Amronos	197000	1	Create: Addon Compatibility
+flaulox	50439	2	Pollution Of Create, Create: Currency Shops
+Silopante	1700000	1	Create Air (A ThinAir compat)
+a0a7	19200000	3	Create: Interiors, Create: Bells & Whistles, Create: Dynamic Village
+phicctv	1580000	2	Create Chromatic Return, Create: Supercharged
+Elenterius	50700	1	Create: Bio-Factory
+ProgrammerLP	85100	1	Create: TrainUtilities(Fabric/Forge)
+yuriotavio	1200	1	Better Create
+ibarnstormer_	715000	1	Create Guardian Beam Defense
+moguang	6900	1	CT++
+pyzpre	3078000	3	Create: Oxidized, Create: Bitterballen, Create: Deepfried
+george8188262	4300000	1	Create: Diesel Generators
+DragonEgg	49610	2	JAEPT, More Create Burners
+Kessatsu	68000	1	Create: New Beginnings
+Rushmead	6500	1	Create: Confectioneering
+CathieNova	781000	1	Create: Haven Qualities
+zeh_maria	971000	2	Create Low-Heated, Create Picky Wheels
+Luna	7902100	6	Create: Dreams n' Desires, Create: Bigger Storage, Create: Block n' Zapping, Create: Unify, Create: Design n' Decor, Create: Raw Brass
+Jopgood	248000	1	Create: Fuel & Water Information
+baileyholl2	23100000	1	Ars Creo
+MythrilBagels	3500000	1	Create: Alloyed
+possible_triangle	42902700	3	Create Slice & Dice, Create Jetpack, Big Sip
+Forsteri123	8349900	9	Create: Ender Transmission, Create: Fantastic Weapons, Create: More Drill Heads, Create: Industrial Chemistry, Create: Petrol Powered, Create More Potatoes [Forge], Create More Potatoes [Fabric], Create: Liquid Fuel, Create: Applied Kinetics
+Deepacat	13700	1	Create: Powerlines
+anvian	160000	1	Create: Unbreakable Tools
+To0pa	6222316	4	Create : Misc & Things, Potato Canon Plus [FORGE], Potato Canon Plus [DATAPACK], Create: Security Program
+LatvianModder	32000000	1	KubeJS Create
+tom54541	11295500	3	Create Contraption Terminals, Create Stock Bridge, Create Ore Excavation
+IThundxr	42300000	2	Create: Numismatics, Create: Steam 'n' Rails
+pttheta	608900	2	Create: Love & War, Venders love and war: Flans mod x Create compat
+Robocraft999	6652800	2	Create Goggles (Create Plus), Create: Amazing Trading
+Sarocesch	99400	3	Saro´s Create [Forge/NeoForge], Saro´s Create Support For MrCrayfish's Vehicle, Saro´s Create [Fabric/Quilt]
+fixdol	26500	1	Create Oritech Compat
+getItemFromBlock	993000	1	Create: Tweaked Controllers
+nocubeyt	10757000	4	Create Compressed, Create Compact Exp, Create Recycle Everything, Create Compats
+Petrolpark	1098000	3	Destroy, Petrolpark Library, Petrol's Parts (Create add-on)
+gaeakat	56500	1	Occult Creations
+sonima	146000	1	Create: The Air War
+DArcyOlla	3000	1	Old Elysium
+Doppel_R	6605	2	Doppel's worse Create: Core, Create: JustARecipe
+SageofTurtles	137	1	Genesis: Additions
+donne431	154877	4	Create: Experium ore, Create: Crushing Quartz, Create: Curios Backtank, Create: Curios Backtank [Datapack]
+Gameingareyou	18364	4	ad astra creating space compatibility (Fixed), Creating Space Library, Creating space ores compatibility, Creating space gravity addon (DISCONTINUED)
+sierrasunsets	191	1	The Bad Breakers
+Endal	881400	2	Drive-By-Wire, Trackwork
+donbarzlol	30700	1	Create: Full Automation
+WorkLifeBalance	43700	1	Create Additions & Synthetics
+LieOnLion	57100	2	Create: Goggle Placement, Create: Stam1o Tweaks
+mephodio	8400	1	Sophisticated Injections
+Gaboouu	312	1	Legendary Survival Addon
+UmbraResistis	6000	1	Umbra Poor Ores Create Addon
+Jaredlll08	12400000	1	CreateTweaker
+fluffy_unicorn_army	2400	1	Create Nuka Cola
+PanPandaa	29200	2	Create: Garnished Additions, Garnished Botany Pots
+MegumiKasuga	677	1	KasugaLib
+SnackPirate	57600	1	CBC: Nuclear
+ARprod	1500	1	ARprod's Delight
+Wolfram_24	74	1	Create: Renewable Zeiton
+Googly12	206300	2	Create: Timeless and Classics Zero [TaCZ], Create: Meds and Herbs: Automated
+Vlad_It_and_LPlayer	7500	1	Create: Magics
+Ducker	96500	4	Iron Chests & Create, Elevators and Create, Croptopia and Create, Waystones and Create
+TerraPixel	385900	2	Create: TaCZ Automation, Create Renewability
+CeoOfGoogle1	339828	3	Create: Radars, Create: Clothes, Create: Armor Blocks
+GoatMorreti	54500	1	Create: New Tempest
+golden__skeleton	139000	1	Create: Nuke
+PANINI_0123	14500	1	Create: Craftable Diamond
+AkacioBahno	46800	2	Mekanism The Factory Must Grow Compatibility, Steel Armor Blocks Recipes: TFMG
+jetpacker06	1702900	2	Create: Rags to Riches, Create: Broken Bad
+MuonR	12100	1	Otherworld - Origins
+betathunder1	480000	1	Create: Oppenheimered
+StormDragon_64	480000	1	Create: Components and Additions
+Bracken40	1600000	1	Create: Cobblemon Industrialized
+Poly12gon	9768	3	Create: Abuti, Create: Poly12gon's Easy Guns, Create: Cataclysm
+IAteMinecraf	4100	1	VS: Ship Handler
+Nazaru	5700	1	Create: Molten Metallurgy
+LittleButter66	73200	2	Create Ad Astra Recipes, Create: Quark Runes
+Baisylia	51	1	Fundamentally Fixed
+thetj_	15800	1	Create: Stone Generator
+Notaronzik	4700	1	Create: Uncraftables Automation
+igneo220	129	1	Igneo's Mining Revamp
+RegenStudios	6400	1	Create: Let them eat Goo!
+LunaGlaze	130000	1	Create: Rainbow Compound
+cdredstone	6500	1	Create: Numismatics Recipes
+paulgb434	2188	2	Immersive Engineering Ore Doubling + Balance Tweaks (Datapack Version), Immersive Engineering Ore Doubling + Balance Tweaks
+Robotik	6000	1	Create: Tool Master
+MilkyFur	633000	1	Create: The Kitchen Must Grow
+zeeks_xyz	498	1	[Craftartaro] Food N Stuff
+DenisJaved	297	1	StoryAnvil's Create: Tools RP
+JEDIGD	62200	1	Create Firearms Patch (kinetic pixel)
+schnecke_7	42800	1	Create: Station Decor
+Furti_Two	32281000	3	Create Logistics, Create Confectionery, Create Stuff 'N Additions
+ItsRuby05	394000	1	Create: Tank Defenses
+Seristic	6900	1	Pixelmon Factory
+BlackNek	250	1	Oh The Biomes We've Gone + Create (wood recipes)
+Kittymaster	178	1	Create: Progression
+oreorobdog	3700	1	Blaze Craft Reborn Beta (BCRB)
+Rockiecraft	35300	1	Create: More Farmables [Forge/Fabric]
+CrimsonCrips	15000	1	Create : Potato Firepower
+perl	15100	1	Create: Arms Race
+Yakiko	701	1	USP Unified Space Program
+XiaoHuNao	14000	1	Create Heat JS
+Erdragh	755000	3	Spouting Fix, Ponder Overrides, Astral Vinery
+oierbravo	9259817	9	Create Paper Line, Create: Mechanical teleporter, Create Sifting, Create Mechanical Spawner, Create Jet boots, Create Mechanical Cow, Create Mechanical Chicken, Mechanical trading station, Create Mechanical Extruder
+Wizrat	2800	1	Forgotten structures
+leon_mout	25379000	2	Create: Dynamic Lights, Iris & Oculus Flywheel Compat
+NotTouchedGrass	7900	1	Create: More Alloys
+Glitchlabs	27	1	Chaosket
+panicnot422	20600	1	Create: Halitosis Create: Halitosis
+shopon	5100	1	CreaTaCZ
+R3charged	31600	1	Create Slugma
+PwnagePineapple	19800	1	TIS-Create
+Negodya1	1440000	2	Create: Vintage Improvements, Vintage KubeJS
+cosmaztics	7900	1	Create : Tools n' Weapons [BETA]
+Chaolux	643	2	Create: Remote Terminal, Create: Cardboard Things
+the_iwolfking	110000	1	Create: Filters Anywhere
+MarcosJoestar	364000	3	Create: Immersive Tacz Integration, Create: Totem Factory, Create: Mechanical Companion
+Lysine	21877700	4	Create: Copycats+, Create: Power Loader (Fabric), Create: Power Loader, Create: Connected
+Aarods21	204	1	Integrated Dungeons Arise
+Lgmrszd	2460000	2	Compressed Creativity, Create: Mounted Storages
+LandscapesReimagined	5376	3	Create: Bigger Storage Updated to Create 6, Create - Forge Frontier Core, Create: Dreams n' Desires Updated to Create 6
+austinsupercar	8500	1	Austinsupercar's Dungeons and Bosses
+Retr0visor	177	1	Create: SomeTricks
+Brunixon2	5200	1	Create Gravel extractors
+zloydrakon	202	1	Create: Additional Crafts
+Enhance	331	1	EnhancedCraft
+lightning2401	159000	1	Create: Northstar
+VAXS	2200	1	Create Numismatics Craft
+CanadianBaconBoi	560	1	Vault Fixes
+subthy	16100	1	Create: Cobblemon Tweaks
+DeeChael	1700	1	Sand Filter
+CakeIsTastyDeveloper	3232400	3	Create: Deepslate Processing, Create: Pattern Schematics, Create: Trading Floor
+rawsushi	23400	1	Create: Wither's Herb
+rubydesic	1900000	1	Clockwork: Create x Valkyrien Skies
+Falcon314	16	1	Create Multimeter
+MrAtomicBombHead	31900	1	Create: Automate Everything
+lukeonDaCat	6500	1	Create Advanced Horses
+TheArchitects777	1600	1	Skylands Core
+dugske	911000	1	Create: Modern Train Parts
+celsiusqc	3954200	4	Create Planetary Tweaks, Create Weaponry, Create Blue Skies Compat, Create Infernal Expansion Compat
+themaxpowa	101000	1	Apotheotic Creation
+JoeySchmoe	41	1	Create Tweaks and Compatibility
+soularox	907	1	Create: Water Mesh
+ThePandaXXL	8000	1	Create Panda
+akki_kayo	74	1	Create: Jet Engine
+gamerbenyt	5900	1	Create: Props And Misc
+jodlodi	5700	1	Cogs of Carminite
+T32	560	1	Create: Precise Manufacturing
+Axolotl_Man	3800	1	create: tempad
+SrRapero720	22400	1	WATERCoRE: Chat Format and Luckperms
+wildcard_gamer	88300	1	Buddycards Expansions
+antopfr90	2200000	1	Create: Factory
+Halogen	38800	1	Create: Edible Belts
+ZeroNoRyouki	29000	1	Extreme Reactors Create Compat
+Txni	831000	1	Create: Balanced Flight (Angel Ring)
+solewap	3700	1	Blaze Remover
+singularity_cyvack	5800000	1	Create: Crystal Clear
+moromorochan	544000	1	Create Style Hopper
+Quatrogamer	230	1	PBI - 3
+SCsupercraft	21900	1	CFB
+GuwyTheSlimeBoi	29197	3	RedstoneStick's Ironman, Sticky Foundations, RSTM
+thedoctorofdoctoring	82400	2	GBPTweaker, Mechanical Botania
+YenHusk	26300	2	Create Extra Recipes, Create: Reforged Foundations
+PigeonholeAu	14100	1	Pigeon's Create Recipes
+Sh4d0wJ0J0	53300	1	Create: Cobblemon Factory
+End_Rage	4356000	5	Create Guns, Create: ComputerCraft (CC: Tweaked), Create Camera, Eureka! Create Airships!, Create: Alloyed Guns
+eightkv	154000	1	Create Mob Eggs
+NeonGreenShades	2185	2	NGS's ScorchedGun Stats and Create Recipe, NGS's ScorchedGun Stats and Create Recipe [Datapack Ver]
+FlapjacksMods	223000	1	Jack's Economy (Create Edition)
+Dankest0	4776	3	Create clear glass, Create more crushed ores, Waifing - Passive Skill Tree
+sonomremi	5300	1	Create: Stuff & Crafts
+cmn1yes	29700	1	Create: More Renewable
+sir_Robson	910000	2	Create Hand Crafting, TFC Ore Excavation
+Myst	3500000	1	Create Cafe
+moepus	6698	2	MoeCS, Create:Fluid Stuffs
+JerryLu086	1244800	2	Oooh, Pinky!, More Create Stuffs
+FoxyDungeon	11100	1	Foxy's Electronics
+DepthDrako	2500	1	Create: The Bots Foundry
+Ferri_Arnus	163000	1	Liquid Burner
+FalSociety	3200	1	[PROJECT REPLACED] Create: The Coolest Addon Ever
+SpokenWig620933	94600	1	Create: Basic Additions
+FTB	150600	2	FTB Skies Companion, FTB Rickety Water Wheel
+SwanX1	456	1	Fractal Skylands Tweaks
+Rabbitminers	8642000	4	Create: Extended Cogwheels, Create: Extended Flywheels, Create: Extended Cogwheels Fabric, Create: Extended Flywheels Fabric
+abovearth	699000	1	Mopeds
+StarlightCraft	96300	1	Create Crafts & Additions Plus
+Calemi	9200	1	Calemi's Organized Crime
+Klutzer	652	1	Create: Recipe Everything
+TT_TCS	34200	1	Create: Irradiated
+WitherTM	145000	1	Create: Biomimicry
+drdeviousahh	10700	1	Create: Blast Off!
+xkball	5600	1	Create: BlueprintVoid
+Sweetygamer	64800	1	Create : Gravity
+Amygdaloideae	76600	1	Dynamic Trees Create Compat
+arnem16	125	1	Recipe & rebirth
+nostalgic_roentgen6266002	555	1	ViboTech: Move Contraptions!
+laptoppunk	630	3	Copper Lungs: Updated, Create: Ore Processing, Deeper Drilling
+iylo	78200	1	Create: WooderWheels
+Tamaized	373	1	Create: Cobble to Netherrack
+Jagdoggo	10300	1	Easy Trains
+Userofbricks	41100	1	EC Create Compatability
+Slimekong20	34700	1	Skyward Recipe Changes
+screret	19700	1	Gravitas² Core
+Snakeypro	357000	1	Create: More Automation
+Bennyboy1695	12600	2	Create: More Copycats, Mechanical Machinery
+Sanderk35	750	2	Sanders' More Food, More Tools and Stuff
+tiny_ghasto	28400	1	Create Sandpaper Overhaul
+INFInight897	90200	1	Create: The Recipe Expansion
+Partonetrain	5600	1	RPM2RF
+TorsePoil	350000	1	Create : The Salt
+MrTinker	5400	1	Hexcoins: Create Crushin'
+GlekTarssza	60000	1	Create Curio Goggles
+ArgenNova	31600	1	Create: Immersive Portals for Forge
+baguchiMC	341700	3	Freeze Create, Sleepable Create, TofuCreate
+ChauveDev	78700	1	Wooden cog
+wrldmap	161	1	EnderSMP Economy
+Koone0	15800	1	Create : Ammo
+dragoneye_eon	14600	1	Create: Founded
+FilipPikus12333	37	1	Create: Extra Motors
+Tejty	10900	1	Potato Cannon Ammo Counter
+Ropyxa	103000	1	Ender IO: ReCreated
+Sammy_echt	6600000	1	CC:C Bridge
+Lord_Of_Crumbs	136000	1	Craftable Create Casings (Forge/Fabric)
+kenimoT	20400	1	Create: Fabilium (Create: decorations, previously)
+Jerome226	2200	1	TFC Rosia Create Compat
+DariusZeBaguette	2600000	1	Create: Netherless (Forge)
+Ridanisaurus	674000	1	EE: Create
+curryducker	71200	1	Expanding Technologies
+EDToaster	12500000	1	Little Contraptions
+Leroidesafk	3500000	1	Create Sabers
+Juses	20	1	Create: Concrete
+magminer54	32500	1	Create: Dall
+Plunger_Boy	400000	1	Create: Upgraded Armor
+TheLynkYT	681000	1	Create Decoration Casing
+Mrthomas20121	5400	1	Tool's Complement: Create
+tribnutzz	25100	1	Create: BioFuel
+TheDukeOfCamorr	165000	1	Create Editions
+Sindarin27	253000	1	Create: Trains On Trains
+Kaffeekirsche	20000	1	Create Cherry Addon
+ViktorLivingshield	5000	1	PokeParts: Pixelmon + Create compat
+Agony_247	379	1	Pamps Expansion
+DragonsPlus	43342067	7	Origins: Accessibilities, Create: Apothic Enchanting, Create: Enchantment Industry - Fabric, Create: Central Kitchen, Create: Dragons Plus, Create: Enchantment Industry, Create: Classic Blaze Enchanter
+embeddedt	7100000	1	Create Chunkloading
+TTPeter	5300	1	Create x CreatePlus (Forge) ([0.5.1][0.5.1a])
+redstoneguy10ls	4000	1	TerraFirmaBoiler2
+CommanderT3706	18800	1	Create: Foundry
+Timeship	14400	1	Create Electrified
+ssm227	2800000	1	Create Ad Astra Compat
+TheonlyTazz	112	1	Colorful Azaleas Trees - Create Compat
+nullBlade	14666000	2	Create: Electric Stonks, Create: New Age
+Raeeeee	539	1	Create: Bronze Age
+SpringerPlayz29	2100	1	Create: Random Adittions
+SeriousCreeper	471000	1	TFC Create
+zrikon	63000	1	Create Theme Armor Addon
+morgan_iiii	5200	1	create structures addons
+9Octo	26600	1	Create Shrunk
+ProtonPLUS	6900	1	Proton's Create Additions
+rekzx128	4800	1	jurassic prelude: prehistoric
+thegrandslam2002	44	1	Create: Complexities
+Jasmine	3100	1	Discover Addon
+CKenJa	4200	1	TerraFirmaBoiler
+stevreng	269000	2	Create: Brass Coated, Create: Connected Block Textures
+Drazuam	108000	1	Create InfiniDrill
+PouffyDev	12400	1	Milkyway Core
+xaros74	505000	1	Create gear addon
+eddye0820	292	1	Sequenced Item JS
+juh9870	685000	1	More Mounted Storages
+Apothicon	1560000	2	Create: Molten Geodes, Create: Molten Vents
+Ribs498	1200000	1	Haywire Robots, Bandits and Guns- A Scorched Bronze Addon
+BinnQuinn	121000	1	Create: Pixelfactory
+Bitboard	7800	1	Create Innovations
+zerobuncle	1600000	1	Ars Technica
+techgamingcore	108	1	CreateBarters
+ForgeStove	9400	1	Create: Cyber Goggles
+flipperpanda706	127000	1	Create Compression
+MRHminer	65900000	1	Create Crafts & Additions
+yuesha_yc	2444000	2	The Winter Rescue: Frosted Heart, Create: Steam Powered (1.16/1.18/1.20)
+Blue_PHS	5000	1	Create: Vintage
+zznty	8700	1	Create Factory Logistics
+zhichaoxi2006	2500	1	Applied Schematicannon
+ChaosCraft_HD	39100	1	ChaosZPack [Lost Cities] Better Cities / Zombie Apocalypse / Abandoned Structures / TacZ
+P1nero	2800	2	Create : Arm-made Barbeque, Create: Arm-made Cuisine
+LiukRast	140903	5	Create: Extra Gauges, Create: Delivery Director, Create: Direct Chute, Create: Packagers PSI Compat, EMI: Create Schematics
+P3pp3rF1y	1904000	2	Sophisticated Backpacks Create Integration, Sophisticated Storage Create Integration
+Lalusko	2000	1	Create Cogs Invaders
+seraphaestus	307	1	Better Unloading
+ghostcody	676	1	Ghost's Questionable Consumables
+Noobulus_Dos	2800000	1	Tetra Pak
+StacheSebastian	316000	2	CreateFoodAdditions, CreateArmoredCopperBacktanks
+Ditti_	250	1	Create - ErasFlo
+sascha_to	870	1	Create: Computing
+smorb42	37000	1	Create: Condensed Milk
+luis_joga	367000	1	Create Curios
+DigiRai	163000	1	PixelCreate Compat
+Noach05	7500	1	HARDIS
+AlignedCookie88	243	1	The Temple Of Kakayaya
+the_buildy_bunch	8000	1	Parkour Universe
+kotakotik22	6448000	3	PonderJS, Create Automated, Create Gears
+ajaxo_	4100	1	FactoriOres Reforked
+Grimmauld	318200	2	Cogwheel Tweaker, Create Integration
+ruifengx	47	1	Skyland Utils
+Galaxy3056	281	1	Filler
+sashafiesta	117500	2	Boat Contraptions [Create Addon], Create: Connected Fabric [experimental]
+sconedb	5100	2	Create Addon: Thermal Expansion Alloys, Create Addon: Mekanism Alloys
+ProfessorAkaChris	2	1	Rotate
+Electrisoma	18	1	Create: Blood is Fuel!
+Vol1t	5500	1	cbot bc
+CreateNuclearTeam	169000	1	Create Nuclear
+Flomik	973300	3	Delightful Creators [Fabric] (Create and Farmer's Delight Addon), Respite Creators [Fabric] (Create and Farmer's Respite Addon), Cultural Creators [Fabric] (Create and Cultural Delights Addon)
+JPsama	5202	2	The Amazing Chocolatier, CoH item fixes
+szedann	42	1	Create BlueMap
+Cotrin	749000	2	Create: Enchantable Machinery, Create: Ender Link
+llyycci	18	1	Void Power (for Fabric)
+C1200	10200	1	Create: Tramways
+MrPup	13900	1	Create: Cooking
+stacode	7300	1	Create Realism
+frinn38	422000	1	Custom Machinery Create
+MuriPlz	452200	2	Create: Missions, Create: Kryeit
+NatiM6	17700	1	Create: Lazy Engines
+ZLT	45900	1	Create: Vibrant Vaults
+SuperMartijn642	13800000	1	Rechiseled: Create
+Mayaqq	5800000	1	Create: Estrogen
+MR_sticky_piston	595000	1	Create Cobblestone
+EnjoyerOfE	10000	1	Create: Charcoal to Diamonds
+xaero96	5000000	1	Create Support for Open Parties and Claims
+dandyjay	937	1	DANDYCORP Cobblemon Additions
+Shulej	3300	1	Create Sifting Fabric
+flyingmylife	349	1	Seasonal Adventures
+foxynotail	81100	1	Create: Storage
+TheClashFruit	766	1	Create: P&S
+artanjp	3400	1	FlowerCrops
+TheSadGuy	19500	1	KubeJS Create for Fabric
+OrdanaryMods	352000	1	Create: Molten Metals
+MrSterner_	272000	1	Create: Diesel Generators [Fabric]
+Mlodziak00	18500	1	Create: Netherless (Fabric)
+HackFight	853	1	Create: Switzerland
+moxg	378	1	Chronost Foods [Fabric]
+SmiteGee	33	1	Create: Mixin mob and drops
+TexTrue	1200000	1	CreateFabric&REIBugFix
+Misigno	2500	1	CreateDPCompat
+Phoupraw	1000	1	Create's Delight
+Monster__zero	487000	1	Create Sifting Refabricated
+Yjn024	642000	1	CreatePlus
+CroakAndRoll	1200	1	[Discontinued] Create: Sustainable
+InfinityUniverse999	5600	1	Oh no: Create Utilities
+thevortexFoxTopia	73700	1	Gravitas² Re-Cored
+irishgreencitrus	9500	1	Create: Occult Engineering
+JCS	30500	1	Create: Nuka Cola Classic
+Clenner	462	1	Create: Magic Recipes
+CreateModFan154	2200	1	Create: Designed Decor
+Project8gbDeRam	12600	1	Create: Compounds
+Viola_Siemens	37000	1	Survive in the Winter Frontier
+maougaukken__	2400	1	Create Many More Mechanisms
+Electrolyte	7900	1	Greate
+Neeco_Arc	7800	1	Create: Chromatic Return Extras
+DadudeGaming	521	1	Create: Mobile Packages Unofficial
+therealzekedev15222	22	1	Alloyed Mining
+AepheraStudios	2835	2	Create: Defensive, Create: Enhanced Mastery
+terentre4e25caracteres	10100	1	Create: Back on Track Core
+JasdewStarfield	469	1	Create: Limited Draining
+finchymcfinch	117000	1	Create: Sound of Steam
+Dadamalda	4600	1	Create: Compatible Storage
+xKcinnay	7400	1	Create: Cobblemon Balls Overhaul
+Pink_Cats	524	1	Create:Entity Control
+JoGamer207	5100	1	Create Vampirism
+FuriusMaximus	90100	1	Create: Chimneys
+CatfishPhasma	548	1	Master of Machinery
+Kykokos	21	1	Quantum Lands
+pm777x2	962	1	Create Immersive Unnecessary Shaft
+notlilswift	7600	1	Create: Asbestos And More
+MaritheVillain	789	1	Create: Chicken Nuggets
+ATeamOf_1	33800	1	Create: Air Ducts
+celyarbx	199	1	CrushBlock
+Jetug	28800	1	Create: Gunsmithing
+marcin212a	222	1	Modular Machinery Reborn Create
+ximossi	17	2	Automatic Ore No More: Spelunkery, Automatic Ore No More: Create
+Manwe_b	52900	1	WoodenCog
+Micaxs	228000	1	Create: Mechanical Botania
+dsvv_modding	202000	1	Create Big Cannons: Advanced Technologies
+Kokoio	1300	1	Create Factory Ball
+ascens_but_on_curseforge	1200	1	Create: Crate Stuff (Broken Bad Addon)
+thetruezeraora	387000	1	Create: Wizardry
+tiestoettoet08	213700	2	Create Ore Excavation Plus, Create Enchantment Industry Plus
+Blzinite	19300	1	Create: Spring Loaded
+danniitv_	40700	1	Create: Tinker's Compat
+Zack_ZHU	7	1	Create: Originium Industry
+knalli65hd	44300	1	Create Powderlogy & Illumination
+CEntertain	1100	1	Create: Train Announcer
+Luc_Creeper74	1500000	1	Create: Metallurgy
+Heyimlennon	429	1	Create Cheezy
+Ri0t69	701	1	Create Arbitrary
+TakeruDavis	7500	1	Create: Cardboarded Conveynience
+JajaSteele	2800	1	SGJ: Ponder
+Marcieo_MP	2	1	Kitku Create
+axew13	239	1	Valkyrien Skies Copycat Mass Fix
+almightytallestred	1100	1	Create: Truly Modular
+GreatCowG	1100	1	Create: Simple Coins
+timplay33	26600	1	Create: Mobile Packages
+ausmez	353	1	Create: Storage [Neo/Forge]
+user_rq0ekri1vs64p5ev	2300	1	SmarterContraptionStorage
+Rokzin	293	1	Create: Hypertubes
+arginou57	61600	1	Create : New Furnitures
+SSWTLZZ69	917	1	Vintage Improvenents - SSW Edition
+ironforcefeild	71400	1	Create Alchemist's Industry
+furtabs	113	1	Create: Vault Interfaces
+ChAoS_UnItY_	44800	1	Create Ultimine
+SergeantAtoXXV	8600	1	CBC: Warium Projectiles

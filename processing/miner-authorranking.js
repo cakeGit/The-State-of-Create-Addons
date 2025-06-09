@@ -39,6 +39,7 @@ function processContent(output, content, filename) {
             };
         }
         var mods = output[author].mods;
+        if (mods[name]) continue;
         mods[name] = true;
         output[author] = {
             author: output[author].author,
@@ -78,6 +79,8 @@ fs.readdir(dataDir, (err, files) => {
     });
 
     for (var authorName in output) {
+        output[authorName].owner = Object.keys(output[authorName].mods).join(", ");
+
         output[authorName].mods = Object.keys(output[authorName].mods).length;
     }
     let tableout = jsonToTable(output);

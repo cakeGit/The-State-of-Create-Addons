@@ -17,7 +17,28 @@ The big 3: MRHminer (1 mod), possible_triangle (2 mods), IThundxr (3 mods).
 
 Top ~50 authors (total download count):
 ![Downloads by author](/images/downloads_by_author_bar.png)
-(I'm 33rd :D)
+I'm 44th :)
+
+### Who the hell is robinfrt!?
+
+No clue, but they own 16 (16!!) mods:
+- Create: Deep Dark [Forge/NeoForge]
+- Create: Rustic Structures [Forge/Fabric/NeoForge]
+- Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge]
+- Create: Cheese Factory [Forge/NeoForge]
+- Create: Peaceful [Forge/Fabric/NeoForge]
+- Create: Ranged [Forge/Fabric/NeoForge]
+- Create: Simple Ore Doubling [Forge/Fabric/NeoForge]
+- Create: Easy Stone Generators [Forge/Fabric/NeoForge]
+- Create: Copper & Zinc [Forge/Fabric/NeoForge]
+- Create: Ultimate Factory [Datapack]
+- Create: Copper & Zinc [Datapack]
+- Create: Enlightend [Forge/NeoForge]
+- Create: Ultimate Factory [Forge/Fabric/NeoForge]
+- Create: Ironworks [Forge/Fabric/NeoForge]
+- Create: Crafts & (More) Additions [Forge/Fabric]
+- Create: Winery [Forge/NeoForge]
+Wow, what a guy!
 
 ## Mods by download rates
 
