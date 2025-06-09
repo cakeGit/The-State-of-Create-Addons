@@ -1,0 +1,179 @@
+Create: BlueprintVoid
+  By  
+xkball
+5.6K Downloads
+Updated Mar 8, 2024
+Created Feb 28, 2024
+
+Similar to structure void in vanilla mc. When a schematic with blueprint void is printed,...
+
+Create : Gravity
+  By  
+Sweetygamer
+64.8K Downloads
+Updated Mar 7, 2024
+Created Jan 18, 2023
+
+🌌 Turns the Ender into the Moon
+
+Dynamic Trees Create Compat
+  By  
+Amygdaloideae
+76.6K Downloads
+Updated Mar 2, 2024
+Created Feb 28, 2024
+
+(Deprecated) Unofficial mixin mod to re-add compat for Mechanical Saw to cut Dynamic Trees
+
+Recipe & rebirth
+  By  
+arnem16
+125 Downloads
+Updated Mar 1, 2024
+Created Feb 28, 2024
+
+Crafting innovation, obsidian creation.
+
+Create Camera
+  By  
+End_Rage
+142K Downloads
+Updated Feb 29, 2024
+Created Jan 11, 2022
+
+The Create mod aesthetic on the Camera Mod
+
+Eureka! Create Airships!
+  By  
+End_Rage
+160K Downloads
+Updated Feb 28, 2024
+Created Jan 13, 2023
+
+The Create mod aesthetic on Eureka!
+
+ViboTech: Move Contraptions!
+  By  
+nostalgic_roentgen6266002
+555 Downloads
+Updated Feb 28, 2024
+Created Feb 15, 2024
+
+Enable controlling Create contraptions with CC-Tweaked computers.
+
+Creating space gravity addon (DISCONTINUED)
+  By  
+Gameingareyou
+10.2K Downloads
+Updated Feb 28, 2024
+Created Feb 3, 2024
+
+Adds low gravity
+
+Copper Lungs: Updated
+  By  
+laptoppunk
+410 Downloads
+Updated Feb 27, 2024
+Created Feb 27, 2024
+
+Create x Miner's Lung: Use the Copper Backtank in low-air areas
+
+Create: Totem Factory
+  By  
+MarcosJoestar
+286K Downloads
+Updated Feb 23, 2024
+Created Feb 23, 2024
+
+Adds a complex crafting recipe for the totem of undying, with multiple steps and items,...
+
+Create: WooderWheels
+  By  
+iylo
+78.2K Downloads
+Updated Feb 14, 2024
+Created Feb 14, 2024
+
+A simple plugin to make Create waterwheels accept any and all wood types.
+
+Create: More Drill Heads
+  By  
+Forsteri123
+618K Downloads
+Updated Feb 13, 2024
+Created Mar 23, 2023
+
+More drill heads for faster mining machines!
+
+Create: Cobble to Netherrack
+  By  
+Tamaized
+373 Downloads
+Updated Feb 11, 2024
+Created Feb 11, 2024
+
+Create: Cobblestone to Netherrack
+
+TFC Ore Excavation
+  By  
+sir_Robson
+456K Downloads
+Updated Feb 4, 2024
+Created Jan 25, 2024
+
+TFC deposits mined by "create ore excavation"
+
+Easy Trains
+  By  
+Jagdoggo
+10.3K Downloads
+Updated Feb 4, 2024
+Created Feb 4, 2024
+
+This mod makes create mod trains easier to craft
+
+EC Create Compatability
+  By  
+Userofbricks
+41.1K Downloads
+Updated Feb 1, 2024
+Created Oct 30, 2023
+
+adds Compatability between Create And Expanded Combat
+
+Skyward Recipe Changes
+  By  
+Slimekong20
+34.7K Downloads
+Updated Jan 31, 2024
+Created Jan 31, 2024
+
+Some recipe changes
+
+Gravitas² Core
+  By  
+screret
+19.7K Downloads
+Updated Jan 30, 2024
+Created Nov 26, 2023
+
+The core integration mod for ATM Gravitas².
+
+Create: More Automation
+  By  
+Snakeypro
+357K Downloads
+Updated Jan 20, 2024
+Created Dec 1, 2023
+
+A Simple Create addon that makes it so you can automate so much more!
+
+Create: More Copycats
+  By  
+Bennyboy1695
+11.3K Downloads
+Updated Jan 17, 2024
+Created Jan 16, 2024
+
+Adds a whole bunch more copycat blocks to the game based on creates copycat blocks

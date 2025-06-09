@@ -1,0 +1,179 @@
+Create: Steam 'n' Rails
+  By  
+IThundxr
+41.2M Downloads
+Updated Dec 11, 2024
+Created Oct 13, 2022
+
+Adding depth to Create's rail network & steam system
+
+Create: Copper & Zinc [Datapack]
+  By  
+robinfrt
+33.9K Downloads
+Updated Nov 9, 2024
+Created Jan 6, 2024
+
+This datapack adds recipes for Veridium and Asurine from the Create mod, to give the...
+
+Create: More Farmables [Forge/Fabric]
+  By  
+Rockiecraft
+35.3K Downloads
+Updated Oct 23, 2024
+Created Jan 30, 2024
+
+an addon for Create that adds items, Recipes, blocks and Fluids to make automation possible or...
+
+Spouting Fix
+  By  
+Erdragh
+107K Downloads
+Updated Oct 3, 2024
+Created Oct 3, 2024
+
+Fixes an issue with Create's REI Implementation
+
+Ponder Overrides
+  By  
+Erdragh
+106K Downloads
+Updated Oct 3, 2024
+Created Oct 3, 2024
+
+Allows overriding Create's Ponders via KubeJS
+
+Seasonal Adventures
+  By  
+flyingmylife
+349 Downloads
+Updated Sep 26, 2024
+Created Jun 29, 2024
+
+Mod based on MrLololoshka's l.p.
+
+Create: More Alloys
+  By  
+NotTouchedGrass
+7.9K Downloads
+Updated Sep 12, 2024
+Created Sep 12, 2024
+
+Adds more alloys that can be used instead of andesite.
+
+Respite Creators [Fabric] (Create and Farmer's Respite Addon)
+  By  
+Flomik
+470K Downloads
+Updated Sep 11, 2024
+Created Aug 11, 2023
+
+Making automation between Farmers's Respite (Addon for Farmer's Delight) and Create
+
+Create: Storage
+  By  
+foxynotail
+81.1K Downloads
+Updated Sep 6, 2024
+Created May 7, 2024
+
+A lightweight storage addon for the Create Mod featuring Storage Boxes and Backpacks
+
+Create: P&S
+  By  
+TheClashFruit
+766 Downloads
+Updated Aug 27, 2024
+Created Jul 27, 2024
+
+A Create add-on that adds piss and shit to the game with interesting mechanics!
+
+FlowerCrops
+  By  
+artanjp
+3.4K Downloads
+Updated Aug 13, 2024
+Created Mar 2, 2022
+
+A total of 25 types of flowers, 13 default and 12 new, will be available...
+
+KubeJS Create for Fabric
+  By  
+TheSadGuy
+19.5K Downloads
+Updated Aug 12, 2024
+Created Aug 12, 2024
+
+KubeJS integration within Create for Fabric 1.20.1
+
+Create: Deepslate Processing
+  By  
+CakeIsTastyDeveloper
+32.4K Downloads
+Updated Aug 2, 2024
+Created Jul 24, 2024
+
+Adds some recipes and items to make deepslate able to be processed into minerals.
+
+Clockwork: Create x Valkyrien Skies
+  By  
+rubydesic
+1.9M Downloads
+Updated Jul 30, 2024
+Created Jan 12, 2023
+
+The power of mechanical contraptions meets the wackiness of physics- with a magical twist!
+
+Cultural Creators [Fabric] (Create and Cultural Delights Addon)
+  By  
+Flomik
+38.3K Downloads
+Updated Jul 14, 2024
+Created Dec 24, 2023
+
+Making automation between Cultural Delights (Addon for Farmer's Delight) and Create
+
+Create: Modern Train Parts
+  By  
+dugske
+911K Downloads
+Updated Jul 14, 2024
+Created Mar 5, 2023
+
+This is a create addon that implements modern railway systems, cargo and deco blocks for...
+
+Garnished Botany Pots
+  By  
+PanPandaa
+20.6K Downloads
+Updated Jun 29, 2024
+Created Jun 24, 2024
+
+GBP adds compatibility between Create: Garnished’s Plants & Nuts and Botany Pots, so you can...
+
+Create: Molten Metals
+  By  
+OrdanaryMods
+352K Downloads
+Updated May 25, 2024
+Created Apr 29, 2024
+
+Melt down metals, cast ingots and engage in metallurgy with Create: Molten Metals
+
+Create: Connected Fabric [experimental]
+  By  
+sashafiesta
+32.2K Downloads
+Updated May 17, 2024
+Created Apr 18, 2024
+
+Partial UNOFFICIAL port of Create: Connected
+
+Create Mob Eggs
+  By  
+eightkv
+154K Downloads
+Updated May 16, 2024
+Created Nov 28, 2023
+
+Allows obtaining mob eggs in Create Mod.

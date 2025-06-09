@@ -1,0 +1,179 @@
+Create: Poly12gon's Easy Guns
+  By  
+Poly12gon
+268 Downloads
+Updated Oct 5, 2024
+Created Oct 5, 2024
+
+Datapack for Create and MrCrayfish's Gun Mod. You can make guns of 3 tiers(andesite alloy,...
+
+Create Heat JS
+  By  
+XiaoHuNao
+14K Downloads
+Updated Oct 4, 2024
+Created Jun 11, 2024
+
+Allow to use Kubejs, customize Create's Heat Source Block, HeatLevel.
+
+Spouting Fix
+  By  
+Erdragh
+107K Downloads
+Updated Oct 3, 2024
+Created Oct 3, 2024
+
+Fixes an issue with Create's REI Implementation
+
+Create: Unify
+  By  
+Luna
+20K Downloads
+Updated Sep 23, 2024
+Created Mar 31, 2024
+
+Material Library for addons "avoiding the ingot dupe for create addons"
+
+Create Paper Line
+  By  
+oierbravo
+13.9K Downloads
+Updated Sep 21, 2024
+Created Aug 7, 2023
+
+Automation line around paper and books.
+
+Forgotten structures
+  By  
+Wizrat
+2.8K Downloads
+Updated Sep 15, 2024
+Created Aug 6, 2024
+
+A small structure mod
+
+Create: Dynamic Lights
+  By  
+leon_mout
+279K Downloads
+Updated Sep 15, 2024
+Created Aug 3, 2024
+
+Add dynamic lights to the Create mod.
+
+Create: More Alloys
+  By  
+NotTouchedGrass
+7.9K Downloads
+Updated Sep 12, 2024
+Created Sep 12, 2024
+
+Adds more alloys that can be used instead of andesite.
+
+Chaosket
+  By  
+Glitchlabs
+27 Downloads
+Updated Sep 10, 2024
+Created May 31, 2024
+
+a addon for the sky
+
+Create: Ethium [Outdated - Check Desc.]
+  By  
+Cashhew
+179K Downloads
+Updated Sep 9, 2024
+Created Oct 16, 2023
+
+A new powerful metal for the Create Mod
+
+Waystones and Create
+  By  
+Ducker
+38K Downloads
+Updated Sep 7, 2024
+Created Sep 6, 2024
+
+Adds recipes for the "Waystones" mod in Create!
+
+Create: Curios Backtank [Datapack]
+  By  
+donne431
+277 Downloads
+Updated Sep 4, 2024
+Created Sep 4, 2024
+
+This datapack allow pull backtank from Create into Curios slot.
+
+Create: Halitosis Create: Halitosis
+  By  
+panicnot422
+20.6K Downloads
+Updated Sep 2, 2024
+Created Sep 2, 2024
+
+Fan processing recipes with an ender dragon head
+
+Creating space ores compatibility
+  By  
+Gameingareyou
+64 Downloads
+Updated Sep 2, 2024
+Created Sep 2, 2024
+
+Adds compatibility between creating space and other mods
+
+Venders love and war: Flans mod x Create compat
+  By  
+pttheta
+1.9K Downloads
+Updated Sep 1, 2024
+Created Sep 1, 2024
+
+Recipe compat between Flan's mod: Vender's game, and Create: Love and war
+
+CreaTaCZ
+  By  
+shopon
+5.1K Downloads
+Updated Aug 29, 2024
+Created Aug 29, 2024
+
+Automatic ammo with Create
+
+Create Slugma
+  By  
+R3charged
+31.6K Downloads
+Updated Aug 29, 2024
+Created Aug 11, 2024
+
+A Cobblemon and Create Mod Addon mod that adds the Slugma Burner.
+
+TIS-Create
+  By  
+PwnagePineapple
+19.8K Downloads
+Updated Aug 25, 2024
+Created Feb 25, 2023
+
+TIS-3D Serial Port protocols for the Create ecosystem
+
+Create: Vintage Improvements
+  By  
+Negodya1
+1.4M Downloads
+Updated Aug 25, 2024
+Created Dec 4, 2023
+
+Some machines & compats
+
+Create : Tools n' Weapons [BETA]
+  By  
+cosmaztics
+7.9K Downloads
+Updated Aug 20, 2024
+Created Aug 20, 2024
+
+Don't think the potato cannon is enough? Don't worry, this mod has you covered, and...

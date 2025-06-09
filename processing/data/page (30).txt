@@ -1,0 +1,179 @@
+Better Unloading
+  By  
+seraphaestus
+307 Downloads
+Updated Jan 18, 2023
+Created Jan 11, 2023
+
+A databack to improve Create trains via (un)loadable minecart contraption cargo
+
+Ghost's Questionable Consumables
+  By  
+ghostcody
+676 Downloads
+Updated Dec 29, 2022
+Created Dec 29, 2022
+
+A spicy collection of questionable consumptions for you and your friends!
+
+Create: Connected Block Textures
+  By  
+stevreng
+147K Downloads
+Updated Dec 21, 2022
+Created Sep 23, 2022
+
+Decorate your structures with connecting blocks
+
+Create Compats
+  By  
+nocubeyt
+357K Downloads
+Updated Dec 20, 2022
+Created Dec 19, 2022
+
+Adds compatibility with other mods, like The Aether, Galosphere, Undergarden for modpacks.
+
+Create: Extended Flywheels
+  By  
+Rabbitminers
+1.2M Downloads
+Updated Dec 12, 2022
+Created Aug 22, 2022
+
+A small mod to add on to Create by adding numerous new flywheels and bringing...
+
+Create: Mounted Storages
+  By  
+Lgmrszd
+360K Downloads
+Updated Dec 4, 2022
+Created Nov 30, 2022
+
+Allows more modded storages to be used as a part of Create moving contraptions. Fork...
+
+RSTM
+  By  
+GuwyTheSlimeBoi
+797 Downloads
+Updated Nov 15, 2022
+Created Jul 31, 2022
+
+It's a mod about space travel, assembly lines and complex machines
+
+Potato Canon Plus [FORGE]
+  By  
+To0pa
+78.5K Downloads
+Updated Oct 17, 2022
+Created Aug 16, 2022
+
+🥔Makes all food compatible with the potato cannon
+
+Big Sip
+  By  
+possible_triangle
+2.7K Downloads
+Updated Sep 12, 2022
+Created Aug 1, 2022
+
+addon for the create mod introducing various drinks and other content surrounding them
+
+Tetra Pak
+  By  
+Noobulus_Dos
+2.8M Downloads
+Updated Sep 5, 2022
+Created Apr 1, 2021
+
+An add-on mod for Tetra that adds support for several new materials
+
+CreateFoodAdditions
+  By  
+StacheSebastian
+249K Downloads
+Updated Aug 28, 2022
+Created May 23, 2021
+
+Adds Food to Create
+
+CreateArmoredCopperBacktanks
+  By  
+StacheSebastian
+67K Downloads
+Updated Aug 28, 2022
+Created Jul 3, 2022
+
+Adds Armored Backtanks to Create
+
+Create - ErasFlo
+  By  
+Ditti_
+250 Downloads
+Updated Aug 23, 2022
+Created Aug 23, 2022
+
+🥫 additional crops and food recipes 🥫
+
+Potato Canon Plus [DATAPACK]
+  By  
+To0pa
+416 Downloads
+Updated Aug 16, 2022
+Created Aug 16, 2022
+
+🥔Makes all food compatible with the potato cannon
+
+Create: Computing
+  By  
+sascha_to
+870 Downloads
+Updated Aug 8, 2022
+Created Jul 29, 2022
+
+An addon for Create that adds ComputerCraft "integration" in form of peripheral blocks and more.
+
+Create: Condensed Milk
+  By  
+smorb42
+37K Downloads
+Updated Jul 26, 2022
+Created Jul 25, 2022
+
+An addon for Create that makes Deepslate and Netherack renewable.
+
+Create Curios
+  By  
+luis_joga
+367K Downloads
+Updated Jun 21, 2022
+Created Jun 21, 2022
+
+A compat layer to use Create engineer's goggles in Curios head slot
+
+PixelCreate Compat
+  By  
+DigiRai
+163K Downloads
+Updated Jun 10, 2022
+Created Jun 9, 2022
+
+Adds items and recipes to create compatibility between pixelmon and the create mod
+
+Create: Supercharged
+  By  
+phicctv
+380K Downloads
+Updated May 4, 2022
+Created Apr 26, 2022
+
+Reimplements Chromatic Compound and it's alloys in a new farmable way!
+
+HARDIS
+  By  
+Noach05
+7.5K Downloads
+Updated Apr 11, 2022
+Created Mar 9, 2021
+
+Hard And Relatively Difficult In Style (HARDIS) Mod

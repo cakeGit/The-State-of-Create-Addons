@@ -1,0 +1,179 @@
+NGS's ScorchedGun Stats and Create Recipe [Datapack Ver]
+  By  
+NeonGreenShades
+85 Downloads
+Updated Apr 22, 2024
+Created Apr 22, 2024
+
+Crafting recipes and Weapon Stats for Scorched Bronze mod, balanced around Create for automation and...
+
+Foxy's Electronics
+  By  
+FoxyDungeon
+11.1K Downloads
+Updated Apr 19, 2024
+Created Jul 31, 2023
+
+A Minecraft Mod That Adds All Kinds Of Working Electronics
+
+Create: The Bots Foundry
+  By  
+DepthDrako
+2.5K Downloads
+Updated Apr 18, 2024
+Created Apr 18, 2024
+
+Welcome to this first mod to bring the fell of a triple A title to...
+
+Create: No Fan
+  By  
+Roxxane
+219 Downloads
+Updated Apr 16, 2024
+Created Apr 15, 2024
+
+Add "_no_fan" to the end of the registry name of a smoking or smelting recipe...
+
+Liquid Burner
+  By  
+Ferri_Arnus
+163K Downloads
+Updated Apr 11, 2024
+Created Nov 23, 2022
+
+Makes the Create Blaze Burners Accept liquids
+
+[PROJECT REPLACED] Create: The Coolest Addon Ever
+  By  
+FalSociety
+3.2K Downloads
+Updated Apr 8, 2024
+Created Jan 13, 2024
+
+A mod that adds small gadgets and tools to the Create Mod
+
+Create: Basic Additions
+  By  
+SpokenWig620933
+94.6K Downloads
+Updated Apr 5, 2024
+Created Jan 10, 2023
+
+Basic additions to the Create mod.
+
+FTB Skies Companion
+  By  
+FTB
+37.6K Downloads
+Updated Apr 3, 2024
+Created Apr 3, 2024
+
+Small mod that provides some helper tools to FTB Skies
+
+FTB Rickety Water Wheel
+  By  
+FTB
+113K Downloads
+Updated Apr 3, 2024
+Created Apr 3, 2024
+
+This adds just one block: a Water Wheel which acts exactly like Create's small Water...
+
+Fractal Skylands Tweaks
+  By  
+SwanX1
+456 Downloads
+Updated Apr 2, 2024
+Created Mar 5, 2022
+
+Tweak mod for the (WIP) Fractal Skylands modpack!
+
+Create: ComputerCraft (CC: Tweaked)
+  By  
+End_Rage
+1.9M Downloads
+Updated Apr 2, 2024
+Created Jun 28, 2023
+
+CC: Tweaked but with a design more fitting of the Create Mod
+
+Create: Extended Cogwheels
+  By  
+Rabbitminers
+4.9M Downloads
+Updated Apr 2, 2024
+Created Dec 17, 2022
+
+A small mod to add more cog types to create
+
+Mopeds
+  By  
+abovearth
+699K Downloads
+Updated Apr 2, 2024
+Created Jan 22, 2024
+
+Add copper mopeds that go vroom!
+
+Create Crafts & Additions Plus
+  By  
+StarlightCraft
+96.3K Downloads
+Updated Apr 2, 2024
+Created Jan 25, 2024
+
+An addon of Create: Crafts & Additions, adds realistic crafting recipe.
+
+Calemi's Organized Crime
+  By  
+Calemi
+9.2K Downloads
+Updated Mar 31, 2024
+Created Aug 11, 2022
+
+Adds custom content for Calemi's Organized Crime Modpack.
+
+Create: Recipe Everything
+  By  
+Klutzer
+652 Downloads
+Updated Mar 29, 2024
+Created Mar 21, 2024
+
+This mod introduces a variety of new items and blocks specifically designed to enhance and...
+
+Create: Irradiated
+  By  
+TT_TCS
+34.2K Downloads
+Updated Mar 29, 2024
+Created Sep 13, 2023
+
+Adds radioactive materials to the Create mod!
+
+Create Blue Skies Compat
+  By  
+celsiusqc
+1.7M Downloads
+Updated Mar 22, 2024
+Created May 9, 2023
+
+Adds compatibility recipes & items between Create and Blue Skies
+
+Create: Biomimicry
+  By  
+WitherTM
+145K Downloads
+Updated Mar 19, 2024
+Created Jun 3, 2023
+
+The act of copying animals to improve your circumstances
+
+Create: Blast Off!
+  By  
+drdeviousahh
+10.7K Downloads
+Updated Mar 15, 2024
+Created Feb 11, 2024
+
+A create mod addon that adds moon related items.

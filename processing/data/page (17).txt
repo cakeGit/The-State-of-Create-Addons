@@ -1,0 +1,179 @@
+Otherworld - Origins
+  By  
+MuonR
+12.1K Downloads
+Updated Dec 28, 2024
+Created Oct 25, 2024
+
+Races, Classes, and More based off the DnD 5e Handbook [Inspired by Baldur's Gate 3]
+
+Create: Oppenheimered
+  By  
+betathunder1
+480K Downloads
+Updated Dec 28, 2024
+Created Nov 8, 2023
+
+Adds crafting compat between Alex's Caves and Create.
+
+Create: Components and Additions
+  By  
+StormDragon_64
+480K Downloads
+Updated Dec 26, 2024
+Created Mar 3, 2023
+
+A small Create addon I made for my Create-focused vanilla+ modpack, Create+.
+
+Create: Cobblemon Industrialized
+  By  
+Bracken40
+1.6M Downloads
+Updated Dec 21, 2024
+Created Jun 13, 2023
+
+Stylized compatibility between Cobblemon and Create!
+
+Create: Abuti
+  By  
+Poly12gon
+4.2K Downloads
+Updated Dec 20, 2024
+Created Dec 20, 2024
+
+Create addon that adds some salmon sushi and a way to craft creative motors using...
+
+VS: Ship Handler
+  By  
+IAteMinecraf
+4.1K Downloads
+Updated Dec 17, 2024
+Created Nov 12, 2024
+
+A mod to automatically remove those pesky random ships.
+
+Create: Molten Metallurgy
+  By  
+Nazaru
+5.7K Downloads
+Updated Dec 17, 2024
+Created Jul 31, 2024
+
+An Addon for Create that adds Molten Metals, While also adding recipes from both other...
+
+Create Ad Astra Recipes
+  By  
+LittleButter66
+32.3K Downloads
+Updated Dec 17, 2024
+Created Dec 17, 2024
+
+Makes Create More Compatible with Ad Astra
+
+Create: JustARecipe
+  By  
+Doppel_R
+6.6K Downloads
+Updated Dec 14, 2024
+Created Nov 18, 2024
+
+Simple mod that adds new and alternative recipes to create
+
+Fundamentally Fixed
+  By  
+Baisylia
+51 Downloads
+Updated Dec 14, 2024
+Created Jul 8, 2023
+
+Curing Minecraft of its fundamental flaws
+
+Create: Steam 'n' Rails
+  By  
+IThundxr
+41.2M Downloads
+Updated Dec 11, 2024
+Created Oct 13, 2022
+
+Adding depth to Create's rail network & steam system
+
+Create: Stone Generator
+  By  
+thetj_
+15.8K Downloads
+Updated Dec 10, 2024
+Created Apr 29, 2024
+
+A small addon to create the various create stones
+
+Create: Uncraftables Automation
+  By  
+Notaronzik
+4.7K Downloads
+Updated Dec 7, 2024
+Created Dec 1, 2024
+
+This Create mod addon adds automation for clay and sand.
+
+Igneo's Mining Revamp
+  By  
+igneo220
+129 Downloads
+Updated Dec 5, 2024
+Created Dec 5, 2024
+
+Early beta revamp of minecrafts mining. Meant to feel like Deep Rock Galactic
+
+Create: Let them eat Goo!
+  By  
+RegenStudios
+6.4K Downloads
+Updated Dec 4, 2024
+Created Dec 4, 2024
+
+A simple canned processed food mod. Adds a way to sort, mix and package any...
+
+Create: Rainbow Compound
+  By  
+LunaGlaze
+130K Downloads
+Updated Dec 1, 2024
+Created Dec 13, 2022
+
+This mod re-added the new recipe of Chromatic in Create and added a more advanced...
+
+Creating Space Library
+  By  
+Gameingareyou
+5.6K Downloads
+Updated Nov 30, 2024
+Created Nov 30, 2024
+
+Adds blocks and items for the offical CS modpack
+
+Create: Numismatics Recipes
+  By  
+cdredstone
+6.5K Downloads
+Updated Nov 28, 2024
+Created Nov 28, 2024
+
+Convert between different coins in Create: Numismatics!
+
+Immersive Engineering Ore Doubling + Balance Tweaks (Datapack Version)
+  By  
+paulgb434
+188 Downloads
+Updated Nov 26, 2024
+Created Nov 26, 2024
+
+Return ore doubling for Immersive Engineering as per pre-1.17!
+
+Immersive Engineering Ore Doubling + Balance Tweaks
+  By  
+paulgb434
+2K Downloads
+Updated Nov 26, 2024
+Created Nov 26, 2024
+
+Returns ore doubling (for both the Crusher & Arc Furnace) as per the pre-1.17 levels....

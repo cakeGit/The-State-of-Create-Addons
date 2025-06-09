@@ -1,0 +1,179 @@
+Create: Rustic Structures [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+26.4K Downloads
+Updated Mar 31, 2025
+Created Mar 31, 2025
+
+This mod adds functional and decorative structures using Create blocks.
+
+Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+395K Downloads
+Updated Mar 21, 2025
+Created Jul 4, 2024
+
+Use Create jetpack and backtanks in Curios/Trinkets back slot.
+
+Create: Blazing Hot
+  By  
+dudko
+40K Downloads
+Updated Mar 17, 2025
+Created Jul 24, 2024
+
+Molten metals, Metal Food, Blaze Gold, Nether-related content, QoL recipes and more.
+
+Create: Interiors
+  By  
+a0a7
+7.7M Downloads
+Updated Mar 13, 2025
+Created Aug 24, 2023
+
+A complement to the Create mod that adds new, functional furniture.
+
+Create: Bells & Whistles
+  By  
+a0a7
+7.8M Downloads
+Updated Mar 13, 2025
+Created Aug 21, 2023
+
+Adornments and decorations for the aesthetically concerned Create engineer.
+
+Create: TrainUtilities(Fabric/Forge)
+  By  
+ProgrammerLP
+85.1K Downloads
+Updated Mar 10, 2025
+Created May 31, 2024
+
+Mod that adds custom sliding doors with realistic opening & closing sounds and station blocks,...
+
+Create: Dreams n' Desires
+  By  
+Luna
+2.7M Downloads
+Updated Mar 9, 2025
+Created May 22, 2023
+
+A mod that adds random stuff & that may try to fit within creates theme!...
+
+Create Slice & Dice
+  By  
+possible_triangle
+29.4M Downloads
+Updated Mar 7, 2025
+Created Aug 14, 2022
+
+Making automation for Farmers Delight more sensible
+
+Create: Ender Transmission
+  By  
+Forsteri123
+3.8M Downloads
+Updated Mar 7, 2025
+Created Dec 15, 2022
+
+Energy/Item/Fluid transmission with no space limit
+
+Create: Peaceful [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+56.9K Downloads
+Updated Mar 6, 2025
+Created Apr 14, 2024
+
+Tired of building mob farms? Or maybe you just want to play in Peaceful mode?...
+
+Create: Unbreakable Tools
+  By  
+anvian
+160K Downloads
+Updated Mar 6, 2025
+Created Jan 18, 2024
+
+This is an addon mod for Create that provides a way to make your tools...
+
+KubeJS Create
+  By  
+LatvianModder
+32M Downloads
+Updated Mar 5, 2025
+Created Dec 18, 2020
+
+KubeJS Create integration
+
+Create Contraption Terminals
+  By  
+tom54541
+560K Downloads
+Updated Mar 4, 2025
+Created Jul 8, 2024
+
+Allows Tom's Simple Storage Terminals to work on Create contraptions.
+
+Create: Numismatics
+  By  
+IThundxr
+1.1M Downloads
+Updated Mar 4, 2025
+Created Jul 17, 2023
+
+Aesthetic & Functional Create styled currency mod
+
+Create Goggles (Create Plus)
+  By  
+Robocraft999
+6.6M Downloads
+Updated Mar 3, 2025
+Created Apr 22, 2020
+
+Adds Goggle Helmets and Armored Backtanks for Create Mod
+
+Create: Ranged [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+30.2K Downloads
+Updated Mar 2, 2025
+Created Dec 25, 2024
+
+Automate the crafting of Tipped Arrows with Create.
+
+Create: Charcoal to Diamonds
+  By  
+EnjoyerOfE
+10K Downloads
+Updated Mar 2, 2025
+Created Jan 10, 2025
+
+!FABRIC IS CURRENTLY BUGGED, WILL REMOVE WHEN FIXED! An addon for the Create mod where...
+
+Create: Simple Ore Doubling [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+149K Downloads
+Updated Mar 2, 2025
+Created Jul 3, 2024
+
+Increase your ore yield with Create. Up to 3x return.
+
+Create: Easy Stone Generators [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+61.9K Downloads
+Updated Mar 2, 2025
+Created Feb 23, 2025
+
+Easier, lag-free stone generators using Create. Includes Cobblestone, Smooth Stone, Obsidian, Basalt, Limestone and Scoria...
+
+Create: Copper & Zinc [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+364K Downloads
+Updated Mar 2, 2025
+Created Feb 22, 2024
+
+An addon for the Create mod providing recipes for Veridium and Asurine, to give the...

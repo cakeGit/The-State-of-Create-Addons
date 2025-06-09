@@ -1,0 +1,179 @@
+Create: Toolbox Utils
+  By  
+Peatral
+562 Downloads
+Updated Mar 21, 2025
+Created Mar 20, 2025
+
+Enchant toolboxes with loyalty to make them follow you around
+
+Create: Additional Recipes
+  By  
+TheGuy790
+1.6M Downloads
+Updated Mar 20, 2025
+Created Dec 23, 2023
+
+A simple Create addon that adds more recipes, making more items automatable.
+
+Create Kart
+  By  
+stalosir
+574K Downloads
+Updated Mar 20, 2025
+Created Nov 26, 2024
+
+This addon introduces an all-new vehicle: a fully functional kart, whose design is entirely automatable...
+
+Create: Sky Village Forge & Fabric
+  By  
+SmartStreamLabs
+42.8K Downloads
+Updated Mar 19, 2025
+Created Sep 18, 2024
+
+Village in the sky! filled with create loot, You won't steel items ?
+
+Integrated Dungeons and Structures
+  By  
+CraisinLord
+16.6M Downloads
+Updated Mar 18, 2025
+Created Apr 3, 2022
+
+Integrated Dungeons and Structures (aka IDAS) is a mod that adds heavily detailed structures using...
+
+Create: Blazing Hot
+  By  
+dudko
+40K Downloads
+Updated Mar 17, 2025
+Created Jul 24, 2024
+
+Molten metals, Metal Food, Blaze Gold, Nether-related content, QoL recipes and more.
+
+Create: Addon Compatibility
+  By  
+Amronos
+197K Downloads
+Updated Mar 16, 2025
+Created Apr 8, 2024
+
+Adds compatibility between different create addons.
+
+Pollution Of Create
+  By  
+flaulox
+49.5K Downloads
+Updated Mar 14, 2025
+Created Apr 30, 2024
+
+Addon for the Create Mod Backtank to work with Pollution of the Realms.
+
+Create Air (A ThinAir compat)
+  By  
+Silopante
+1.7M Downloads
+Updated Mar 14, 2025
+Created Jun 25, 2023
+
+Adds compatibility between Create and Thin Air. Making the player use diving tanks in deep...
+
+Create: Interiors
+  By  
+a0a7
+7.7M Downloads
+Updated Mar 13, 2025
+Created Aug 24, 2023
+
+A complement to the Create mod that adds new, functional furniture.
+
+Create: Extra Casing
+  By  
+Reggarf
+109K Downloads
+Updated Mar 13, 2025
+Created Feb 2, 2025
+
+( create 6.0.0 compatible )This mod expands the customization options in the Create mod by...
+
+Create: Bells & Whistles
+  By  
+a0a7
+7.8M Downloads
+Updated Mar 13, 2025
+Created Aug 21, 2023
+
+Adornments and decorations for the aesthetically concerned Create engineer.
+
+Create Chromatic Return
+  By  
+phicctv
+1.2M Downloads
+Updated Mar 13, 2025
+Created Jul 14, 2021
+
+Adds 9 new Alloys, Light Sabers, Charms & New Automation Possibilities!
+
+Create: Bio-Factory
+  By  
+Elenterius
+50.7K Downloads
+Updated Mar 11, 2025
+Created Nov 9, 2024
+
+Bio-Factory is a add-on mod for Biomancy which adds dedicated compatibility for Create and bridges...
+
+Create: TrainUtilities(Fabric/Forge)
+  By  
+ProgrammerLP
+85.1K Downloads
+Updated Mar 10, 2025
+Created May 31, 2024
+
+Mod that adds custom sliding doors with realistic opening & closing sounds and station blocks,...
+
+Better Create
+  By  
+yuriotavio
+1.2K Downloads
+Updated Mar 10, 2025
+Created Mar 10, 2025
+
+Unusual recipes and creative creations
+
+Create Guardian Beam Defense
+  By  
+ibarnstormer_
+715K Downloads
+Updated Mar 10, 2025
+Created May 10, 2023
+
+Addon for Create that adds in sophisticated laser defense systems
+
+CT++
+  By  
+moguang
+6.9K Downloads
+Updated Mar 10, 2025
+Created Dec 22, 2024
+
+A mod for the compabilities between GTM and Create
+
+Create: Oxidized
+  By  
+pyzpre
+1.7M Downloads
+Updated Mar 10, 2025
+Created Dec 24, 2023
+
+Create: Oxidized brings oxidizing recipes to the Create mod
+
+Create: Diesel Generators
+  By  
+george8188262
+4.3M Downloads
+Updated Mar 9, 2025
+Created Jun 2, 2023
+
+A mod that adds Diesel Generators, Crude Oil Refinery and much more to the create...

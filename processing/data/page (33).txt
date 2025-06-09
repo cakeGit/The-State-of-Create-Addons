@@ -1,0 +1,179 @@
+Create: Escalated
+  By  
+rbasamoyai
+76.5K Downloads
+Updated May 16, 2025
+Created May 6, 2025
+
+Bringing you to higher places in your Create mod builds
+
+Void Power (for Fabric)
+  By  
+llyycci
+18 Downloads
+Updated May 16, 2025
+Created May 16, 2025
+
+Fabric version of Void Power Mod, based on 1.20.1
+
+Create: Tramways
+  By  
+C1200
+10.2K Downloads
+Updated May 13, 2025
+Created Nov 2, 2024
+
+Create: Tramways adds a bunch of tram-related features.
+
+Create: Cooking
+  By  
+MrPup
+13.9K Downloads
+Updated May 13, 2025
+Created Dec 28, 2023
+
+Indulge your virtual taste buds with Create: Cooking
+
+Iris & Oculus Flywheel Compat
+  By  
+leon_mout
+25.1M Downloads
+Updated May 11, 2025
+Created Aug 15, 2022
+
+Enable Flywheel's optimizations when use shaders.
+
+Create Realism
+  By  
+stacode
+7.3K Downloads
+Updated May 10, 2025
+Created Feb 19, 2025
+
+A Create addon that adds a bunch of features to make Create trains more realistic.
+
+Custom Machinery Create
+  By  
+frinn38
+422K Downloads
+Updated May 10, 2025
+Created May 11, 2023
+
+Create support for Custom Machinery
+
+Create: Missions
+  By  
+MuriPlz
+451K Downloads
+Updated May 6, 2025
+Created Sep 9, 2023
+
+Economy for Create mod servers by granting weekly missions
+
+Create: Lazy Engines
+  By  
+NatiM6
+17.7K Downloads
+Updated May 2, 2025
+Created Jun 6, 2024
+
+Configurable Steam Engines
+
+Create: New Age
+  By  
+nullBlade
+14.2M Downloads
+Updated May 1, 2025
+Created Aug 23, 2023
+
+Create: New Age is an addon for the Create mod that adds integration with electricity.
+
+Garnished Stone Automation
+  By  
+DakotaPrideModding
+5.5K Downloads
+Updated Apr 29, 2025
+Created Jul 26, 2024
+
+Makes Crimsite, Veridium, Asurine, and Ochrum automatable once again using Create: Garnished
+
+Create: Vibrant Vaults
+  By  
+ZLT
+45.9K Downloads
+Updated Apr 25, 2025
+Created Apr 25, 2025
+
+A Create mod addon that adds more item vaults.
+
+Create: Ironworks [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+238K Downloads
+Updated Apr 23, 2025
+Created Jul 21, 2024
+
+An addon for the Create mod bringing new materials (Tin, Bronze, Steel) and related items.
+
+Create: Crafts & (More) Additions [Forge/Fabric]
+  By  
+robinfrt
+60K Downloads
+Updated Apr 20, 2025
+Created Sep 3, 2024
+
+More blocks, items and tools for Create Crafts & Additions.
+
+Create Ore Excavation
+  By  
+tom54541
+10.7M Downloads
+Updated Apr 19, 2025
+Created Jul 25, 2022
+
+Extract resources using machines powered by Rotational Force
+
+Create: Deepfried
+  By  
+pyzpre
+567K Downloads
+Updated Apr 13, 2025
+Created Mar 20, 2024
+
+Adds fast food to the Create mod
+
+Rechiseled: Create
+  By  
+SuperMartijn642
+13.8M Downloads
+Updated Apr 9, 2025
+Created Jul 14, 2023
+
+Rechiseled: Create adds new decorative variants of blocks in Create!
+
+Create: Estrogen
+  By  
+Mayaqq
+5.8M Downloads
+Updated Apr 7, 2025
+Created Apr 14, 2023
+
+Create Addon Based around expressing yourself, fluid handling and expanding your factory. This mod adds...
+
+Create Cobblestone
+  By  
+MR_sticky_piston
+595K Downloads
+Updated Apr 5, 2025
+Created May 23, 2024
+
+Adds a block generating cobblestone using SU, stopping cobblestone generators from eating your frames.
+
+Create Deco
+  By  
+talrey
+21.9M Downloads
+Updated Apr 1, 2025
+Created Jul 29, 2021
+
+Industrial decoration themed around the aesthetics of the Create mod.

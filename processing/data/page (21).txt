@@ -1,0 +1,179 @@
+Create Tweaks and Compatibility
+  By  
+JoeySchmoe
+41 Downloads
+Updated Jul 8, 2024
+Created Jul 4, 2024
+
+Custom personal datapack meant to add some small recipe changes to Create as well as...
+
+Create: Water Mesh
+  By  
+soularox
+907 Downloads
+Updated Jul 5, 2024
+Created Jul 5, 2024
+
+Adds a water mesh that automatically refills at a rate of 1 bucket per second....
+
+Create Panda
+  By  
+ThePandaXXL
+8K Downloads
+Updated Jul 3, 2024
+Created Oct 24, 2023
+
+Create Panda adds items like a bamboo cake or bamboo glazed apples
+
+Create: Jet Engine
+  By  
+akki_kayo
+74 Downloads
+Updated Jul 3, 2024
+Created Jul 2, 2024
+
+Add Jet Engines to Create Mod. Let's Fly Away!
+
+Create: Props And Misc
+  By  
+gamerbenyt
+5.9K Downloads
+Updated Jul 2, 2024
+Created Jul 2, 2024
+
+Create: Props And Misc is an addon for the popular Minecraft Create mod, enhancing your...
+
+Cogs of Carminite
+  By  
+jodlodi
+5.7K Downloads
+Updated Jul 1, 2024
+Created Feb 26, 2024
+
+Addon mod for both Create mod and the Twilight Forest mod
+
+Create: Precise Manufacturing
+  By  
+T32
+560 Downloads
+Updated Jul 1, 2024
+Created Jul 1, 2024
+
+A Create Mod Addon that aims to incorporate automatable recipes using TaC Zero's mod items.
+
+Garnished Botany Pots
+  By  
+PanPandaa
+20.6K Downloads
+Updated Jun 29, 2024
+Created Jun 24, 2024
+
+GBP adds compatibility between Create: Garnished’s Plants & Nuts and Botany Pots, so you can...
+
+create: tempad
+  By  
+Axolotl_Man
+3.8K Downloads
+Updated Jun 27, 2024
+Created Jun 27, 2024
+
+texture pack for tempad that makes it look more in the create style
+
+WATERCoRE: Chat Format and Luckperms
+  By  
+SrRapero720
+22.4K Downloads
+Updated Jun 26, 2024
+Created Dec 28, 2022
+
+Powerfull Mod to enhance Forge Servers porting features from popular Bukkit plugins (EssentialsX & Luckperms)
+
+Buddycards Expansions
+  By  
+wildcard_gamer
+88.3K Downloads
+Updated Jun 24, 2024
+Created Jan 16, 2022
+
+Cross-mod integration for Buddycards, adding new cards to collect!
+
+Create: Factory
+  By  
+antopfr90
+2.2M Downloads
+Updated Jun 21, 2024
+Created May 14, 2022
+
+🍬 A lot of new foods added to Create!
+
+Create Weaponry
+  By  
+celsiusqc
+380K Downloads
+Updated Jun 18, 2024
+Created May 30, 2023
+
+Weapon making through molten metals w/ casts and custom weapons
+
+Create: Edible Belts
+  By  
+Halogen
+38.8K Downloads
+Updated Jun 16, 2024
+Created Jul 29, 2022
+
+Adds a whole new meaning to "belt spaghetti".
+
+Extreme Reactors Create Compat
+  By  
+ZeroNoRyouki
+29K Downloads
+Updated Jun 16, 2024
+Created Nov 7, 2023
+
+Create compatibility module for Extreme Reactors
+
+Create: Balanced Flight (Angel Ring)
+  By  
+Txni
+831K Downloads
+Updated Jun 11, 2024
+Created Oct 20, 2021
+
+An "Angel Ring" addon for Create that doesn't break the game.
+
+Blaze Remover
+  By  
+solewap
+3.7K Downloads
+Updated Jun 7, 2024
+Created May 14, 2024
+
+Remove blazes from blaze burners
+
+Create: Crystal Clear
+  By  
+singularity_cyvack
+5.8M Downloads
+Updated Jun 6, 2024
+Created Sep 5, 2022
+
+A mod that adds glass casings to create
+
+Create Style Hopper
+  By  
+moromorochan
+544K Downloads
+Updated May 29, 2024
+Created Mar 21, 2023
+
+Adding remodeled hopper look like Createmod things.
+
+PBI - 3
+  By  
+Quatrogamer
+230 Downloads
+Updated May 26, 2024
+Created Apr 21, 2024
+
+This mod was created for the modpack: Project: Build It 3 and adds new recipes...

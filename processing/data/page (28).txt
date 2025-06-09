@@ -1,0 +1,179 @@
+PokeParts: Pixelmon + Create compat
+  By  
+ViktorLivingshield
+5K Downloads
+Updated Aug 22, 2023
+Created Aug 20, 2023
+
+Create + Pixelmon compatibility
+
+Create Recycle Everything
+  By  
+nocubeyt
+5.6M Downloads
+Updated Aug 20, 2023
+Created Jun 10, 2023
+
+Use Crushing Wheels to recycle useless items and clean up the storage. Perfect for modpacks.
+
+Pamps Expansion
+  By  
+Agony_247
+379 Downloads
+Updated Aug 10, 2023
+Created Jul 28, 2023
+
+Compatability mod for mods made by The Pamps.
+
+Origins: Accessibilities
+  By  
+DragonsPlus
+2.2M Downloads
+Updated Aug 6, 2023
+Created Aug 25, 2022
+
+A addon for the Origins mod, making your Origins life easier
+
+Create Chunkloading
+  By  
+embeddedt
+7.1M Downloads
+Updated Aug 6, 2023
+Created Jun 14, 2021
+
+Adds a chunkloader block that works with Create
+
+Create x CreatePlus (Forge) ([0.5.1][0.5.1a])
+  By  
+TTPeter
+5.3K Downloads
+Updated Jul 11, 2023
+Created Jul 10, 2023
+
+Compatibility for Create Plus and Create(0.5.1+) under MC 1.18.
+
+TerraFirmaBoiler2
+  By  
+redstoneguy10ls
+4K Downloads
+Updated Jul 9, 2023
+Created Jul 9, 2023
+
+Create's steam boiler and TerraFirmaCraft's Charcoal forge Compatibility. for Nonbiri Create Server's Modpack ...
+
+Create: Foundry
+  By  
+CommanderT3706
+18.8K Downloads
+Updated Jul 3, 2023
+Created Jun 11, 2023
+
+Use your Create skills and machines to create the ultimate ore processor!
+
+Create Electrified
+  By  
+Timeship
+14.4K Downloads
+Updated Jul 2, 2023
+Created Nov 23, 2022
+
+Bridging Forge Energy and Create Mod RPM
+
+Create Infernal Expansion Compat
+  By  
+celsiusqc
+74.2K Downloads
+Updated Jul 1, 2023
+Created May 19, 2023
+
+Adds compatibility recipes between Create and Infernal Expansion
+
+Create Ad Astra Compat
+  By  
+ssm227
+2.8M Downloads
+Updated Jul 1, 2023
+Created Mar 18, 2023
+
+Adds crushed ore compatability for ad astra ores
+
+Mechanical Botania
+  By  
+thedoctorofdoctoring
+77.9K Downloads
+Updated Jun 30, 2023
+Created Jun 30, 2023
+
+Botania Mana -> Create RPM
+
+Colorful Azaleas Trees - Create Compat
+  By  
+TheonlyTazz
+112 Downloads
+Updated Jun 28, 2023
+Created Jun 24, 2023
+
+A Compat Datapack between Colorful Azaleas Trees and Create
+
+Create: Electric Stonks
+  By  
+nullBlade
+466K Downloads
+Updated Jun 24, 2023
+Created Nov 21, 2022
+
+This mod adds integration between create and electricity
+
+Create: Bronze Age
+  By  
+Raeeeee
+539 Downloads
+Updated Jun 24, 2023
+Created Jun 10, 2023
+
+A precise mechanical addon for the Create mod
+
+Create: Random Adittions
+  By  
+SpringerPlayz29
+2.1K Downloads
+Updated Jun 15, 2023
+Created Dec 17, 2022
+
+An Addon for Create mod and a compatibility mod for Speng Factory adding various blocks...
+
+TFC Create
+  By  
+SeriousCreeper
+471K Downloads
+Updated Jun 13, 2023
+Created Dec 21, 2022
+
+Mod that provides some compatibility between TerraFirmaCraft and Create
+
+Create Theme Armor Addon
+  By  
+zrikon
+63K Downloads
+Updated Jun 3, 2023
+Created Jun 3, 2023
+
+A small addition to Create for a new beautiful armor
+
+create structures addons
+  By  
+morgan_iiii
+5.2K Downloads
+Updated May 30, 2023
+Created May 30, 2023
+
+add structures to create
+
+Sleepable Create
+  By  
+baguchiMC
+320K Downloads
+Updated May 24, 2023
+Created May 23, 2023
+
+This mod make Sleep on bed in Create Train!

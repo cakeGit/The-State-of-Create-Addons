@@ -1,0 +1,179 @@
+Create: Everdrill
+  By  
+bisson2000
+786 Downloads
+Updated Apr 29, 2025
+Created Apr 18, 2025
+
+Adds a drill that can mine blocks forever
+
+Garnished Stone Automation
+  By  
+DakotaPrideModding
+5.5K Downloads
+Updated Apr 29, 2025
+Created Jul 26, 2024
+
+Makes Crimsite, Veridium, Asurine, and Ochrum automatable once again using Create: Garnished
+
+Create: Mechanical Botania
+  By  
+Micaxs
+228K Downloads
+Updated Apr 29, 2025
+Created Apr 18, 2024
+
+This mod allows you to convert Botania Mana to Create Rotational Energy
+
+Create Big Cannons: Advanced Technologies
+  By  
+dsvv_modding
+202K Downloads
+Updated Apr 28, 2025
+Created Jan 15, 2025
+
+An Addon for the Create Big Cannons Mod, adding new Cannons and Mechanics
+
+Create Factory Ball
+  By  
+Kokoio
+1.3K Downloads
+Updated Apr 26, 2025
+Created Apr 21, 2025
+
+Compatibility between Cobblemon and Create
+
+Create: Crate Stuff (Broken Bad Addon)
+  By  
+ascens_but_on_curseforge
+1.2K Downloads
+Updated Apr 25, 2025
+Created Apr 25, 2025
+
+An addon to Broken Bad to provide more product storage blocks and uses.
+
+Create: Vibrant Vaults
+  By  
+ZLT
+45.9K Downloads
+Updated Apr 25, 2025
+Created Apr 25, 2025
+
+A Create mod addon that adds more item vaults.
+
+Create: Wizardry
+  By  
+thetruezeraora
+387K Downloads
+Updated Apr 24, 2025
+Created Dec 14, 2023
+
+This is an addon mod for Create adding enhanced compatibility with Iron's Spells and Spellbooks....
+
+Create: Ironworks [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+238K Downloads
+Updated Apr 23, 2025
+Created Jul 21, 2024
+
+An addon for the Create mod bringing new materials (Tin, Bronze, Steel) and related items.
+
+Create Ore Excavation Plus
+  By  
+tiestoettoet08
+155K Downloads
+Updated Apr 22, 2025
+Created Dec 11, 2022
+
+Makes it harder to get diamonds and emeralds in Create Ore Excavation and the possibility...
+
+Create Enchantment Industry Plus
+  By  
+tiestoettoet08
+58.7K Downloads
+Updated Apr 22, 2025
+Created Dec 26, 2022
+
+Adds Sacs where you can fill them with ink so you get ink sacs
+
+Create: Pillager Arise
+  By  
+SmartStreamLabs
+89.8K Downloads
+Updated Apr 22, 2025
+Created Sep 1, 2024
+
+10 new create 'mod' structures for in game! ( Defended by pillagers )
+
+Create Stuff 'N Additions
+  By  
+Furti_Two
+18.7M Downloads
+Updated Apr 21, 2025
+Created Apr 4, 2021
+
+🧲 Dominate your environment with Create technology
+
+Create: Spring Loaded
+  By  
+Blzinite
+19.3K Downloads
+Updated Apr 21, 2025
+Created Aug 23, 2024
+
+Adds a Torsion Spring Motor to release stored energy in the backtanks
+
+Create: Tinker's Compat
+  By  
+danniitv_
+40.7K Downloads
+Updated Apr 20, 2025
+Created Mar 3, 2025
+
+Make raw crushed ore meltable in smelterys. (i didnt realize this got updated, and it...
+
+Create: Originium Industry
+  By  
+Zack_ZHU
+7 Downloads
+Updated Apr 20, 2025
+Created Apr 20, 2025
+
+A story about a brand new ore - Originium, inspired by Arknights.
+
+Create more crushed ores
+  By  
+Dankest0
+255 Downloads
+Updated Apr 20, 2025
+Created Apr 20, 2025
+
+Datapack that modifies the original recipes for Create's crushed ores, making them more worthwhile to...
+
+Create Powderlogy & Illumination
+  By  
+knalli65hd
+44.3K Downloads
+Updated Apr 20, 2025
+Created Aug 5, 2022
+
+A Extended Bridge Between Create and Powder & More Remastered
+
+Create: Crafts & (More) Additions [Forge/Fabric]
+  By  
+robinfrt
+60K Downloads
+Updated Apr 20, 2025
+Created Sep 3, 2024
+
+More blocks, items and tools for Create Crafts & Additions.
+
+Create: Train Announcer
+  By  
+CEntertain
+1.1K Downloads
+Updated Apr 19, 2025
+Created Apr 19, 2025
+
+A joke addon for Create that adds a funny train announcer block.

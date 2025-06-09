@@ -1,0 +1,179 @@
+Create: Aquatic Ambitions
+  By  
+daviOliva
+318K Downloads
+Updated Apr 7, 2025
+Created Apr 19, 2024
+
+Introduces new bulk process which allows for more options for Prismarine, Coral and Copper automation!
+
+Astral Dimension Create Compats (Milling and Crushing)
+  By  
+MadSciSlack
+14.8K Downloads
+Updated Apr 7, 2025
+Created Jan 16, 2024
+
+A lightweight and simple mod to allow Astral Dimension flowers to be processed with Create...
+
+Create: Sweets & Treats (Reforged)
+  By  
+grosik
+625 Downloads
+Updated Apr 6, 2025
+Created Apr 2, 2025
+
+Unofficial version of Create: Sweets & Treats for Forge.
+
+Create: Deep Dark [Forge/NeoForge]
+  By  
+robinfrt
+153K Downloads
+Updated Apr 6, 2025
+Created May 17, 2024
+
+A Create mod addon featuring new end-game items based on the Deep Dark biome, making...
+
+Create Encased
+  By  
+iglee42
+4M Downloads
+Updated Apr 5, 2025
+Created Feb 20, 2023
+
+Allow to use all casing on shafts/cogwheels/pipes
+
+Create: Thermantics
+  By  
+Skytendo06
+553 Downloads
+Updated Apr 5, 2025
+Created Mar 31, 2025
+
+Create: Thermantics adds a player temperature system fully integrated with the Create mod.
+
+Create : Teleporters
+  By  
+Chilllliii
+3.3M Downloads
+Updated Apr 2, 2025
+Created Feb 20, 2023
+
+Create addon that adds teleporters!
+
+Create Deco
+  By  
+talrey
+21.9M Downloads
+Updated Apr 1, 2025
+Created Jul 29, 2021
+
+Industrial decoration themed around the aesthetics of the Create mod.
+
+Create: Rustic Structures [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+26.4K Downloads
+Updated Mar 31, 2025
+Created Mar 31, 2025
+
+This mod adds functional and decorative structures using Create blocks.
+
+Create: Ice & Creams
+  By  
+axollen
+1.4K Downloads
+Updated Mar 31, 2025
+Created Mar 22, 2025
+
+adds creams & ice creams to the create mod (will have more ice creams over...
+
+Create: Herbology
+  By  
+DakotaPrideModding
+3.3K Downloads
+Updated Mar 29, 2025
+Created Jan 18, 2025
+
+Integration between the Create mod and Hibernal Herbs
+
+Portal Builder: Create Edition
+  By  
+bisson2000
+1.1K Downloads
+Updated Mar 28, 2025
+Created Mar 15, 2025
+
+Allows you to make your own portals compatible with Create!
+
+Create: More Chocolate
+  By  
+drenough455
+21.3K Downloads
+Updated Mar 25, 2025
+Created Apr 21, 2024
+
+Adding more chocolate into create mod
+
+Create: Easy Structures
+  By  
+M_Productions
+906K Downloads
+Updated Mar 25, 2025
+Created Dec 11, 2023
+
+A mod that adds structures with create blocks to Minecraft
+
+Create : Creating Space
+  By  
+RealAntEngineer
+580K Downloads
+Updated Mar 24, 2025
+Created May 6, 2023
+
+Create: Creating Space is a mod that allow you to create rocket using contraptions and...
+
+Create: Creative Glue
+  By  
+Roxxane
+651 Downloads
+Updated Mar 24, 2025
+Created Mar 24, 2025
+
+Adds creative glue, which can move almost anything & only be made/destroyed by creative players
+
+Create Optical
+  By  
+lpcamors
+686K Downloads
+Updated Mar 23, 2025
+Created Apr 23, 2024
+
+Create addon all about a creative way to transport rotational energy
+
+Create: Smart Crafter
+  By  
+Tatnux
+294K Downloads
+Updated Mar 23, 2025
+Created Sep 19, 2024
+
+Add an autocrafting machine with an internal inventory that can store up to 9 different...
+
+Create: More Sand Papers
+  By  
+Dr_Mango_Tea
+51.2K Downloads
+Updated Mar 22, 2025
+Created Mar 11, 2023
+
+Adds sand paper compat with biomes o plenty and oh the biomes you'll go
+
+Create: Curios Jetpack & Backtank [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+395K Downloads
+Updated Mar 21, 2025
+Created Jul 4, 2024
+
+Use Create jetpack and backtanks in Curios/Trinkets back slot.

@@ -1,0 +1,179 @@
+Create: Apothic Enchanting
+  By  
+DragonsPlus
+667 Downloads
+Updated May 30, 2025
+Created May 30, 2025
+
+A addon for Create and Apothic Enchanting. Compat with C:EI.
+
+Ars Technica
+  By  
+zerobuncle
+1.6M Downloads
+Updated May 29, 2025
+Created Sep 3, 2024
+
+A Create-centered addon mod for Ars Nouveau
+
+CreateBarters
+  By  
+techgamingcore
+108 Downloads
+Updated May 29, 2025
+Created Sep 30, 2024
+
+A small but great datapack that adds create mod trades to piglins.
+
+Create: Ultimate Factory [Forge/Fabric/NeoForge]
+  By  
+robinfrt
+1.8M Downloads
+Updated May 29, 2025
+Created Feb 22, 2024
+
+An addon for the Create mod developed to increase automation possibilities, adding 25 (reasonably) balanced...
+
+Create: Cyber Goggles
+  By  
+ForgeStove
+9.4K Downloads
+Updated May 29, 2025
+Created Apr 2, 2025
+
+A mod that allows players to use the features of Create.
+
+Create Compression
+  By  
+flipperpanda706
+127K Downloads
+Updated May 29, 2025
+Created Dec 1, 2023
+
+Adds many compressed blocks with the theme of create
+
+Create Crafts & Additions
+  By  
+MRHminer
+65.9M Downloads
+Updated May 28, 2025
+Created Jan 25, 2021
+
+Electrifying the Create mod!
+
+The Winter Rescue: Frosted Heart
+  By  
+yuesha_yc
+344K Downloads
+Updated May 28, 2025
+Created Oct 7, 2021
+
+Survive the Blizzard, Uncover the Secret to the Great Winter, and Rekindle Humanity's Last Hope
+
+Create: Steam Powered (1.16/1.18/1.20)
+  By  
+yuesha_yc
+2.1M Downloads
+Updated May 28, 2025
+Created Oct 7, 2021
+
+Diversifying Create Mod in the Steam Age (now on 1.20/1.18)
+
+Create: Vintage
+  By  
+Blue_PHS
+5K Downloads
+Updated May 27, 2025
+Created Apr 11, 2025
+
+Much vintage, some improvements, Unofficial Port of Vintage: Improvements with Create v6 compatibility.
+
+Create Factory Logistics
+  By  
+zznty
+8.7K Downloads
+Updated May 27, 2025
+Created Mar 12, 2025
+
+Ever wondered why there are logistics packages, but no logistics jars? Let's fix this!
+
+Applied Schematicannon
+  By  
+zhichaoxi2006
+2.5K Downloads
+Updated May 27, 2025
+Created May 20, 2025
+
+a simple mod let Schematicannon can extract item from ME Network
+
+ChaosZPack [Lost Cities] Better Cities / Zombie Apocalypse / Abandoned Structures / TacZ
+  By  
+ChaosCraft_HD
+39.1K Downloads
+Updated May 27, 2025
+Created Mar 17, 2025
+
+A Mod made for adding more structures into Lostcities
+
+Create : Arm-made Barbeque
+  By  
+P1nero
+1.4K Downloads
+Updated May 27, 2025
+Created May 27, 2025
+
+Make Mechanical Arm interacting with Grill and Basin from BBQ Delight.
+
+Create: Ore Processing
+  By  
+laptoppunk
+131 Downloads
+Updated May 27, 2025
+Created May 27, 2025
+
+Adds new processing chains for vanilla ores.
+
+Create: Pattern Schematics
+  By  
+CakeIsTastyDeveloper
+1.1M Downloads
+Updated May 26, 2025
+Created Jul 27, 2024
+
+Build with repeating schematics!
+
+Create: Extra Gauges
+  By  
+LiukRast
+7K Downloads
+Updated May 26, 2025
+Created May 11, 2025
+
+A Create child library + mod incentrated on Factory Gauges
+
+Sophisticated Backpacks Create Integration
+  By  
+P3pp3rF1y
+904K Downloads
+Updated May 26, 2025
+Created Apr 8, 2025
+
+Sophisticated Backpacks on create contraptions
+
+Sophisticated Storage Create Integration
+  By  
+P3pp3rF1y
+1M Downloads
+Updated May 26, 2025
+Created Mar 24, 2025
+
+Full Featured Sophisticated Storage on Create Contraptions
+
+Create Cogs Invaders
+  By  
+Lalusko
+2K Downloads
+Updated May 26, 2025
+Created Apr 15, 2025
+
+New invading automatons will compete with you for resources

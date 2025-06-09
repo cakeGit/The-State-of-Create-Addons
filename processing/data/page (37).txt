@@ -1,0 +1,179 @@
+Create: Diesel Generators [Fabric]
+  By  
+MrSterner_
+272K Downloads
+Updated May 11, 2024
+Created Aug 25, 2023
+
+A mod that adds Diesel Generators to the create mod.
+
+Create Deco Fabric
+  By  
+talrey
+3.6M Downloads
+Updated Apr 26, 2024
+Created Dec 17, 2022
+
+Industrial decoration themed around the aesthetics of the Create mod.
+
+Liquid Burner
+  By  
+Ferri_Arnus
+163K Downloads
+Updated Apr 11, 2024
+Created Nov 23, 2022
+
+Makes the Create Blaze Burners Accept liquids
+
+Create: Basic Additions
+  By  
+SpokenWig620933
+94.6K Downloads
+Updated Apr 5, 2024
+Created Jan 10, 2023
+
+Basic additions to the Create mod.
+
+Create: Netherless (Fabric)
+  By  
+Mlodziak00
+18.5K Downloads
+Updated Apr 4, 2024
+Created Mar 11, 2024
+
+A Create Add-on that allows you to gather Nether resources without the need of the...
+
+Create: Extended Cogwheels Fabric
+  By  
+Rabbitminers
+1.7M Downloads
+Updated Apr 2, 2024
+Created Jan 21, 2023
+
+A small mod to add more cog types to create fabric
+
+Create: Switzerland
+  By  
+HackFight
+853 Downloads
+Updated Mar 14, 2024
+Created Feb 29, 2024
+
+A Create mod addon that adds Swiss stuff such as better chocolate.
+
+Create: Enchantment Industry - Fabric
+  By  
+DragonsPlus
+1.8M Downloads
+Updated Mar 9, 2024
+Created Jun 16, 2023
+
+Automatic Enchanting, with Create.
+
+Create Sandpaper Overhaul
+  By  
+tiny_ghasto
+28.4K Downloads
+Updated Jan 11, 2024
+Created Aug 10, 2023
+
+A addon to the amazing Create Mod that adds more variations of sandpapers. Currently, the...
+
+CC:C Bridge
+  By  
+Sammy_echt
+6.6M Downloads
+Updated Nov 13, 2023
+Created Aug 5, 2022
+
+Adds compatibility between CC: Tweaked and Create through more peripherals!
+
+Craftable Create Casings (Forge/Fabric)
+  By  
+Lord_Of_Crumbs
+136K Downloads
+Updated Nov 11, 2023
+Created Nov 10, 2023
+
+Adds a recipe for Create's casings just in case-ing you need it.
+
+Saro´s Create [Fabric/Quilt]
+  By  
+Sarocesch
+25.5K Downloads
+Updated Nov 7, 2023
+Created Mar 6, 2023
+
+An Addon For The Mod Create Adds New Recipes
+
+Expanding Technologies
+  By  
+curryducker
+71.2K Downloads
+Updated Oct 24, 2023
+Created Jul 5, 2023
+
+Expanding Technologies is an addon that expands the Create mod with new features!
+
+Chronost Foods [Fabric]
+  By  
+moxg
+378 Downloads
+Updated Oct 5, 2023
+Created Aug 18, 2023
+
+Adds foods using various mods for fabric and custom foods
+
+Create Decoration Casing
+  By  
+TheLynkYT
+681K Downloads
+Updated Oct 1, 2023
+Created Dec 28, 2022
+
+Add more decoration block for Minacraft and Create Mod
+
+Create: Mixin mob and drops
+  By  
+SmiteGee
+33 Downloads
+Updated Sep 20, 2023
+Created Sep 2, 2023
+
+Mixing mob drops
+
+CreateFabric&REIBugFix
+  By  
+TexTrue
+1.2M Downloads
+Updated Sep 12, 2023
+Created Apr 6, 2023
+
+Fix CreateFabric Recipe display on REI issues.
+
+CreateDPCompat
+  By  
+Misigno
+2.5K Downloads
+Updated Aug 31, 2023
+Created Aug 31, 2023
+
+Compatibility mod between Create-Fabric and Datapack Portals. Enables trains to go through custom portals to...
+
+Create Chunkloading
+  By  
+embeddedt
+7.1M Downloads
+Updated Aug 6, 2023
+Created Jun 14, 2021
+
+Adds a chunkloader block that works with Create
+
+Create: Foundry
+  By  
+CommanderT3706
+18.8K Downloads
+Updated Jul 3, 2023
+Created Jun 11, 2023
+
+Use your Create skills and machines to create the ultimate ore processor!

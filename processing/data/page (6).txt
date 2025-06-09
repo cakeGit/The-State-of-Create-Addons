@@ -1,0 +1,179 @@
+Create: Limited Draining
+  By  
+JasdewStarfield
+469 Downloads
+Updated May 17, 2025
+Created May 17, 2025
+
+A Create addon that allows you to control the biomes to drain certain fluids infinitely.
+
+Create: Sound of Steam
+  By  
+finchymcfinch
+117K Downloads
+Updated May 17, 2025
+Created Feb 8, 2025
+
+A Create addon that adds pipe organs!
+
+Create: Escalated
+  By  
+rbasamoyai
+76.5K Downloads
+Updated May 16, 2025
+Created May 6, 2025
+
+Bringing you to higher places in your Create mod builds
+
+Create: Compatible Storage
+  By  
+Dadamalda
+4.6K Downloads
+Updated May 16, 2025
+Created Apr 20, 2025
+
+Having issues with Quark's chests on Create contraptions? This mod fixes them.
+
+Create: Cobblemon Balls Overhaul
+  By  
+xKcinnay
+7.4K Downloads
+Updated May 15, 2025
+Created Apr 30, 2025
+
+Addon for Create and Cobblemon that balance and add recipes for Cobblemon balls to work...
+
+Create: Classic Blaze Enchanter
+  By  
+DragonsPlus
+2.4K Downloads
+Updated May 15, 2025
+Created Apr 14, 2025
+
+Bring Classic Blaze Enchanter of Legacy Create: Enchantment Industry back to C:EI 2.+
+
+Create:Entity Control
+  By  
+Pink_Cats
+524 Downloads
+Updated May 15, 2025
+Created May 1, 2025
+
+A simple Create attachment that enables custom block entity configurations and can be configured to...
+
+Create: Direct Chute
+  By  
+LiukRast
+703 Downloads
+Updated May 14, 2025
+Created May 6, 2025
+
+Adds a new chute to create mod
+
+Create: Packagers PSI Compat
+  By  
+LiukRast
+3.4K Downloads
+Updated May 14, 2025
+Created May 6, 2025
+
+Allows Create packagers to interact with PSI (Portable storage interfaces)
+
+Create: Tramways
+  By  
+C1200
+10.2K Downloads
+Updated May 13, 2025
+Created Nov 2, 2024
+
+Create: Tramways adds a bunch of tram-related features.
+
+Create Vampirism
+  By  
+JoGamer207
+5.1K Downloads
+Updated May 13, 2025
+Created Apr 8, 2025
+
+A Create mod for Vampirism
+
+Create:Fluid Stuffs
+  By  
+moepus
+6.4K Downloads
+Updated May 13, 2025
+Created Dec 30, 2024
+
+A Create Addon adds some fluid stuffs
+
+Create: Enhanced Mastery
+  By  
+AepheraStudios
+735 Downloads
+Updated May 12, 2025
+Created May 12, 2025
+
+Integration Layer between Create and Iron's Spells n' Spellbooks.
+
+Create: Liquid Fuel
+  By  
+Forsteri123
+2.9M Downloads
+Updated May 12, 2025
+Created Mar 22, 2023
+
+Pump in liquid fuel to blaze burners
+
+Create: Clothes
+  By  
+CeoOfGoogle1
+3.8K Downloads
+Updated May 12, 2025
+Created May 9, 2025
+
+PRIMARILY ADDS MILITARY UNIFORMS but also other clothes
+
+EMI: Create Schematics
+  By  
+LiukRast
+128K Downloads
+Updated May 12, 2025
+Created Nov 20, 2023
+
+Add schematic items to EMI Favourites list
+
+Create: Chimneys
+  By  
+FuriusMaximus
+90.1K Downloads
+Updated May 11, 2025
+Created Jul 4, 2024
+
+Adds chimneys with smoke particles for the trains from the Create mod.
+
+Iris & Oculus Flywheel Compat
+  By  
+leon_mout
+25.1M Downloads
+Updated May 11, 2025
+Created Aug 15, 2022
+
+Enable Flywheel's optimizations when use shaders.
+
+Master of Machinery
+  By  
+CatfishPhasma
+548 Downloads
+Updated May 10, 2025
+Created Feb 23, 2025
+
+A mod for a specific server, although it probably can be used on its own.
+
+Create: Better Villager
+  By  
+Reggarf
+409K Downloads
+Updated May 10, 2025
+Created Sep 24, 2024
+
+Create: Better Villager that adds a host of Create-mod villager professions | Forge/Neoforge and...

@@ -1,0 +1,149 @@
+The Temple Of Kakayaya
+  By  
+AlignedCookie88
+243 Downloads
+Updated Feb 5, 2022
+Created Feb 5, 2022
+
+Explore the mysterious temple, while watching out for traps, and looking for something...
+
+Parkour Universe
+  By  
+the_buildy_bunch
+8K Downloads
+Updated Dec 18, 2021
+Created May 18, 2021
+
+Very hard and long parkour map using Create
+
+PonderJS
+  By  
+kotakotik22
+4.7M Downloads
+Updated Dec 12, 2021
+Created Aug 29, 2021
+
+Allows creating ponder scenes and tags with Kubejs
+
+Create Automated
+  By  
+kotakotik22
+648K Downloads
+Updated Dec 3, 2021
+Created Jul 23, 2021
+
+Automate your Create factory with new machines!
+
+Create Gears
+  By  
+kotakotik22
+1.1M Downloads
+Updated Dec 3, 2021
+Created Jun 26, 2021
+
+Adds shaftless blocks to Create, like gears!
+
+FactoriOres Reforked
+  By  
+ajaxo_
+4.1K Downloads
+Updated Nov 13, 2021
+Created Nov 13, 2021
+
+Updated/Maintained Port of FactoriOres to Forge
+
+More Create Stuffs
+  By  
+JerryLu086
+1.2M Downloads
+Updated Sep 5, 2021
+Created Feb 9, 2021
+
+Adds some recipes and items to Create related to other mods.
+
+Cogwheel Tweaker
+  By  
+Grimmauld
+11.2K Downloads
+Updated Jul 27, 2021
+Created Apr 3, 2021
+
+Add Create cogwheels with contenttweaker
+
+Skyland Utils
+  By  
+ruifengx
+47 Downloads
+Updated Jul 26, 2021
+Created Jul 26, 2021
+
+Utilities for skylands survival with TiC 3 and Create 0.3.
+
+Filler
+  By  
+Galaxy3056
+281 Downloads
+Updated Jun 8, 2021
+Created Jun 8, 2021
+
+Filler is a smaller mod for fixing modpacks and integrating mods with each other.
+
+Boat Contraptions [Create Addon]
+  By  
+sashafiesta
+85.3K Downloads
+Updated Apr 25, 2021
+Created Mar 15, 2021
+
+This mod allows you to make boat contraptions with the Create mod
+
+Create Addon: Thermal Expansion Alloys
+  By  
+sconedb
+1.8K Downloads
+Updated Apr 4, 2021
+Created Apr 4, 2021
+
+Lets players create Thermal's alloys in a Create-friendly way.
+
+Create Addon: Mekanism Alloys
+  By  
+sconedb
+3.3K Downloads
+Updated Apr 4, 2021
+Created Apr 4, 2021
+
+Adds the ability to process and create Mekanism's alloys in a Create-friendly way.
+
+Create Integration
+  By  
+Grimmauld
+307K Downloads
+Updated Jun 10, 2020
+Created May 8, 2020
+
+Mod to get FE and Create together
+
+Rotate
+  By  
+ProfessorAkaChris
+2 Downloads
+Created Aug 2, 2023
+
+Rotate is a Rotarycraft inspired Create addon
+
+Create: Blood is Fuel!
+  By  
+Electrisoma
+18 Downloads
+Created Mar 8, 2025
+
+Create: Blood is Fuel! Lets you process mobs and food into fuel!
+
+cbot bc
+  By  
+Vol1t
+5.5K Downloads
+Created Apr 28, 2025
+
+cbot port
