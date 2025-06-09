@@ -2,15 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The State of Create mods</title>
+    <title>State of Create</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
+            font-family: monospace, Arial, sans-serif;
             background: #fafafa;
             color: #222;
+            margin: 0;
+        }
+        #content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1rem;
         }
         img {
             max-width: 100%;
@@ -32,99 +35,168 @@
             padding: 2px 4px;
             border-radius: 3px;
         }
+        .dim {
+            color: #00000066;
+            font-style: italic;
+        }
+        #create_title {
+            color: #2167a0;
+        }
+        #title_header {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding: 8rem 1rem;
+            position: relative;
+            color: #1a3e5b;
+        }
+        #title_header h1 {
+            margin: 0;
+            font-size: 5rem;
+            opacity: 0.9;
+            font-weight: bolder;
+        }
+        #glCanvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #f0f0f0;
+            color: #555;
+            font-size: 0.9rem;
+        }
     </style>
 </head>
 <body>
-    <h1>(Curseforge) The state of create mods</h1>
+    <div id="title_header">
+        <canvas id="glCanvas"></canvas>
+        <script src="shader.js"></script>
+        <h1 style="margin:0;">The State of <span id="create_title">Create</span></h1>
+        <span class="dim">A statistical analysis of Create's ecosystem</span>
+    </div>
+    <div id="content">
+        <h1>Introduction</h1>
 
-    <h2>25% of downloads are attributed to just 5 mods</h2>
-    <img src="./images/downloads_by_mod_pie.png" alt="Downloads by mod pie chart">
+        <p>
+            Good day, and welcome to my boredom project.
+            <br/></br>
+            This is a collection of data and analysis of the Create mod's ecosystem, specifically anything that has Create, or Create Fabric listed as a dependency on Curseforge.
+            <br/>
+            The data is sourced from Curseforge (collected 09/06/2025), and is intended to be a snapshot of the current state of Create's modding community.
+        <p></p>
 
-    <p>
-        The 3 mods are: Crafts and Additions, Steam and Rails, Slice 'n' Dice. The other two are compat mods: Create Kube.JS, and Iris &amp; Oculus support.
-    </p>
+        <h2>25% of downloads are attributed to just 5 mods</h2>
+        <img src="./images/downloads_by_mod_pie.png" alt="Downloads by mod pie chart">
 
-    <p>Here is a clearer list of a top section of mods:</p>
-    <img src="./images/downloads_by_mod_bar.png" alt="Downloads by mod bar chart">
+        <p>
+            The 3 mods are: Crafts and Additions, Steam and Rails, Slice 'n' Dice. The other two are compat mods: Create Kube.JS, and Iris &amp; Oculus support.
+        </p>
 
-    <h2>25% of downloads are attributed to just 3 authors</h2>
-    <img src="./images/downloads_by_author_pie.png" alt="Downloads by author pie chart">
+        <p>Here is a clearer list of a top section of mods:</p>
+        <img src="./images/downloads_by_mod_bar.png" alt="Downloads by mod bar chart">
 
-    <p>
-        The big 3: MRHminer (1 mod), possible_triangle (2 mods), IThundxr (3 mods).
-    </p>
+        <h2>25% of downloads are attributed to just 3 authors</h2>
+        <img src="./images/downloads_by_author_pie.png" alt="Downloads by author pie chart">
 
-    <p>Top ~50 authors (total download count):</p>
-    <img src="./images/downloads_by_author_bar.png" alt="Downloads by author bar chart">
-    <p>I'm 44th :)</p>
+        <p>
+            The big 3: MRHminer (1 mod), possible_triangle (2 mods), IThundxr (3 mods).
+        </p>
 
-    <h2>DragonsPlus is the number one modder by download performance!</h2>
-    <p>
-        Here is now the authors, but associated with their rates of download rather than accumulated downloads:
-    </p>
-    <img src="./images/downloads_rate_by_author_pie.png" alt="Downloads rate by author pie chart">
+        <p>Top ~50 authors (total download count):</p>
+        <img src="./images/downloads_by_author_bar.png" alt="Downloads by author bar chart">
+        <p>I'm 44th :)</p>
 
-    <p>
-        Here again you can see there is actually quite a large gap between DragonsPlus and the next highest modder (IThundxr)
-    </p>
-    <img src="./images/downloads_rate_by_author_bar.png" alt="Downloads rate by author bar chart">
+        <h2>DragonsPlus is the number one author by download performance!</h2>
+        <p>
+            Here is now the authors, but associated with their rates of download rather than accumulated downloads:
+        </p>
+        <img src="./images/downloads_rate_by_author_pie.png" alt="Downloads rate by author pie chart">
 
-    <h3>Who the hell is robinfrt!?</h3>
-    <p>No clue, but they own 16 (16!!) mods:</p>
-    <ul>
-        <li>Create: Deep Dark [Forge/NeoForge]</li>
-        <li>Create: Rustic Structures [Forge/Fabric/NeoForge]</li>
-        <li>Create: Curios Jetpack &amp; Backtank [Forge/Fabric/NeoForge]</li>
-        <li>Create: Cheese Factory [Forge/NeoForge]</li>
-        <li>Create: Peaceful [Forge/Fabric/NeoForge]</li>
-        <li>Create: Ranged [Forge/Fabric/NeoForge]</li>
-        <li>Create: Simple Ore Doubling [Forge/Fabric/NeoForge]</li>
-        <li>Create: Easy Stone Generators [Forge/Fabric/NeoForge]</li>
-        <li>Create: Copper &amp; Zinc [Forge/Fabric/NeoForge]</li>
-        <li>Create: Ultimate Factory [Datapack]</li>
-        <li>Create: Copper &amp; Zinc [Datapack]</li>
-        <li>Create: Enlightend [Forge/NeoForge]</li>
-        <li>Create: Ultimate Factory [Forge/Fabric/NeoForge]</li>
-        <li>Create: Ironworks [Forge/Fabric/NeoForge]</li>
-        <li>Create: Crafts &amp; (More) Additions [Forge/Fabric]</li>
-        <li>Create: Winery [Forge/NeoForge]</li>
-    </ul>
-    <p>Wow, what a guy!</p>
+        <p>
+            Here again you can see there is actually quite a large gap between DragonsPlus and the next highest modder (IThundxr)
+        </p>
+        <img src="./images/downloads_rate_by_author_bar.png" alt="Downloads rate by author bar chart">
 
-    <h2>Mods by download rates</h2>
-    <img src="./images/download_rate_by_mod.png" alt="Download rate by mod">
+        <p>
+            Clearly a much better metric, as im 22nd.
+            <br/>
+            This is where <b>I crown the members of DragonsPlus the monarchs of Create modding</b>, since this is probably the best metric cause of it's measure of performance rather than just total downloads.
+        </p>
 
-    <p>
-        Quite similar to the mods by total download counts, but it is a bit more even, also clearly shows Steam 'n' Rails and Crafts and Additions to be the 2 main downloaded mods.
-    </p>
+        <h3>Also, who the hell is robinfrt!?</h3>
+        <p>No clue, but they own 16 (16!!) mods:</p>
+        <ul>
+            <li>Create: Deep Dark [Forge/NeoForge]</li>
+            <li>Create: Rustic Structures [Forge/Fabric/NeoForge]</li>
+            <li>Create: Curios Jetpack &amp; Backtank [Forge/Fabric/NeoForge]</li>
+            <li>Create: Cheese Factory [Forge/NeoForge]</li>
+            <li>Create: Peaceful [Forge/Fabric/NeoForge]</li>
+            <li>Create: Ranged [Forge/Fabric/NeoForge]</li>
+            <li>Create: Simple Ore Doubling [Forge/Fabric/NeoForge]</li>
+            <li>Create: Easy Stone Generators [Forge/Fabric/NeoForge]</li>
+            <li>Create: Copper &amp; Zinc [Forge/Fabric/NeoForge]</li>
+            <li>Create: Ultimate Factory [Datapack]</li>
+            <li>Create: Copper &amp; Zinc [Datapack]</li>
+            <li>Create: Enlightend [Forge/NeoForge]</li>
+            <li>Create: Ultimate Factory [Forge/Fabric/NeoForge]</li>
+            <li>Create: Ironworks [Forge/Fabric/NeoForge]</li>
+            <li>Create: Crafts &amp; (More) Additions [Forge/Fabric]</li>
+            <li>Create: Winery [Forge/NeoForge]</li>
+        </ul>
+        <p>Wow, what a guy!</p>
 
-    <h2>Mods by download performance against their actual download counts</h2>
-    <img src="./images/download_rate_against_downloads.png" alt="Download rate by author">
+        <h2>Mods by download rates</h2>
+        <img src="./images/download_rate_by_mod.png" alt="Download rate by mod">
 
-    <p>
-        While there are many breakthroughs, few of the highest performing mods are new, which is to be expected since as the way I see it, the 'promotion loop' forms a significant portion of downloads for these mods (where more downloaded mods show up higher in listings and are in turn downloaded more), rather than just the contributions from modpack inclusions.
-    </p>
+        <p>
+            Quite similar to the mods by total download counts, but it is a bit more even, also clearly shows Steam 'n' Rails and Crafts and Additions to be the 2 main downloaded mods.
+        </p>
 
-    <h2>Conclusions</h2>
-    <p>
-        I'm going to lock in and produce the coolest mod ever just you wait im going to be NUMBER ONE.
-    </p>
+        <h2>Mods by download performance against their actual download counts</h2>
+        <img src="./images/download_rate_against_downloads.png" alt="Download rate by author">
 
-    <h2>Biases</h2>
-    <p>
-        Because all of this data is sourced from Curseforge there are some important biases to note:
-    </p>
-    <ul>
-        <li>Mods that are included in modpacks are significantly more downloaded</li>
-        <li>More technical mods (such as my own, pattern schematics) perform worse than more general mods (like trading floor) on modrinth rather than curseforge</li>
-        <li>Some mods might be missing, of the massive sample I was able to collect, it's likely that some mods were missing a dependency on create and therefore weren't counted</li>
-    </ul>
+        <p>
+            While there are many breakthroughs, few of the highest performing mods are new (where they perform better in comparison to their downloads), which is to be expected since as the way I see it, the 'promotion loop' forms a significant portion of downloads for these mods (where more downloaded mods show up higher in listings and are in turn downloaded more), rather than just the contributions from modpack inclusions.
+            <br/>
+            In other words, people prefer to download mods that are already popular and that they know, because these are most likley the ones they've played with before.
+        </p>
 
-    <h1>Data Spreadsheet</h1>
-    <p>
-        <a href="https://docs.google.com/spreadsheets/d/1LioDgjSDE3QhZP1XjE8diui8SueDdx2Em7WNZxLupT4/edit?usp=sharing" target="_blank">
-            Google docs spreadsheet
-        </a>
-    </p>
+        <h2>Conclusions</h2>
+        <p>
+            I'm going to lock in and produce the coolest mod ever just you wait im going to be NUMBER ONE,
+            <br/>
+            In all seriousness, this data is very interesting, and I hope to see how this may change over time (if I remember to update this page).
+        </p>
+
+        <h2>Note on Biases</h2>
+        <p>
+            Because all of this data is sourced from Curseforge there are some important biases to note:
+        </p>
+        <ul>
+            <li>Mods that are included in modpacks are significantly more downloaded</li>
+            <li>More technical mods (such as my own, pattern schematics) perform worse than more general mods (like trading floor) on modrinth rather than curseforge</li>
+            <li>Some mods might be missing, of the massive sample I was able to collect, it's likely that some mods were missing a dependency on create and therefore weren't counted</li>
+        </ul>
+
+        <h1>Data Spreadsheet</h1>
+        <p>
+            Avaliable here on
+            <a href="https://docs.google.com/spreadsheets/d/1LioDgjSDE3QhZP1XjE8diui8SueDdx2Em7WNZxLupT4/edit?usp=sharing" target="_blank">google sheets</a>
+            This has 633 mods collected from Curseforge, with their download counts, authors, and other data compiled into this (excluding charts which were made in a seperate excel sheet).
+            <br/>
+            See the
+            <a href="https://github.com/cakeGit/The-State-of-Create-Addons">github repository</a> for the code used to collect this data.
+        </p>
+    </div>
+    <footer>
+        <p>
+            Made by <a href="https://github.com/cakeGit">cakeGit</a> with ❤️ and boredom.
+        </p>
+    </footer>
 </body>
 </html>
